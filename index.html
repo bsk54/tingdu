@@ -1,6 +1,37 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en" data-theme="">
 <head>
+<!--************************************************************************************************************-->
+<!--*************************************************** TingDu *************************************************-->
+<!--*********************************************** Version 1.01 ***********************************************-->
+<!--********************************************** September 8, 2025 *******************************************-->
+<!--************************************************************************************************************-->
+<!--************************************************************************************************************-->
+<!--*************************************************** TingDu *************************************************-->
+<!--*********************************************** Version 1.00 ***********************************************-->
+<!--********************************************** September 7, 2025 *******************************************-->
+<!--************************************************************************************************************-->
+<!---------------------------------------------------------------------------------------------------------------->
+<!------------------------------------- Code by: Bernd Sebastian Kamps ------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------->
+<!-- Description: TingDu is a single-page “triplet” audio player for Chinese study. It offers                    --> 
+<!-- Pleco button (“P”) for each Chinese sentence.                                                          -->
+<!--                                                                                                              -->
+<!-- Playback & Navigation                                                                                        -->
+<!-- • Two modes: Loop (repeat the active snippet) / Cont. (plays continuously across snippets).                  -->
+<!-- • Speed toggle: 1.0 → 0.75 → 0.5.                                                                            -->
+<!-- • Pause-between-repeats: 0–5 seconds (per-loop gap when in Loop mode).                                       -->
+<!--                                                                                                              -->
+<!-- Keyboard                                                                                                     -->
+<!-- • Space = Play/Pause; ↑/↓ = Prev/Next snippet.                                                               -->
+<!--************************************************************************************************************-->
+<!-- Repository: https://github.com/bsk54/tingdu ----------------------------------->
+<!-- GitHub Web: (https://bsk54.github.io/tingdu/index.html ----------------------------------->
+
+<!-- Web site: https://aiopop.com/tingdu ---------------------------------------->
+<!--************************************************************************************************************-->
+
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>TingDu</title>
@@ -271,14 +302,20 @@
     <footer>
       <p>© 2025 <a href="https://bsk1.com" target="_blank">BSK</a> ·
          <a href="privacy.html" target="_blank">Privacy</a> ·
-         <a href="https://github.com/" target="_blank">GitHub</a></p>
+         <a href="https://bsk54.github.io/tingdu/index.html" target="_blank">GitHub</a></p>
     </footer>
   </div>
 
   <script>
     /* ========= PRESET COLLECTIONS ========= */
     const PRESETS = [
-      { json: 'Forever_and_Ever_EP01_triplets.json', audio: 'Forever and Ever EP01.mp3' }
+      { json: 'Forever_and_Ever_EP01_triplets.json', audio: 'Forever and Ever EP01.mp3' },
+      { json: 'Forever_and_Ever_EP02_triplets.json', audio: 'Forever and Ever EP02.mp3' },
+      { json: 'Forever_and_Ever_EP03_triplets.json', audio: 'Forever and Ever EP03.mp3' },
+      { json: 'Forever_and_Ever_EP04_triplets.json', audio: 'Forever and Ever EP04.mp3' },
+      { json: 'Forever_and_Ever_EP05_triplets.json', audio: 'Forever and Ever EP05.mp3' },
+      { json: 'Forever_and_Ever_EP06_triplets.json', audio: 'Forever and Ever EP06.mp3' },
+      { json: 'Forever_and_Ever_EP07_triplets.json', audio: 'Forever and Ever EP07.mp3' }
 
     ];
 
