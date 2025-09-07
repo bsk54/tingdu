@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="">
+<head>
+<!--************************************************************************************************************-->
+<!--*************************************************** TingDu *************************************************-->
+<!--*********************************************** Version 1.01 ***********************************************-->
+<!--********************************************** September 8, 2025 *******************************************-->
+<!--************************************************************************************************************-->
+<!--************************************************************************************************************-->
+<!--*************************************************** TingDu *************************************************-->
+<!--*********************************************** Version 1.00 ***********************************************-->
+<!--********************************************** September 7, 2025 *******************************************-->
+<!--************************************************************************************************************-->
+<!---------------------------------------------------------------------------------------------------------------->
+<!------------------------------------- Code by: Bernd Sebastian Kamps ------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------->
+<!-- Description: TingDu is a single-page “triplet” audio player for Chinese study. It offers                    --> 
+<!-- Pleco button (“P”) for each Chinese sentence.                                                          -->
+<!--                                                                                                              -->
+<!-- Playback & Navigation                                                                                        -->
+<!-- • Two modes: Loop (repeat the active snippet) / Cont. (plays continuously across snippets).                  -->
+<!-- • Speed toggle: 1.0 → 0.75 → 0.5.                                                                            -->
+<!-- • Pause-between-repeats: 0–5 seconds (per-loop gap when in Loop mode).                                       -->
+<!--                                                                                                              -->
+<!-- Keyboard                                                                                                     -->
+<!-- • Space = Play/Pause; ↑/↓ = Prev/Next snippet.                                                               -->
+<!--************************************************************************************************************-->
+<!-- Repository: https://github.com/bsk54/tingdu ----------------------------------->
+<!-- GitHub Web: (https://bsk54.github.io/tingdu/index.html ----------------------------------->
+
+<!-- Web site: https://aiopop.com/tingdu ---------------------------------------->
+<!--************************************************************************************************************-->
+
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>TingDu</title>
+  <link rel="icon" href="data:,">
+  <style>
+    /* ===== Theme tokens (light/dark) ===== */
+    :root{
+      --bg: #f4f6fb;
+      --card: #ffffff;
+      --text: #1f2b3a;
+      --text-dim: #5b6b82;
+      --tone1:#ff4c4c; --tone2:#ffc107; --tone3:#2196f3; --tone4:#4caf50;
+      --shadow: 0 10px 30px rgba(0,0,0,.15);
+      --border: #e7eaf0;
+      --muted: #eef1f7;
+
+      --fs: 18px;               /* content base font size (live) */
+      --puck-size: 44px;        /* blue handle */
+      --ybtn-size: 80px;        /* yellow floating button (your updated value) */
+      --subhdr-fs: 12px;        /* subheader font-size for controls */
+    }
+    [data-theme="dark"]{
+      --bg:#101317;
+      --card:#161b22;
+      --text:#e5ecf5;
+      --text-dim:#9fb0c9;
+      --shadow: 0 10px 30px rgba(0,0,0,.6);
+      --border:#2a3340;
+      --muted:#1d2330;
+    }
+
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Inter, Arial, "Noto Sans",
+                   "PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: var(--fs);
+    }
+
+    .app{
+      max-width: 940px; margin: 0 auto;
+      display:flex; flex-direction:column; min-height:100vh;
+      position: relative;
+    }
+
+    /* ===== Header (minimal, gradient) ===== */
+    header{
+      position: sticky; top:0; z-index:1000;
+      color:#fff;
+      background: linear-gradient(120deg,var(--tone1),var(--tone2),var(--tone3),var(--tone4));
+      background-size: 300% 300%;
+      animation: grad 15s ease infinite;
+      box-shadow: var(--shadow);
+    }
+    @keyframes grad{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+    .hdr-inner{
+      display:flex; align-items:center; justify-content:space-between;
+      padding: 8px 12px;
+    }
+    .brand{
+      font-weight: 200;
+      font-size: 20px;
+      letter-spacing: .3px;
+    }
+    .hamburger{
+      border:none; background: #ffffff22; cursor:pointer;
+      width:40px; height:40px; border-radius:10px; font-size: 1.2rem;
+      display:grid; place-items:center; color: #fff;
+      border: 1px solid #ffffff55;
+    }
+    .hamburger:hover{ background: #ffffff33; }
+
+    /* ===== Menu (dropdown) ===== */
+    .menu{
+      position: absolute; right: 12px; top: 58px; width: 300px;
+      background: var(--card); border:1px solid var(--border);
+      border-radius: 12px; box-shadow: var(--shadow); display:none; padding:.6rem;
+      z-index: 1400;
+      color: var(--text);
+    }
+    .menu.show{ display:block; }
+    .menu h4{ margin:.4rem 0 .25rem; font-size:.95rem; color:var(--text-dim) }
+    .menu .row-line{ display:flex; align-items:center; justify-content:space-between; gap:.5rem; padding:.35rem 0; }
+    .menu .mini{ font-size:.85rem; color:var(--text-dim) }
+    .menu input[type="range"]{ width: 160px; }
+
+    /* ===== Subheader: controls + audio bar ===== */
+    .subhdr{
+      display:flex; flex-direction:column; gap:.25rem;
+      padding: 6px 8px;
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      font-size: var(--subhdr-fs);
+      color: var(--text);
+    }
+    .row{
+      display:flex; align-items:center; gap:.3rem;
+      flex-wrap: nowrap;
+    }
+    select, button, input[type="checkbox"]{ font: inherit; }
+    .source-select{
+      width: 35vw; min-width: 160px; max-width: 420px;
+      padding:.25rem .45rem; border-radius:8px; border:1px solid var(--border);
+      background: var(--muted); color: var(--text); outline: none;
+      font-size: var(--subhdr-fs);
+    }
+    .btn{
+      border:none; border-radius:8px; padding:.25rem .45rem; cursor:pointer;
+      background: #2196f3; color:#fff; box-shadow: 0 4px 10px rgba(33,150,243,.18);
+      font-size: var(--subhdr-fs);
+      line-height: 1; height: 24px; display:inline-flex; align-items:center; justify-content:center;
+      min-width: 32px;
+    }
+    .btn:hover{ filter: brightness(1.05) }
+    .btn.ghost{ background: transparent; color: var(--text); border:1px solid var(--border) }
+    .btn.secondary{ background: #ff7a59; box-shadow: 0 4px 10px rgba(255,122,89,.2) }
+
+    /* Native audio: visible, normal height, 12px labels/icons */
+    audio{
+      width:100%;
+      font-size: 12px;   /* symbols & time text */
+      line-height: 1.2;
+    }
+
+    /* ===== Content list ===== */
+    main{ flex:1; padding: 10px 12px; position: relative; }
+    .item{
+      border-radius:12px; padding:.6rem .75rem; margin:.3rem 0;
+      border:1px solid var(--border); background: var(--card);
+      cursor: pointer;
+    }
+    .item:hover{ outline: 2px solid rgba(33,150,243,.18); }
+    .item.current{ background: linear-gradient(90deg, #e3f2fd66, transparent); border-color:#bbdefb; }
+    [data-theme="dark"] .item.current{ background: linear-gradient(90deg, #263247aa, transparent); border-color:#3a4a69; }
+
+    .num{ font-size:.85rem; color: var(--text-dim); margin-bottom:.1rem; }
+    .line{ display:flex; align-items:baseline; gap:.4rem; flex-wrap:wrap; }
+    .zh{ font-size: calc(var(--fs) + 4px); line-height:1.35; font-weight: 400; } /* NEVER BOLD; +4px over base */
+    .py{ font-size: var(--fs); color: var(--text-dim); font-style: italic; margin:.15rem 0 .1rem; }
+    .en{ font-size: var(--fs); color: var(--text); }
+
+    /* Pleco button */
+    .pleco-button{
+      margin-left: .25rem;
+      padding: 0 6px; height: 22px;
+      background: #fcfcfc;
+      color: #0066aa;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.8em;
+      cursor: pointer;
+    }
+    .pleco-button:hover{ background:#eef7ff; }
+
+    /* ===== Puck (BLUE) ===== */
+    .puck{
+      position: fixed;
+      right: 10px;
+      width: var(--puck-size); height: var(--puck-size);
+      background: #e3f2fd;
+      border: 1px solid #b6d5f5;
+      box-shadow: 0 8px 24px rgba(33,150,243,.33);
+      border-radius: 12px;
+      display:flex; align-items:center; justify-content:center;
+      user-select: none;
+      cursor: grab;
+      z-index: 1500;          /* higher than yellow button so it has priority */
+      touch-action: none;     /* mobile drag */
+    }
+    .puck:active{ cursor: grabbing; }
+    .puck-label{ font-size:.8rem; color:#0d47a1; }
+
+    /* ===== Yellow Floating Button ===== */
+    .ybtn{
+      position: fixed;
+      width: var(--ybtn-size); height: var(--ybtn-size);
+      background: rgba(255, 235, 59, 0.10);
+      border: 1px solid rgba(255, 235, 59, 0.45);
+      border-radius: 50%;
+      display:flex; align-items:center; justify-content:center;
+      user-select:none; cursor:pointer;
+      z-index: 1450;             /* below puck so puck gets priority when overlapped */
+      backdrop-filter: blur(1px);
+      touch-action: none;
+    }
+    .ybtn .glyph{ font-size: 8px; color: #bdb200; }
+    .ybtn span{ font-size: 8px; color: #bbbbbb; } /* your change kept */
+
+    /* ===== Footer ===== */
+    footer{
+      text-align:center; padding: 14px 8px; color: var(--text-dim);
+      border-top:1px solid var(--border); background: var(--card);
+    }
+    footer a{ color: #2196f3; text-decoration:none }
+    footer a:hover{ text-decoration:underline }
+
+    .hidden{ display:none !important }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <!-- Header -->
+    <header>
+      <div class="hdr-inner">
+        <div class="brand">TingDu</div>
+        <button id="menuBtn" class="hamburger" title="Menu">☰</button>
+      </div>
+
+      <!-- Menu (dropdown) -->
+      <div id="menu" class="menu">
+        <h4>Display</h4>
+        <div class="row-line">
+          <label>Dark Mode</label>
+          <input type="checkbox" id="darkToggle">
+        </div>
+        <div class="row-line">
+          <label>Hide Pinyin</label>
+          <input type="checkbox" id="hidePy">
+        </div>
+        <div class="row-line">
+          <label>Hide English</label>
+          <input type="checkbox" id="hideEn">
+        </div>
+        <div class="row-line">
+          <label>Font size</label>
+          <input id="fontSlider" type="range" min="14" max="28" value="18">
+        </div>
+        <div class="row-line">
+          <span class="mini">Tip: click a card to play that snippet (no recenter).</span>
+        </div>
+      </div>
+
+      <!-- Subheader -->
+      <div class="subhdr">
+        <div class="row">
+          <!-- ORDER: Menu (select) - Loop/Cont. - Pause(s) - Speed - Play/Pause -->
+          <select id="bundleSelect" class="source-select" title="Choose bundle"></select>
+          <button id="modeBtn"  class="btn ghost" title="Loop / Continuous">Loop</button>
+          <button id="pauseBtn" class="btn ghost" title="Pause between loops (seconds)">1s</button>
+          <button id="speedBtn" class="btn ghost" title="Speed">1×</button>
+          <button id="playBtn"  class="btn"       title="Play / Pause">▶︎</button>
+        </div>
+        <div class="row">
+          <audio id="player" preload="metadata" controls></audio>
+        </div>
+      </div>
+    </header>
+
+    <!-- Content (all triplets) -->
+    <main>
+      <div id="list"></div>
+    </main>
+
+    <!-- Puck (blue) -->
+    <div id="puck" class="puck" style="top: 100px;">
+      <span class="puck-label">⇵</span>
+    </div>
+
+    <!-- Yellow floating button -->
+    <div id="ybtn" class="ybtn" style="right: 10px; top: 50vh;">
+      <div class="glyph">●</div>
+      <span style="position:absolute; bottom:6px;">tap→next</span>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+      <p>© 2025 <a href="https://bsk1.com" target="_blank">BSK</a> ·
+         <a href="privacy.html" target="_blank">Privacy</a> ·
+         <a href="https://bsk54.github.io/tingdu/index.html" target="_blank">GitHub</a></p>
+    </footer>
+  </div>
+
+  <script>
+    /* ========= PRESET COLLECTIONS ========= */
+    const PRESETS = [
+      { json: 'Forever_and_Ever_EP01_triplets.json', audio: 'Forever and Ever EP01.mp3' },
+      { json: 'Forever_and_Ever_EP02_triplets.json', audio: 'Forever and Ever EP02.mp3' },
+      { json: 'Forever_and_Ever_EP03_triplets.json', audio: 'Forever and Ever EP03.mp3' },
+      { json: 'Forever_and_Ever_EP04_triplets.json', audio: 'Forever and Ever EP04.mp3' },
+      { json: 'Forever_and_Ever_EP05_triplets.json', audio: 'Forever and Ever EP05.mp3' },
+      { json: 'Forever_and_Ever_EP06_triplets.json', audio: 'Forever and Ever EP06.mp3' },
+      { json: 'Forever_and_Ever_EP07_triplets.json', audio: 'Forever and Ever EP07.mp3' }
+
+    ];
+
+    /* ========= Tiny helpers ========= */
+    const el = (id)=>document.getElementById(id);
+    const $ = {
+      // header/menu
+      menuBtn:     el('menuBtn'),
+      menu:        el('menu'),
+      darkToggle:  el('darkToggle'),
+      hidePy:      el('hidePy'),
+      hideEn:      el('hideEn'),
+      fontSlider:  el('fontSlider'),
+      // subheader controls
+      bundleSelect: el('bundleSelect'),
+      modeBtn:      el('modeBtn'),
+      pauseBtn:     el('pauseBtn'),
+      speedBtn:     el('speedBtn'),
+      playBtn:      el('playBtn'),
+      player:       el('player'),
+      // content
+      list:        el('list'),
+      // handles
+      puck:        el('puck'),
+      ybtn:        el('ybtn')
+    };
+
+    /* ========= One-key localStorage: TingDu ========= */
+    const TD = {
+      key: 'TingDu',
+      state: {
+        lastBundleKey: null,     // stable key (json filename)
+        speed: 1.0,
+        pauseSec: 1,             // NEW: 0..5 seconds between loop repeats
+        modeLoop: true,
+        hidePy: false,
+        hideEn: false,
+        dark: false,
+        font: 18,
+        puck: { top: 100 },
+        ybtn: { left: null, top: null },
+        bundles: {
+          // [bundleKey]: { index, t }
+        }
+      },
+      load(){
+        try{
+          const raw = localStorage.getItem(this.key);
+          if (!raw) return;
+          const got = JSON.parse(raw);
+          // migrate older key name if present
+          if (got && got.lastBundleId && !got.lastBundleKey) {
+            got.lastBundleKey = got.lastBundleId;
+          }
+          this.state = Object.assign({}, this.state, got);
+          if (!this.state.bundles) this.state.bundles = {};
+          // clamp pauseSec
+          const p = Number(this.state.pauseSec);
+          this.state.pauseSec = Number.isFinite(p) ? Math.min(5, Math.max(0, Math.round(p))) : 1;
+        }catch(e){}
+      },
+      save(){ localStorage.setItem(this.key, JSON.stringify(this.state)); },
+      savePrefs(){ this.save(); },
+      saveBundleStateByKey(key, obj){
+        if (!this.state.bundles) this.state.bundles = {};
+        this.state.bundles[key] = Object.assign({}, this.state.bundles[key]||{}, obj);
+        this.save();
+      },
+      getBundleStateByKey(key){ return (this.state.bundles||{})[key] || {}; }
+    };
+    TD.load();
+
+    /* ========= State / Library ========= */
+    const SPEED_STEPS = [1.0, 0.75, 0.5];
+    const LIB = []; // [{id,title, audioURL, data, units, starts, ends, key}]
+    let STATE = {
+      bundle: null,   // reference
+      index: 0,
+      modeLoop: TD.state.modeLoop,
+      speedIdx: Math.max(0, SPEED_STEPS.findIndex(v => Math.abs(v-(TD.state.speed||1))<1e-6)),
+      userSeeking: false,
+      lastHighlighted: -1,
+      loopWaitActive: false,
+      loopPauseTimer: null
+    };
+
+    function unitFactor(units){
+      if (!units) return 1;
+      if (String(units).toLowerCase().startsWith('ms')) return 1/1000;
+      return 1;
+    }
+    function buildStartsEnds(data, units){
+      const f = unitFactor(units || data?.meta?.units || data?.meta?.time_units);
+      const arr = data?.snippets || [];
+      const starts = arr.map(s => s.start_seconds * f);
+      const ends   = arr.map(s => s.end_seconds   * f);
+      return {starts, ends};
+    }
+
+    /* ========= UI Prefs boot ========= */
+    (function restorePrefsUI(){
+      document.documentElement.setAttribute('data-theme', TD.state.dark ? 'dark' : 'light');
+      $.darkToggle.checked = TD.state.dark;
+      $.hidePy.checked = TD.state.hidePy;
+      $.hideEn.checked = TD.state.hideEn;
+
+      const fs = parseInt(TD.state.font||18,10);
+      $.fontSlider.value = fs;
+      document.documentElement.style.setProperty('--fs', fs + 'px');
+
+      setSpeed(SPEED_STEPS[STATE.speedIdx>=0?STATE.speedIdx:0]);
+      $.modeBtn.textContent = STATE.modeLoop ? 'Loop' : 'Cont.';
+      setPauseLabel(TD.state.pauseSec);
+
+      if (TD.state.puck && typeof TD.state.puck.top === 'number') {
+        $.puck.style.top = Math.max(100, TD.state.puck.top) + 'px';
+      }
+    })();
+
+    /* ========= Menu & toggles ========= */
+    $.menuBtn.addEventListener('click', () => $.menu.classList.toggle('show'));
+    document.addEventListener('click', (e) => {
+      if (!$.menu.contains(e.target) && e.target !== $.menuBtn){
+        $.menu.classList.remove('show');
+      }
+    });
+
+    $.darkToggle.addEventListener('change', e => {
+      TD.state.dark = e.target.checked;
+      document.documentElement.setAttribute('data-theme', TD.state.dark ? 'dark' : 'light');
+      TD.savePrefs();
+    });
+    $.hidePy.addEventListener('change', () => { TD.state.hidePy = $.hidePy.checked; TD.savePrefs(); renderList(); });
+    $.hideEn.addEventListener('change', () => { TD.state.hideEn = $.hideEn.checked; TD.savePrefs(); renderList(); });
+    $.fontSlider.addEventListener('input', () => {
+      document.documentElement.style.setProperty('--fs', $.fontSlider.value + 'px');
+    });
+    $.fontSlider.addEventListener('change', () => {
+      TD.state.font = parseInt($.fontSlider.value,10);
+      TD.savePrefs();
+    });
+
+    /* ========= Build & render list ========= */
+    function joinZh(lines){
+      if (!Array.isArray(lines)) return String(lines||'');
+      return lines.join(''); // leave zh as-is
+    }
+    function joinWithSpaces(lines){
+      if (!Array.isArray(lines)) return String(lines||'');
+      return lines.join(', ');
+    }
+
+    function renderList(){
+      const b = STATE.bundle; if (!b) { $.list.innerHTML = ''; return; }
+      const snips = b.data?.snippets || [];
+
+      const hidePy = TD.state.hidePy;
+      const hideEn = TD.state.hideEn;
+
+      const frag = document.createDocumentFragment();
+      snips.forEach((s, i) => {
+        const zh = s.subtitle?.zh ?? '';
+        const py = s.subtitle?.py ?? '';
+        const en = s.subtitle?.en ?? '';
+
+        const zhText = joinZh(zh);
+        const pyText = joinWithSpaces(py);
+        const enText = joinWithSpaces(en);
+
+        const div = document.createElement('div');
+        div.className = 'item';
+        div.dataset.index = i;
+
+        const zhHTML = `
+          <div class="line">
+            <div class="zh">${zhText || '—'}</div>
+            <button class="pleco-button" data-pleco="${escapeHtml(zhText)}" title="Lookup in Pleco">P</button>
+          </div>`;
+
+        div.innerHTML = `
+          <div class="num">${i+1}.</div>
+          ${zhHTML}
+          ${ hidePy ? '' : `<div class="py">${pyText}</div>`}
+          ${ hideEn ? '' : `<div class="en">${enText}</div>`}
+        `;
+
+        div.addEventListener('click', () => goTo(i, /*fromClick*/true));
+        frag.appendChild(div);
+      });
+      $.list.innerHTML = '';
+      $.list.appendChild(frag);
+
+      highlightCurrent('top');
+    }
+
+    function escapeHtml(s){
+      return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    // Pleco handler
+    document.body.addEventListener('click', e => {
+      const btn = e.target.closest('.pleco-button');
+      if (!btn) return;
+      e.stopPropagation();
+      e.preventDefault();
+      const phrase = btn.dataset.pleco || '';
+      const q = encodeURIComponent(phrase);
+      const url = `plecoapi://x-callback-url/s?q=${q}`;
+      window.location = url;
+    });
+
+    /* ========= Navigation, highlight & centering rules ========= */
+    function getTopSafe(){
+      const header = document.querySelector('header');
+      return (header?.getBoundingClientRect().height || 100) + 10;
+    }
+    function isOnScreen(node){
+      const r = node.getBoundingClientRect();
+      const topSafe = getTopSafe();
+      const bottomSafe = window.innerHeight - 16;
+      return !(r.bottom > bottomSafe || r.top < topSafe);
+    }
+    function scrollToCenter(node){
+      const r = node.getBoundingClientRect();
+      const targetTop = window.scrollY + (r.top + r.bottom)/2 - (window.innerHeight/2);
+      window.scrollTo({ top: targetTop, behavior: 'smooth' });
+    }
+    function scrollToTopSafe(node){
+      const r = node.getBoundingClientRect();
+      const targetTop = window.scrollY + r.top - getTopSafe();
+      window.scrollTo({ top: targetTop, behavior: 'smooth' });
+    }
+
+    function highlightCurrent(align='center'){
+      if (!STATE.bundle) return;
+      const idx = STATE.index;
+      if (idx === STATE.lastHighlighted) return;
+
+      const prev = document.querySelector('.item.current');
+      if (prev) prev.classList.remove('current');
+      const node = document.querySelector(`.item[data-index="${idx}"]`);
+      if (node) {
+        node.classList.add('current');
+        if (align === 'center') {
+          scrollToCenter(node);
+        } else if (align === 'top') {
+          scrollToTopSafe(node);
+        } else if (align === 'continuous') {
+          if (!isOnScreen(node)) scrollToCenter(node);
+        } // 'none' → do nothing
+      }
+      STATE.lastHighlighted = idx;
+    }
+
+    function setPlayLabel(){
+      $.playBtn.textContent = $.player.paused ? '▶︎' : '⏸';
+    }
+
+    function setSpeed(v){
+      $.player.playbackRate = v;
+      TD.state.speed = v;
+      TD.savePrefs();
+      const label = `${(Math.round(v*100)/100).toString().replace(/\.0+$/,'')}×`;
+      $.speedBtn.textContent = label;
+    }
+
+    function togglePlay(){
+      if ($.player.paused) {
+        // if we were in loop-wait, jump to the start and cancel wait
+        if (STATE.loopWaitActive) {
+          clearLoopWait();
+          const a = STATE.bundle?.starts?.[STATE.index] ?? 0;
+          $.player.currentTime = a;
+        }
+        $.player.play().catch(()=>{});
+      } else {
+        $.player.pause();
+      }
+      // label updates by 'play'/'pause' events
+    }
+
+    function wrapIndex(i, n){
+      if (n<=0) return 0;
+      return (i % n + n) % n;
+    }
+
+    function clearLoopWait(){
+      if (STATE.loopPauseTimer) {
+        clearTimeout(STATE.loopPauseTimer);
+        STATE.loopPauseTimer = null;
+      }
+      STATE.loopWaitActive = false;
+    }
+
+    function goTo(i, fromClick=false){
+      if (!STATE.bundle) return;
+      const n = STATE.bundle.starts.length;
+      STATE.index = Math.min(Math.max(0, i), n-1);
+
+      // cancel any pending loop-wait (we're changing focus)
+      clearLoopWait();
+
+      TD.saveBundleStateByKey(STATE.bundle.key, { index: STATE.index });
+
+      if (fromClick) {
+        highlightCurrent('none');
+      } else {
+        highlightCurrent('continuous');
+      }
+
+      const a = STATE.bundle.starts[STATE.index];
+      $.player.currentTime = a;
+      $.player.play().catch(()=>{});
+    }
+
+    function findIndexForTime(t){
+      const b = STATE.bundle; if (!b) return 0;
+      const {starts, ends} = b;
+      for (let i=0;i<starts.length;i++){
+        if (t >= starts[i] && t <= ends[i]) return i;
+      }
+      let best = 0, bestd = Infinity;
+      for (let i=0;i<starts.length;i++){
+        const d = Math.abs(t - starts[i]);
+        if (d < bestd){ bestd = d; best = i; }
+      }
+      return best;
+    }
+
+    /* ========= Audio events & loop/cont logic ========= */
+    $.player.addEventListener('play',  setPlayLabel);
+    $.player.addEventListener('pause', setPlayLabel);
+
+    $.player.addEventListener('seeking', () => {
+      STATE.userSeeking = true;
+      clearLoopWait();
+    });
+    $.player.addEventListener('seeked',  () => {
+      STATE.userSeeking = false;
+      const idx = findIndexForTime($.player.currentTime);
+      STATE.index = idx;
+      if (STATE.bundle) TD.saveBundleStateByKey(STATE.bundle.key, { t: $.player.currentTime, index: idx });
+
+      highlightCurrent('continuous');
+
+      if ($.player.paused) $.player.play().catch(()=>{});
+    });
+
+    $.player.addEventListener('timeupdate', () => {
+      if (!STATE.bundle) return;
+      TD.saveBundleStateByKey(STATE.bundle.key, { t: $.player.currentTime });
+
+      const t = $.player.currentTime;
+      const a = STATE.bundle.starts[STATE.index];
+      const b = STATE.bundle.ends[STATE.index];
+
+      if (!STATE.modeLoop && !STATE.userSeeking) {
+        const idx = findIndexForTime(t);
+        if (idx !== STATE.index) {
+          STATE.index = idx;
+          TD.saveBundleStateByKey(STATE.bundle.key, { index: STATE.index });
+          highlightCurrent('continuous');
+        } else {
+          highlightCurrent('continuous');
+        }
+      }
+
+      if (STATE.modeLoop && !STATE.userSeeking) {
+        const pauseSec = TD.state.pauseSec || 0;
+        // If we're currently waiting, do nothing here
+        if (STATE.loopWaitActive) return;
+
+        if (t >= b - 0.02) {
+          if (pauseSec > 0) {
+            // pause and wait, then restart at 'a'
+            STATE.loopWaitActive = true;
+            $.player.pause();
+            STATE.loopPauseTimer = setTimeout(() => {
+              STATE.loopPauseTimer = null;
+              STATE.loopWaitActive = false;
+              // guard: still same snippet and still in loop mode
+              if (!STATE.bundle || !STATE.modeLoop) return;
+              const anew = STATE.bundle.starts[STATE.index];
+              $.player.currentTime = anew;
+              $.player.play().catch(()=>{});
+            }, pauseSec * 1000);
+          } else {
+            // immediate hard loop
+            $.player.currentTime = a;
+            if ($.player.paused) $.player.play().catch(()=>{});
+          }
+        } else if (t < a) {
+          $.player.currentTime = a;
+        }
+      }
+    });
+
+    $.player.addEventListener('ended', setPlayLabel);
+
+    /* ========= Bundle handling ========= */
+    function friendlyTitle(jsonName, metaPrefix){
+      if (metaPrefix) return metaPrefix;
+      const base = jsonName.replace(/_triplets\.json$/i,'');
+      return base.replace(/_/g,' ');
+    }
+
+    function addBundleToLibrary({key, title, data, audioURL}){
+      const units  = (data?.meta?.units || data?.meta?.time_units || 'seconds');
+      const {starts, ends} = buildStartsEnds(data, units);
+      const id = (Date.now() + Math.random()).toString(36);  // ephemeral UI id
+      const obj = {id, key, title, audioURL, data, units, starts, ends};
+      LIB.push(obj);
+    }
+
+    function refreshBundleSelect(){
+      $.bundleSelect.innerHTML = '';
+
+      // Determine which to select: lastBundleKey → corresponding id; else first
+      let targetId = null;
+      if (TD.state.lastBundleKey){
+        const found = LIB.find(b => b.key === TD.state.lastBundleKey);
+        if (found) targetId = found.id;
+      }
+      if (!targetId && LIB.length) targetId = LIB[0].id;
+
+      // Build options
+      LIB.forEach(b=>{
+        const opt = document.createElement('option');
+        opt.value = b.id;
+        opt.textContent = b.data?.meta?.prefix || b.title || 'Bundle';
+        $.bundleSelect.appendChild(opt);
+      });
+
+      if (targetId){
+        $.bundleSelect.value = targetId;     // keep UI in sync
+        pickBundle(targetId);
+      }
+    }
+
+    function pickBundle(id){
+      const b = LIB.find(x=>x.id===id);
+      STATE.bundle = b || null;
+      TD.state.lastBundleKey = b ? b.key : null;
+      TD.savePrefs();
+
+      // Any pending loop-wait is no longer valid
+      clearLoopWait();
+
+      if (b){
+        $.player.src = b.audioURL;
+
+        const bs = TD.getBundleStateByKey(b.key);
+        const idx = Number.isInteger(bs.index) ? bs.index : 0;
+        STATE.index = Math.min(Math.max(0, idx), b.starts.length-1);
+
+        renderList();
+
+        $.player.addEventListener('loadedmetadata', () => {
+          const t = (typeof bs.t === 'number' && isFinite(bs.t)) ? bs.t : b.starts[STATE.index];
+          $.player.currentTime = Math.max(0, Math.min(t, $.player.duration || t));
+          setPlayLabel(); // show ▶︎ unless playing
+        }, { once: true });
+
+      } else {
+        $.player.removeAttribute('src');
+        $.list.innerHTML = '';
+        setPlayLabel();
+      }
+    }
+
+    $.bundleSelect.addEventListener('change', e => { pickBundle(e.target.value); });
+
+    /* ========= Subheader buttons ========= */
+    $.playBtn.addEventListener('click', togglePlay);
+
+    $.modeBtn.addEventListener('click', () => {
+      STATE.modeLoop = !STATE.modeLoop;
+      TD.state.modeLoop = STATE.modeLoop;
+      TD.savePrefs();
+      $.modeBtn.textContent = STATE.modeLoop ? 'Loop' : 'Cont.';
+      clearLoopWait();
+      if (STATE.modeLoop && STATE.bundle) {
+        const a = STATE.bundle.starts[STATE.index];
+        $.player.currentTime = a; // anchor new loop
+        $.player.play().catch(()=>{});
+      }
+    });
+
+    function setPauseLabel(val){
+      $.pauseBtn.textContent = `${val}s`;
+      $.pauseBtn.title = `Pause between loops: ${val} second${val===1?'':'s'}`;
+    }
+    $.pauseBtn.addEventListener('click', () => {
+      // cycle 0..3
+      const next = (Number(TD.state.pauseSec)||0) + 1;
+      TD.state.pauseSec = next > 3 ? 0 : next;
+      TD.savePrefs();
+      setPauseLabel(TD.state.pauseSec);
+      // if we were in a waiting pause, rebase it to the new value
+      if (STATE.loopWaitActive) {
+        clearLoopWait();
+        const pauseSec = TD.state.pauseSec || 0;
+        if (pauseSec === 0) {
+          // resume immediately at snippet start
+          const a = STATE.bundle?.starts?.[STATE.index] ?? 0;
+          $.player.currentTime = a;
+          $.player.play().catch(()=>{});
+        } else {
+          // restart a new wait from now
+          STATE.loopWaitActive = true;
+          $.player.pause();
+          STATE.loopPauseTimer = setTimeout(()=>{
+            STATE.loopPauseTimer = null;
+            STATE.loopWaitActive = false;
+            if (!STATE.bundle || !STATE.modeLoop) return;
+            const anew = STATE.bundle.starts[STATE.index];
+            $.player.currentTime = anew;
+            $.player.play().catch(()=>{});
+          }, pauseSec*1000);
+        }
+      }
+    });
+
+    $.speedBtn.addEventListener('click', () => {
+      STATE.speedIdx = (STATE.speedIdx + 1) % SPEED_STEPS.length;
+      setSpeed(SPEED_STEPS[STATE.speedIdx]);
+    });
+
+    /* ========= Keyboard (optional) ========= */
+    document.addEventListener('keydown', (e)=>{
+      if (e.target.closest('input,textarea,select')) return;
+      if (e.code === 'Space') { e.preventDefault(); togglePlay(); }
+      else if (e.key === 'ArrowUp')   { e.preventDefault(); if (STATE.index>0) goTo(STATE.index-1, true); }
+      else if (e.key === 'ArrowDown') { e.preventDefault(); if (STATE.bundle) goTo(Math.min(STATE.index+1, STATE.bundle.starts.length-1), true); }
+    });
+
+    /* ========= Blue puck: drag scroll & snap ========= */
+    let dragP = {active:false, startY:0, startTop:0};
+
+    function computePuckTopMin(){
+      const headerH = document.querySelector('header')?.getBoundingClientRect().height || 100;
+      return Math.max(100, Math.round(headerH)); // never above 100px from top
+    }
+    function clampPuckTop(vhTop){
+      const topMin = computePuckTopMin();
+      const puckH  = parseInt(getComputedStyle($.puck).height);
+      const topMax = window.innerHeight - 10 - puckH;
+      return Math.max(topMin, Math.min(topMax, vhTop));
+    }
+    function syncPuckToScroll(){
+      const doc = document.documentElement;
+      const scrollTop = window.scrollY;
+      const scrollHeight = doc.scrollHeight;
+      const clientHeight = window.innerHeight;
+
+      const topMin = computePuckTopMin();
+      const puckH  = parseInt(getComputedStyle($.puck).height);
+      const topMax = window.innerHeight - 10 - puckH;
+      const track  = Math.max(1, topMax - topMin);
+
+      const ratio = (scrollHeight - clientHeight) > 0
+        ? scrollTop / (scrollHeight - clientHeight)
+        : 0;
+
+      const y = clampPuckTop(topMin + ratio * track);
+      $.puck.style.top = y + 'px';
+      TD.state.puck = { top: y };
+      TD.savePrefs();
+    }
+    function scrollToRatio(ratio){
+      const doc = document.documentElement;
+      const scrollHeight = doc.scrollHeight;
+      const clientHeight = window.innerHeight;
+      const target = ratio * Math.max(0, scrollHeight - clientHeight);
+      window.scrollTo({ top: target, behavior: 'auto' });
+    }
+
+    window.addEventListener('scroll', syncPuckToScroll, {passive:true});
+    window.addEventListener('resize', syncPuckToScroll);
+    syncPuckToScroll();
+
+    $.puck.addEventListener('pointerdown', (e) => {
+      $.puck.setPointerCapture(e.pointerId);
+      dragP.active = true;
+      dragP.startY = e.clientY;
+      dragP.startTop = parseFloat($.puck.style.top) || computePuckTopMin();
+      e.preventDefault();
+    });
+    $.puck.addEventListener('pointermove', (e) => {
+      if (!dragP.active) return;
+      const dy = e.clientY - dragP.startY;
+      const newTop = clampPuckTop(dragP.startTop + dy);
+      $.puck.style.top = newTop + 'px';
+
+      // Scroll proportionally
+      const topMin = computePuckTopMin();
+      const puckH  = parseInt(getComputedStyle($.puck).height);
+      const topMax = window.innerHeight - 10 - puckH;
+      const track  = Math.max(1, topMax - topMin);
+      const ratio  = (newTop - topMin) / track;
+      scrollToRatio(ratio);
+      e.preventDefault();
+    }, { passive:false });
+    $.puck.addEventListener('pointerup', () => {
+      if (!dragP.active) return;
+      dragP.active = false;
+
+      // Snap to nearest card center and play it
+      const centerY = window.innerHeight / 2;
+      const cards = Array.from(document.querySelectorAll('.item'));
+      if (!cards.length) return;
+      let best = 0, bestd = Infinity;
+      cards.forEach((c, i) => {
+        const r = c.getBoundingClientRect();
+        const mid = (r.top + r.bottom) / 2;
+        const d = Math.abs(mid - centerY);
+        if (d < bestd){ bestd = d; best = i; }
+      });
+      goTo(best, /*fromClick*/false);
+    });
+    $.puck.addEventListener('pointercancel', () => { dragP.active = false; });
+
+    /* ========= Yellow floating button: tap → next; long-press → drag only ========= */
+    (() => {
+      const btn = $.ybtn;
+      const LONG_MS = 500;
+      const MOVE_TOL = 8;
+
+      let press = {
+        active: false,
+        id: null,
+        startX: 0,
+        startY: 0,
+        startLeft: 0,
+        startTop: 0,
+        longTimer: null,
+        longFired: false,
+        dragging: false
+      };
+
+      function clamp(pos) {
+        const pad = 6;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const rect = btn.getBoundingClientRect();
+        const w = rect.width, h = rect.height;
+        return {
+          left: Math.min(Math.max(pos.left, pad), vw - w - pad),
+          top:  Math.min(Math.max(pos.top,  pad), vh - h - pad)
+        };
+      }
+
+      function setPos(left, top, save=true) {
+        const p = clamp({left, top});
+        btn.style.left = p.left + 'px';
+        btn.style.top  = p.top  + 'px';
+        if (save) {
+          TD.state.ybtn = { left: p.left, top: p.top };
+          TD.savePrefs();
+        }
+      }
+
+      function gotoNext() {
+        if (!STATE.bundle) return;
+        const n = STATE.bundle.starts.length;
+        goTo(wrapIndex(STATE.index + 1, n), /*fromClick*/false);
+      }
+
+      btn.addEventListener('pointerdown', (e) => {
+        btn.setPointerCapture(e.pointerId);
+        press.active = true;
+        press.id = e.pointerId;
+        press.startX = e.clientX;
+        press.startY = e.clientY;
+
+        const r = btn.getBoundingClientRect();
+        press.startLeft = r.left;
+        press.startTop  = r.top;
+
+        press.longFired = false;
+        press.dragging  = false;
+
+        press.longTimer = setTimeout(() => {
+          press.longFired = true;       // enter drag mode
+          btn.style.opacity = '0.9';
+          btn.style.cursor = 'grabbing';
+        }, LONG_MS);
+
+        e.preventDefault();
+      });
+
+      btn.addEventListener('pointermove', (e) => {
+        if (!press.active) return;
+
+        const dx = e.clientX - press.startX;
+        const dy = e.clientY - press.startY;
+
+        if (!press.longFired) {
+          if (Math.abs(dx) > MOVE_TOL || Math.abs(dy) > MOVE_TOL) {
+            clearTimeout(press.longTimer);
+            press.longTimer = null;
+          }
+          return;
+        }
+
+        // Drag only (no prev action)
+        press.dragging = true;
+        setPos(press.startLeft + dx, press.startTop + dy, /*save*/false);
+        e.preventDefault();
+      }, { passive:false });
+
+      function endPress(e) {
+        if (press.longTimer) {
+          clearTimeout(press.longTimer);
+          press.longTimer = null;
+        }
+        if (!press.active) return;
+        press.active = false;
+
+        btn.style.opacity = '';
+        btn.style.cursor = '';
+
+        if (press.longFired) {
+          // Commit position; no navigation
+          const r = btn.getBoundingClientRect();
+          setPos(r.left, r.top, /*save*/true);
+        } else {
+          // Short tap → next (if not moved)
+          const dx = e.clientX - press.startX;
+          const dy = e.clientY - press.startY;
+          if (Math.abs(dx) <= MOVE_TOL && Math.abs(dy) <= MOVE_TOL) {
+            gotoNext();
+          }
+        }
+      }
+
+      btn.addEventListener('pointerup',   endPress);
+      btn.addEventListener('pointercancel', endPress);
+
+      // Initialize position
+      window.addEventListener('load', () => {
+        if (TD.state.ybtn && typeof TD.state.ybtn.left === 'number' && typeof TD.state.ybtn.top === 'number') {
+          setPos(TD.state.ybtn.left, TD.state.ybtn.top, /*save*/false);
+        } else {
+          const rect = btn.getBoundingClientRect();
+          setPos(window.innerWidth - rect.width - 10, window.innerHeight/2 - rect.height/2, /*save*/false);
+        }
+      });
+
+      // Keep in bounds on resize
+      window.addEventListener('resize', () => {
+        const r = btn.getBoundingClientRect();
+        setPos(r.left, r.top, /*save*/true);
+      });
+    })();
+
+    /* ========= Load presets ========= */
+    async function loadPresets(){
+      for (const p of PRESETS){
+        try{
+          const j = await fetch(p.json, {cache:'no-store'});
+          if (!j.ok) { console.warn('JSON not found:', p.json); continue; }
+          const data = await j.json();
+          const title = (data?.meta?.prefix) || p.json.replace(/_triplets\.json$/i,'').replace(/_/g,' ');
+          addBundleToLibrary({ key: p.json, title, data, audioURL: p.audio });
+        }catch(err){
+          console.error('Preset load failed:', p.json, err);
+        }
+      }
+      refreshBundleSelect();
+    }
+
+    /* ========= Start-up ========= */
+    loadPresets();
+
+  </script>
+</body>
+</html>
