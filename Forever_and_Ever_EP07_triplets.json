@@ -1,0 +1,8429 @@
+{
+  "meta": {
+    "prefix": "Forever and Ever EP07",
+    "directory": "f:\\C49\\tingdu",
+    "created_at": "2025-09-07T15:52:09.972535Z",
+    "time_units": "seconds",
+    "counts": {
+      "srt": {
+        "zh": 806,
+        "py": 806,
+        "en": 825
+      },
+      "snippets": 459
+    }
+  },
+  "snippets": [
+    {
+      "i": 0,
+      "start_seconds": 105.86114599999999,
+      "end_seconds": 108.681702,
+      "subtitle": {
+        "zh": [
+          "我看那老刘啊",
+          "眼睛都憋得通红"
+        ],
+        "py": [
+          "Wǒ kàn nà lǎo liú a",
+          " yǎnjīng dōu biē dé tōnghóng"
+        ],
+        "en": [
+          "[Family of Books and Ritual]",
+          " mr. Liu",
+          " had bloodshot eyes"
+        ]
+      }
+    },
+    {
+      "i": 1,
+      "start_seconds": 109.006433,
+      "end_seconds": 111.870189,
+      "subtitle": {
+        "zh": [
+          "非要见你",
+          "原来是瞒不下去",
+          "要找负责人了"
+        ],
+        "py": [
+          "Fēi yào jiàn nǐ",
+          " yuánlái shì mán bù xiàqù",
+          " yào zhǎo fùzé rénle"
+        ],
+        "en": [
+          "[Family of Books and Ritual]",
+          " and was eager to see you.",
+          " It turned out that he couldn't cover up the matter any more",
+          " and wanted to see the person in charge."
+        ]
+      }
+    },
+    {
+      "i": 2,
+      "start_seconds": 113.681538,
+      "end_seconds": 116.413426,
+      "subtitle": {
+        "zh": [
+          "其实我爸爸",
+          "不光是他们的投资人"
+        ],
+        "py": [
+          "Qíshí wǒ bàba",
+          " bùguāng shì tāmen de tóuzī rén"
+        ],
+        "en": [
+          "Actually, my father",
+          " is not only their investor."
+        ]
+      }
+    },
+    {
+      "i": 3,
+      "start_seconds": 117.223502,
+      "end_seconds": 119.6635,
+      "subtitle": {
+        "zh": [
+          "之前我爸爸",
+          "想跟我妈妈结婚"
+        ],
+        "py": [
+          "Zhīqián wǒ bàba",
+          " xiǎng gēn wǒ māmā jiéhūn"
+        ],
+        "en": [
+          "The time when my father",
+          " was going to marry my mother,"
+        ]
+      }
+    },
+    {
+      "i": 4,
+      "start_seconds": 119.907774,
+      "end_seconds": 124.471266,
+      "subtitle": {
+        "zh": [
+          "脱离了周家",
+          "身边就是这些老朋友",
+          "一直在支持他"
+        ],
+        "py": [
+          "Tuōlíle zhōu jiā",
+          " shēnbiān jiùshì zhèxiē lǎo péngyǒu",
+          " yīzhí zài zhīchí tā"
+        ],
+        "en": [
+          "he was ostracized from the Zhou family.",
+          " Fortunately, he had his old friends",
+          " that supported him."
+        ]
+      }
+    },
+    {
+      "i": 5,
+      "start_seconds": 124.982664,
+      "end_seconds": 129.050104,
+      "subtitle": {
+        "zh": [
+          "所以现在他们有困难",
+          "我们能帮就帮吧"
+        ],
+        "py": [
+          "Suǒyǐ xiànzài tāmen yǒu kùnnán",
+          " wǒmen néng bāng jiù bāng ba"
+        ],
+        "en": [
+          "Now they are in trouble,",
+          " we should help them out as much as we can."
+        ]
+      }
+    },
+    {
+      "i": 6,
+      "start_seconds": 131.35845700000004,
+      "end_seconds": 133.381471,
+      "subtitle": {
+        "zh": [
+          "你俩在开小会呢"
+        ],
+        "py": [
+          "Nǐ liǎ zài kāi xiǎo huì ne"
+        ],
+        "en": [
+          "Are you two having a meeting now?"
+        ]
+      }
+    },
+    {
+      "i": 7,
+      "start_seconds": 134.15206700000005,
+      "end_seconds": 136.520508,
+      "subtitle": {
+        "zh": [
+          "我们就是聊聊天"
+        ],
+        "py": [
+          "Wǒmen jiùshì liáo liáotiān"
+        ],
+        "en": [
+          "Just some chit chat."
+        ]
+      }
+    },
+    {
+      "i": 8,
+      "start_seconds": 137.299701,
+      "end_seconds": 137.797761,
+      "subtitle": {
+        "zh": [
+          "你怎么来了"
+        ],
+        "py": [
+          "Nǐ zěnme láile"
+        ],
+        "en": [
+          "Why are you here?"
+        ]
+      }
+    },
+    {
+      "i": 9,
+      "start_seconds": 138.56505600000003,
+      "end_seconds": 140.8843,
+      "subtitle": {
+        "zh": [
+          "我哥的院子",
+          "我还不能随便进啊"
+        ],
+        "py": [
+          "Wǒ gē de yuànzi",
+          " wǒ hái bùnéng suíbiàn jìn a"
+        ],
+        "en": [
+          "It's my brother's place,",
+          " am I not allowed to come?"
+        ]
+      }
+    },
+    {
+      "i": 10,
+      "start_seconds": 141.214531,
+      "end_seconds": 145.46447399999997,
+      "subtitle": {
+        "zh": [
+          "你有意见",
+          "我哪敢有什么意见",
+          "大小姐"
+        ],
+        "py": [
+          "Nǐ yǒu yìjiàn",
+          " wǒ nǎ gǎn yǒu shé me yìjiàn",
+          " dà xiǎojiě"
+        ],
+        "en": [
+          "You got a problem?",
+          " Of course not,",
+          " your Ladyship."
+        ]
+      }
+    },
+    {
+      "i": 11,
+      "start_seconds": 147.02104,
+      "end_seconds": 149.235071,
+      "subtitle": {
+        "zh": [
+          "妈叫你们一起去听越剧"
+        ],
+        "py": [
+          "Mā jiào nǐmen yīqǐ qù tīng yuèjù"
+        ],
+        "en": [
+          "Mother wants you to join us for the Shaoxing Opera."
+        ]
+      }
+    },
+    {
+      "i": 12,
+      "start_seconds": 151.041073,
+      "end_seconds": 152.972745,
+      "subtitle": {
+        "zh": [
+          "这是什么日子",
+          "还有越剧听"
+        ],
+        "py": [
+          "Zhè shì shénme rìzi",
+          " hái yǒu yuèjù tīng"
+        ],
+        "en": [
+          "Is today a festival or something?",
+          " Why are they doing a Shaoxing Opera show?"
+        ]
+      }
+    },
+    {
+      "i": 13,
+      "start_seconds": 153.33156,
+      "end_seconds": 155.539157,
+      "subtitle": {
+        "zh": [
+          "还不是为了我哥"
+        ],
+        "py": [
+          "Hái bùshì wèile wǒ gē"
+        ],
+        "en": [
+          "It's because of my brother."
+        ]
+      }
+    },
+    {
+      "i": 14,
+      "start_seconds": 157.0503390000001,
+      "end_seconds": 158.96700700000005,
+      "subtitle": {
+        "zh": [
+          "为了我"
+        ],
+        "py": [
+          "Wèile wǒ"
+        ],
+        "en": [
+          "For me?"
+        ]
+      }
+    },
+    {
+      "i": 15,
+      "start_seconds": 160.58811200000002,
+      "end_seconds": 162.95231,
+      "subtitle": {
+        "zh": [
+          "祭祖的人",
+          "本来要走的都没走"
+        ],
+        "py": [
+          "Jì zǔ de rén",
+          " běnlái yào zǒu de dōu méi zǒu"
+        ],
+        "en": [
+          "The people who were here to pay their respects to the ancestors",
+          " haven't left,"
+        ]
+      }
+    },
+    {
+      "i": 16,
+      "start_seconds": 163.11668400000002,
+      "end_seconds": 165.04724000000002,
+      "subtitle": {
+        "zh": [
+          "就是为了参加",
+          "你的订婚宴"
+        ],
+        "py": [
+          "Jiùshì wèile cānjiā",
+          " nǐ de dìng hūnyàn"
+        ],
+        "en": [
+          "haven't left,",
+          " instead they stayed",
+          " to attend your engagement banquet."
+        ]
+      }
+    },
+    {
+      "i": 17,
+      "start_seconds": 165.72841200000002,
+      "end_seconds": 169.080518,
+      "subtitle": {
+        "zh": [
+          "你说这老老少少",
+          "在这大山里多无聊啊"
+        ],
+        "py": [
+          "Nǐ shuō zhè lǎolǎoshàoshǎo",
+          " zài zhè dàshān li duō wúliáo a"
+        ],
+        "en": [
+          "Don't you think they would get bored quickly",
+          " staying here in the mountains without any entertainment?"
+        ]
+      }
+    },
+    {
+      "i": 18,
+      "start_seconds": 169.725909,
+      "end_seconds": 172.98802700000002,
+      "subtitle": {
+        "zh": [
+          "妈于心不忍",
+          "就叫了几个老朋友",
+          "来唱几晚"
+        ],
+        "py": [
+          "Mā yú xīn bùrěn",
+          " jiù jiàole jǐ gè lǎo péngyǒu",
+          " lái chàng jǐ wǎn"
+        ],
+        "en": [
+          "Mother felt sorry",
+          " and called some of her old friends",
+          " to perform for a few nights."
+        ]
+      }
+    },
+    {
+      "i": 19,
+      "start_seconds": 173.37602600000005,
+      "end_seconds": 174.864229,
+      "subtitle": {
+        "zh": [
+          "高兴高兴"
+        ],
+        "py": [
+          "Gāoxìng gāoxìng"
+        ],
+        "en": [
+          "Just so they wouldn't get bored."
+        ]
+      }
+    },
+    {
+      "i": 20,
+      "start_seconds": 183.03746100000004,
+      "end_seconds": 184.924887,
+      "subtitle": {
+        "zh": [
+          "你们到底去不去"
+        ],
+        "py": [
+          "Nǐmen dàodǐ qù bù qù"
+        ],
+        "en": [
+          "So are you two coming or not?"
+        ]
+      }
+    },
+    {
+      "i": 21,
+      "start_seconds": 186.61839200000006,
+      "end_seconds": 189.917048,
+      "subtitle": {
+        "zh": [
+          "我都行",
+          "主要看你哥"
+        ],
+        "py": [
+          "Wǒ dū xíng",
+          " zhǔyào kàn nǐ gē"
+        ],
+        "en": [
+          "I'm fine with anything.",
+          " It's up to your brother."
+        ]
+      }
+    },
+    {
+      "i": 22,
+      "start_seconds": 191.68092700000003,
+      "end_seconds": 199.4821420000001,
+      "subtitle": {
+        "zh": [
+          "走啊 哥",
+          "那 那就",
+          "走啦 哥",
+          "走走走"
+        ],
+        "py": [
+          "Zǒu a gē",
+          " nà nà jiù",
+          " zǒu la gē",
+          " zǒu zǒu zǒu"
+        ],
+        "en": [
+          "Let's go, Chen.",
+          " Well, then...",
+          " Come on.",
+          " Come with me."
+        ]
+      }
+    },
+    {
+      "i": 23,
+      "start_seconds": 251.63243400000002,
+      "end_seconds": 254.166191,
+      "subtitle": {
+        "zh": [
+          "大哥",
+          "这前面给你留了位子"
+        ],
+        "py": [
+          "Dàgē",
+          " zhè qiánmiàn gěi nǐ liúle wèizi"
+        ],
+        "en": [
+          "Chen,",
+          " i saved a spot for you in the front."
+        ]
+      }
+    },
+    {
+      "i": 24,
+      "start_seconds": 254.89609400000003,
+      "end_seconds": 256.631232,
+      "subtitle": {
+        "zh": [
+          "大哥",
+          "我就坐这儿吧"
+        ],
+        "py": [
+          "Dàgē",
+          " wǒ jiùzuò zhè'er ba"
+        ],
+        "en": [
+          "Chen.",
+          " I'll sit here."
+        ]
+      }
+    },
+    {
+      "i": 25,
+      "start_seconds": 263.947771,
+      "end_seconds": 264.607416,
+      "subtitle": {
+        "zh": [
+          "不懂了吧"
+        ],
+        "py": [
+          "Bù dǒngle ba"
+        ],
+        "en": [
+          "Now you see?"
+        ]
+      }
+    },
+    {
+      "i": 26,
+      "start_seconds": 264.912985,
+      "end_seconds": 266.015119,
+      "subtitle": {
+        "zh": [
+          "还是坐后面好"
+        ],
+        "py": [
+          "Háishì zuò hòumiàn hǎo"
+        ],
+        "en": [
+          "It's better to sit behind."
+        ]
+      }
+    },
+    {
+      "i": 27,
+      "start_seconds": 266.352687,
+      "end_seconds": 267.932994,
+      "subtitle": {
+        "zh": [
+          "想走随时都能走"
+        ],
+        "py": [
+          "Xiǎng zǒu suíshí dōu néng zǒu"
+        ],
+        "en": [
+          "You get to leave anytime."
+        ]
+      }
+    },
+    {
+      "i": 28,
+      "start_seconds": 269.80624800000004,
+      "end_seconds": 271.26205200000004,
+      "subtitle": {
+        "zh": [
+          "我好不容易把他俩劝来"
+        ],
+        "py": [
+          "Wǒ hǎobù róngyì bǎ tā liǎ quàn lái"
+        ],
+        "en": [
+          "I did a lot of talking to persuade them to come,"
+        ]
+      }
+    },
+    {
+      "i": 29,
+      "start_seconds": 271.491477,
+      "end_seconds": 274.69121599999994,
+      "subtitle": {
+        "zh": [
+          "你要把他们劝走是不是",
+          "不敢"
+        ],
+        "py": [
+          "Nǐ yào bǎ tāmen quàn zǒu shì bùshì",
+          " bù gǎn"
+        ],
+        "en": [
+          "now are you trying to ask them to leave?",
+          " No, I am not."
+        ]
+      }
+    },
+    {
+      "i": 30,
+      "start_seconds": 275.846938,
+      "end_seconds": 278.863369,
+      "subtitle": {
+        "zh": [
+          "知道自己身体不好",
+          "不能感冒",
+          "还穿这么少"
+        ],
+        "py": [
+          "Zhīdào zìjǐ shēntǐ bù hǎo",
+          " bùnéng gǎnmào",
+          " hái chuān zhème shǎo"
+        ],
+        "en": [
+          "You know you are in poor health",
+          " and you can't afford to have a cold,",
+          " yet you are not wearing more layers."
+        ]
+      }
+    },
+    {
+      "i": 31,
+      "start_seconds": 280.221857,
+      "end_seconds": 282.47803700000003,
+      "subtitle": {
+        "zh": [
+          "自从你长大了",
+          "嘴就不饶人"
+        ],
+        "py": [
+          "Zìcóng nǐ zhǎng dàle",
+          " zuǐ jiù bù ráo rén"
+        ],
+        "en": [
+          "Now that you're at this age,",
+          " you've become meaner."
+        ]
+      }
+    },
+    {
+      "i": 32,
+      "start_seconds": 282.826832,
+      "end_seconds": 284.076386,
+      "subtitle": {
+        "zh": [
+          "知道你不喜欢看这些"
+        ],
+        "py": [
+          "Zhīdào nǐ bù xǐhuān kàn zhèxiē"
+        ],
+        "en": [
+          "I know you are not a big fan of these shows."
+        ]
+      }
+    },
+    {
+      "i": 33,
+      "start_seconds": 286.300934,
+      "end_seconds": 287.838919,
+      "subtitle": {
+        "zh": [
+          "拿我撒什么气"
+        ],
+        "py": [
+          "Ná wǒ sā shénme qì"
+        ],
+        "en": [
+          "Why would you take it out on me?"
+        ]
+      }
+    },
+    {
+      "i": 34,
+      "start_seconds": 288.15432500000003,
+      "end_seconds": 290.388542,
+      "subtitle": {
+        "zh": [
+          "因为我知道大哥在这儿"
+        ],
+        "py": [
+          "Yīnwèi wǒ zhīdào dàgē zài zhè'er"
+        ],
+        "en": [
+          "Because I know our brother is here."
+        ]
+      }
+    },
+    {
+      "i": 35,
+      "start_seconds": 294.186355,
+      "end_seconds": 298.278658,
+      "subtitle": {
+        "zh": [
+          "小仁说得没错",
+          "你确实不能着凉"
+        ],
+        "py": [
+          "Xiǎo rén shuō dé méi cuò",
+          " nǐ quèshí bùnéng zháoliáng"
+        ],
+        "en": [
+          "Ren is right.",
+          " You should keep yourself warm."
+        ]
+      }
+    },
+    {
+      "i": 36,
+      "start_seconds": 298.98519100000004,
+      "end_seconds": 300.836239,
+      "subtitle": {
+        "zh": [
+          "来 披上"
+        ],
+        "py": [
+          "Lái pī shàng"
+        ],
+        "en": [
+          "Here. Put this on."
+        ]
+      }
+    },
+    {
+      "i": 37,
+      "start_seconds": 328.73041100000006,
+      "end_seconds": 330.679869,
+      "subtitle": {
+        "zh": [
+          "你哥怎么没过来"
+        ],
+        "py": [
+          "Nǐ gē zěnme méi guòlái"
+        ],
+        "en": [
+          "Why is your brother not here?"
+        ]
+      }
+    },
+    {
+      "i": 38,
+      "start_seconds": 335.21269,
+      "end_seconds": 338.084235,
+      "subtitle": {
+        "zh": [
+          "听说爸的朋友找他",
+          "有点麻烦"
+        ],
+        "py": [
+          "Tīng shuō bà de péngyǒu zhǎo tā",
+          " yǒudiǎn máfan"
+        ],
+        "en": [
+          "I heard that father's friends came to him.",
+          " They needed some help."
+        ]
+      }
+    },
+    {
+      "i": 39,
+      "start_seconds": 338.637058,
+      "end_seconds": 340.497999,
+      "subtitle": {
+        "zh": [
+          "估计刚回来 没有心情吧"
+        ],
+        "py": [
+          "Gūjì gāng huílái méiyǒu xīnqíng ba"
+        ],
+        "en": [
+          "I guess he's not in a mood as he just got back."
+        ]
+      }
+    },
+    {
+      "i": 40,
+      "start_seconds": 342.68369,
+      "end_seconds": 345.145972,
+      "subtitle": {
+        "zh": [
+          "你爸早年结交的朋友",
+          "都是老实人"
+        ],
+        "py": [
+          "Nǐ bà zǎonián jiéjiāo de péngyǒu",
+          " dōu shì lǎoshí rén"
+        ],
+        "en": [
+          "The friends your father made in the early years",
+          " are all honest men."
+        ]
+      }
+    },
+    {
+      "i": 41,
+      "start_seconds": 345.427763,
+      "end_seconds": 347.627766,
+      "subtitle": {
+        "zh": [
+          "能帮一定要帮"
+        ],
+        "py": [
+          "Néng bāng yīdìng yào bāng"
+        ],
+        "en": [
+          "are all honest men.",
+          " We must give them as much help as we can."
+        ]
+      }
+    },
+    {
+      "i": 42,
+      "start_seconds": 347.805941,
+      "end_seconds": 348.67469,
+      "subtitle": {
+        "zh": [
+          "那是当然"
+        ],
+        "py": [
+          "Nà shì dāngrán"
+        ],
+        "en": [
+          "That's for sure."
+        ]
+      }
+    },
+    {
+      "i": 43,
+      "start_seconds": 349.242296,
+      "end_seconds": 351.327515,
+      "subtitle": {
+        "zh": [
+          "大哥没回来之前",
+          "他们经常找我"
+        ],
+        "py": [
+          "Dàgē méi huílái zhīqián",
+          " tāmen jīngcháng zhǎo wǒ"
+        ],
+        "en": [
+          "Before Chen returned,",
+          " they often came to me."
+        ]
+      }
+    },
+    {
+      "i": 44,
+      "start_seconds": 361.483961,
+      "end_seconds": 368.86718,
+      "subtitle": {
+        "zh": [
+          "小颂",
+          "你去问问厨房",
+          "他们回来后有没有吃过饭",
+          "好"
+        ],
+        "py": [
+          "Xiǎo sòng",
+          " nǐ qù wèn wèn chúfáng",
+          " tāmen huílái hòu yǒu méiyǒu chīguò fàn",
+          " hǎo"
+        ],
+        "en": [
+          "Song.",
+          " Go to ask the chef",
+          " if they had something after they came back.",
+          " Okay."
+        ]
+      }
+    },
+    {
+      "i": 45,
+      "start_seconds": 407.916584,
+      "end_seconds": 409.481307,
+      "subtitle": {
+        "zh": [
+          "不好意思 麻烦一下"
+        ],
+        "py": [
+          "Bù hǎoyìsi máfan yīxià"
+        ],
+        "en": [
+          "Sorry, excuse me."
+        ]
+      }
+    },
+    {
+      "i": 46,
+      "start_seconds": 411.49620500000003,
+      "end_seconds": 413.243586,
+      "subtitle": {
+        "zh": [
+          "这大晚上的 谁呀"
+        ],
+        "py": [
+          "Zhè dà wǎnshàng de shéi ya"
+        ],
+        "en": [
+          "It's already so late. Who are you?"
+        ]
+      }
+    },
+    {
+      "i": 47,
+      "start_seconds": 413.598955,
+      "end_seconds": 414.877042,
+      "subtitle": {
+        "zh": [
+          "麻烦开一下门吧"
+        ],
+        "py": [
+          "Máfan kāi yīxià mén ba"
+        ],
+        "en": [
+          "Would you mind opening the door, please?"
+        ]
+      }
+    },
+    {
+      "i": 48,
+      "start_seconds": 415.0656010000001,
+      "end_seconds": 416.184903,
+      "subtitle": {
+        "zh": [
+          "厂子都停产了"
+        ],
+        "py": [
+          "Chǎngzi dōu tíngchǎnle"
+        ],
+        "en": [
+          "Would you mind opening the door, please?",
+          " The factory has halted production."
+        ]
+      }
+    },
+    {
+      "i": 49,
+      "start_seconds": 416.63657,
+      "end_seconds": 417.803549,
+      "subtitle": {
+        "zh": [
+          "不让进出"
+        ],
+        "py": [
+          "Bù ràng jìnchū"
+        ],
+        "en": [
+          "No one is allowed to go in or out."
+        ]
+      }
+    },
+    {
+      "i": 50,
+      "start_seconds": 418.03058000000004,
+      "end_seconds": 420.560878,
+      "subtitle": {
+        "zh": [
+          "我是周生辰",
+          "白天来过的",
+          "老张"
+        ],
+        "py": [
+          "Wǒ shì zhōu shēngchén",
+          " báitiān láiguò de",
+          " lǎo zhāng"
+        ],
+        "en": [
+          "I am Zhousheng Chen,",
+          " i was here during the daytime.",
+          " Zhang!"
+        ]
+      }
+    },
+    {
+      "i": 51,
+      "start_seconds": 425.194833,
+      "end_seconds": 426.309787,
+      "subtitle": {
+        "zh": [
+          "你呀"
+        ],
+        "py": [
+          "Nǐ ya"
+        ],
+        "en": [
+          "It's you."
+        ]
+      }
+    },
+    {
+      "i": 52,
+      "start_seconds": 426.442964,
+      "end_seconds": 428.846811,
+      "subtitle": {
+        "zh": [
+          "让他进来吧"
+        ],
+        "py": [
+          "Ràng tā jìnlái ba"
+        ],
+        "en": [
+          "Let him in."
+        ]
+      }
+    },
+    {
+      "i": 53,
+      "start_seconds": 439.268,
+      "end_seconds": 442.48161,
+      "subtitle": {
+        "zh": [
+          "我说",
+          "这厂子都没人了",
+          "你进去干什么呀"
+        ],
+        "py": [
+          "Wǒ shuō",
+          " zhè chǎngzi dōu méi rénle",
+          " nǐ jìnqù gàn shénme ya"
+        ],
+        "en": [
+          "I have to ask.",
+          " There's already no one in the factory,",
+          " what are you coming here for?"
+        ]
+      }
+    },
+    {
+      "i": 54,
+      "start_seconds": 442.996283,
+      "end_seconds": 444.500518,
+      "subtitle": {
+        "zh": [
+          "我想去一下化验室"
+        ],
+        "py": [
+          "Wǒ xiǎng qù yīxià huàyàn shì"
+        ],
+        "en": [
+          "I want to go to the laboratory."
+        ]
+      }
+    },
+    {
+      "i": 55,
+      "start_seconds": 444.539777,
+      "end_seconds": 448.35139,
+      "subtitle": {
+        "zh": [
+          "化验室",
+          "在三楼 最里面那间"
+        ],
+        "py": [
+          "Huàyàn shì",
+          " zài sān lóu zuì lǐmiàn nà jiān"
+        ],
+        "en": [
+          "The laboratory?",
+          " It's on the third floor, the room at the end of the hall."
+        ]
+      }
+    },
+    {
+      "i": 56,
+      "start_seconds": 447.537819,
+      "end_seconds": 448.321966,
+      "subtitle": {
+        "zh": [
+          "在三楼 最里面那间"
+        ],
+        "py": [
+          "Zài sān lóu zuì lǐmiàn nà jiān"
+        ],
+        "en": [
+          "It's on the third floor, the room at the end of the hall."
+        ]
+      }
+    },
+    {
+      "i": 57,
+      "start_seconds": 448.86634000000004,
+      "end_seconds": 451.275868,
+      "subtitle": {
+        "zh": [
+          "好 谢谢"
+        ],
+        "py": [
+          "Hǎo xièxiè"
+        ],
+        "en": [
+          "Okay, thanks."
+        ]
+      }
+    },
+    {
+      "i": 58,
+      "start_seconds": 473.314159,
+      "end_seconds": 476.760993,
+      "subtitle": {
+        "zh": [
+          "周生行",
+          "你老了"
+        ],
+        "py": [
+          "Zhōushēngxíng",
+          " nǐ lǎole"
+        ],
+        "en": [
+          "Zhousheng Xing.",
+          " You are old now."
+        ]
+      }
+    },
+    {
+      "i": 59,
+      "start_seconds": 478.06574800000004,
+      "end_seconds": 481.108042,
+      "subtitle": {
+        "zh": [
+          "是吗",
+          "不是我老了"
+        ],
+        "py": [
+          "Shì ma",
+          " bùshì wǒ lǎole"
+        ],
+        "en": [
+          "Am I?",
+          " It's not just me."
+        ]
+      }
+    },
+    {
+      "i": 60,
+      "start_seconds": 480.915336,
+      "end_seconds": 482.793676,
+      "subtitle": {
+        "zh": [
+          "是咱们大家都老了"
+        ],
+        "py": [
+          "Shì zánmen dàjiā dōu lǎole"
+        ],
+        "en": [
+          "Every one of us here is old."
+        ]
+      }
+    },
+    {
+      "i": 61,
+      "start_seconds": 485.554728,
+      "end_seconds": 488.117968,
+      "subtitle": {
+        "zh": [
+          "是啊",
+          "我记得",
+          "我们上高中那会儿"
+        ],
+        "py": [
+          "Shì a",
+          " wǒ jìdé",
+          " wǒmen shàng gāozhōng nà huì er"
+        ],
+        "en": [
+          "Yeah.",
+          " I remember that",
+          " when we were in high school,"
+        ]
+      }
+    },
+    {
+      "i": 62,
+      "start_seconds": 488.37987400000003,
+      "end_seconds": 489.747376,
+      "subtitle": {
+        "zh": [
+          "秦婉跟着老师学艺"
+        ],
+        "py": [
+          "Qín wǎn gēnzhe lǎoshī xué yì"
+        ],
+        "en": [
+          "Qin Wan was still learning from her teacher,"
+        ]
+      }
+    },
+    {
+      "i": 63,
+      "start_seconds": 490.081444,
+      "end_seconds": 491.898243,
+      "subtitle": {
+        "zh": [
+          "你呀 那会儿天天接送"
+        ],
+        "py": [
+          "Nǐ ya nà huì er tiāntiān jiēsòng"
+        ],
+        "en": [
+          "and you would pick up her every day."
+        ]
+      }
+    },
+    {
+      "i": 64,
+      "start_seconds": 492.68569299999996,
+      "end_seconds": 496.27832,
+      "subtitle": {
+        "zh": [
+          "这一晃啊",
+          "半辈子下来喽"
+        ],
+        "py": [
+          "Zhè yīhuàng a",
+          " bànbèizi xiàlái lóu"
+        ],
+        "en": [
+          "How time flies.",
+          " Now half of our life is gone."
+        ]
+      }
+    },
+    {
+      "i": 65,
+      "start_seconds": 504.120594,
+      "end_seconds": 506.985729,
+      "subtitle": {
+        "zh": [
+          "小辰呢",
+          "他出去了"
+        ],
+        "py": [
+          "Xiǎo chén ne",
+          " tā chūqùle"
+        ],
+        "en": [
+          "Where is Chen?",
+          " He went out."
+        ]
+      }
+    },
+    {
+      "i": 66,
+      "start_seconds": 507.47745000000003,
+      "end_seconds": 510.311629,
+      "subtitle": {
+        "zh": [
+          "也不和长辈打声招呼",
+          "我们走到亭内歇足一会"
+        ],
+        "py": [
+          "Yě bù hé zhǎngbèi dǎ shēng zhāohū",
+          " wǒmen zǒu dào tíng nèi xiē zú yī huǐ"
+        ],
+        "en": [
+          "How rude of him to leave without informing us.",
+          " ♫Let's take a break in the pavilion♫"
+        ]
+      }
+    },
+    {
+      "i": 67,
+      "start_seconds": 572.762863,
+      "end_seconds": 576.5283019999999,
+      "subtitle": {
+        "zh": [
+          "喂 赵老师",
+          "我被锁在印染厂里了"
+        ],
+        "py": [
+          "Wèi zhào lǎoshī",
+          " wǒ bèi suǒ zài yìnrǎn chǎng lǐle"
+        ],
+        "en": [
+          "Hello, Mr. Zhao.",
+          " I am locked inside the printing factory."
+        ]
+      }
+    },
+    {
+      "i": 68,
+      "start_seconds": 576.7988559999998,
+      "end_seconds": 579.335924,
+      "subtitle": {
+        "zh": [
+          "能不能找人过来",
+          "开一下门啊"
+        ],
+        "py": [
+          "Néng bùnéng zhǎo rén guòlái",
+          " kāi yīxià mén a"
+        ],
+        "en": [
+          "Can you get someone here",
+          " to open the door?"
+        ]
+      }
+    },
+    {
+      "i": 69,
+      "start_seconds": 599.030634,
+      "end_seconds": 602.196861,
+      "subtitle": {
+        "zh": [
+          "你怎么来了",
+          "我一猜你肯定来这儿了"
+        ],
+        "py": [
+          "Nǐ zěnme láile",
+          " wǒ yī cāi nǐ kěndìng lái zhè'erle"
+        ],
+        "en": [
+          "Why are you here?",
+          " I knew you would be here."
+        ]
+      }
+    },
+    {
+      "i": 70,
+      "start_seconds": 603.577152,
+      "end_seconds": 604.981176,
+      "subtitle": {
+        "zh": [
+          "开门"
+        ],
+        "py": [
+          "Kāimén"
+        ],
+        "en": [
+          "Open the door."
+        ]
+      }
+    },
+    {
+      "i": 71,
+      "start_seconds": 609.756022,
+      "end_seconds": 611.519332,
+      "subtitle": {
+        "zh": [
+          "锁上了"
+        ],
+        "py": [
+          "Suǒ shàngle"
+        ],
+        "en": [
+          "It's locked."
+        ]
+      }
+    },
+    {
+      "i": 72,
+      "start_seconds": 616.290771,
+      "end_seconds": 619.469487,
+      "subtitle": {
+        "zh": [
+          "有人停产不高兴",
+          "拿你撒气"
+        ],
+        "py": [
+          "Yǒurén tíngchǎn bù gāoxìng",
+          " ná nǐ sāqì"
+        ],
+        "en": [
+          "Someone is taking it out on you",
+          " because the production was halted."
+        ]
+      }
+    },
+    {
+      "i": 73,
+      "start_seconds": 624.0112539999999,
+      "end_seconds": 626.746231,
+      "subtitle": {
+        "zh": [
+          "你说你大晚上的",
+          "来这儿干什么呀"
+        ],
+        "py": [
+          "Nǐ shuō nǐ dà wǎnshàng de",
+          " lái zhè'er gànshénme ya"
+        ],
+        "en": [
+          "I mean, it's in the middle of the night.",
+          " Why did you even come here?"
+        ]
+      }
+    },
+    {
+      "i": 74,
+      "start_seconds": 628.5790979999998,
+      "end_seconds": 631.677731,
+      "subtitle": {
+        "zh": [
+          "我过来取水样",
+          "送到学生那边化验"
+        ],
+        "py": [
+          "Wǒ guòlái qǔ shuǐ yàng",
+          " sòng dào xuéshēng nà biān huàyàn"
+        ],
+        "en": [
+          "I came to get some water sample",
+          " and send it to my students for testing."
+        ]
+      }
+    },
+    {
+      "i": 75,
+      "start_seconds": 632.5777979999998,
+      "end_seconds": 635.342075,
+      "subtitle": {
+        "zh": [
+          "不是都已经承认",
+          "超标了吗",
+          "还验什么"
+        ],
+        "py": [
+          "Bùshì dōu yǐjīng chéngrèn",
+          " chāobiāole ma",
+          " hái yàn shénme"
+        ],
+        "en": [
+          "I thought they had admitted",
+          " they were exceeding the standards.",
+          " What's the test for?"
+        ]
+      }
+    },
+    {
+      "i": 76,
+      "start_seconds": 636.2382609999999,
+      "end_seconds": 638.910836,
+      "subtitle": {
+        "zh": [
+          "我就想看看",
+          "究竟超了多少"
+        ],
+        "py": [
+          "Wǒ jiù xiǎng kàn kàn",
+          " jiùjìng chāole duōshǎo"
+        ],
+        "en": [
+          "I just want to find out",
+          " how bad it was?"
+        ]
+      }
+    },
+    {
+      "i": 77,
+      "start_seconds": 642.2215869999999,
+      "end_seconds": 646.207868,
+      "subtitle": {
+        "zh": [
+          "文川哪",
+          "我老赵",
+          "赵叔"
+        ],
+        "py": [
+          "Wén chuān nǎ",
+          " wǒ lǎo zhào",
+          " zhào shū"
+        ],
+        "en": [
+          "Hi, Wenchuan.",
+          " I am Uncle Zhao.",
+          " Uncle Zhao."
+        ]
+      }
+    },
+    {
+      "i": 78,
+      "start_seconds": 646.865797,
+      "end_seconds": 648.267858,
+      "subtitle": {
+        "zh": [
+          "是这么回事啊"
+        ],
+        "py": [
+          "Shì zhème huí shì a"
+        ],
+        "en": [
+          "Here's the thing."
+        ]
+      }
+    },
+    {
+      "i": 79,
+      "start_seconds": 648.5176979999998,
+      "end_seconds": 651.69573,
+      "subtitle": {
+        "zh": [
+          "你大哥呢",
+          "被锁在印染厂了"
+        ],
+        "py": [
+          "Nǐ dàgē ne",
+          " bèi suǒ zài yìnrǎn chǎngle"
+        ],
+        "en": [
+          "Your brother,",
+          " he is locked in the printing factory."
+        ]
+      }
+    },
+    {
+      "i": 80,
+      "start_seconds": 651.7985849999998,
+      "end_seconds": 655.159924,
+      "subtitle": {
+        "zh": [
+          "我这儿呢",
+          "又喝了点酒",
+          "不能动车"
+        ],
+        "py": [
+          "Wǒ zhè'er ne",
+          " yòu hēle diǎn jiǔ",
+          " bùnéng dòngchē"
+        ],
+        "en": [
+          "I just",
+          " had some wine,",
+          " so I can't drive."
+        ]
+      }
+    },
+    {
+      "i": 81,
+      "start_seconds": 655.50714,
+      "end_seconds": 659.604702,
+      "subtitle": {
+        "zh": [
+          "你看",
+          "你方不方便过去一下呢",
+          "行 交给我处理"
+        ],
+        "py": [
+          "Nǐ kàn",
+          " nǐ fāng bù fāngbiàn guòqù yīxià ne",
+          " xíng jiāo gěi wǒ chǔlǐ"
+        ],
+        "en": [
+          "If it's not too troubling,",
+          " are you available now to go there?"
+        ]
+      }
+    },
+    {
+      "i": 82,
+      "start_seconds": 659.5633679999999,
+      "end_seconds": 664.0041670000005,
+      "subtitle": {
+        "zh": [
+          "行 交给我处理",
+          "好好好",
+          "那 那谢谢了啊"
+        ],
+        "py": [
+          "Xíng jiāo gěi wǒ chǔlǐ",
+          " hǎohǎo hǎo",
+          " nà nà xièxièle a"
+        ],
+        "en": [
+          "Okay, I'll handle it.",
+          " Okay, okay.",
+          " I appreciate it."
+        ]
+      }
+    },
+    {
+      "i": 83,
+      "start_seconds": 742.9974289999999,
+      "end_seconds": 746.44524,
+      "subtitle": {
+        "zh": [
+          "哥",
+          "梅行说大哥被关在",
+          "一个小厂子里"
+        ],
+        "py": [
+          "Gē",
+          " méi xíng shuō dàgē bèi guān zài",
+          " yīgè xiǎo chǎngzi lǐ"
+        ],
+        "en": [
+          "Wenchuan,",
+          " mei Xing says Chen has been locked",
+          " in a small factory"
+        ]
+      }
+    },
+    {
+      "i": 84,
+      "start_seconds": 746.616215,
+      "end_seconds": 749.014792,
+      "subtitle": {
+        "zh": [
+          "等了三个小时",
+          "都没有人去开门"
+        ],
+        "py": [
+          "Děngle sān gè xiǎoshí",
+          " dōu méiyǒu rén qù kāimén"
+        ],
+        "en": [
+          "for three hours already",
+          " and no one is there to open the door."
+        ]
+      }
+    },
+    {
+      "i": 85,
+      "start_seconds": 753.6022339999998,
+      "end_seconds": 755.134656,
+      "subtitle": {
+        "zh": [
+          "我去看看"
+        ],
+        "py": [
+          "Wǒ qù kàn kàn"
+        ],
+        "en": [
+          "I will check it out."
+        ]
+      }
+    },
+    {
+      "i": 86,
+      "start_seconds": 776.2983089999999,
+      "end_seconds": 779.449496,
+      "subtitle": {
+        "zh": [
+          "二哥",
+          "你身体不好",
+          "跑出来做什么"
+        ],
+        "py": [
+          "Èr gē",
+          " nǐ shēntǐ bù hǎo",
+          " pǎo chūlái zuò shénme"
+        ],
+        "en": [
+          "Wenchuan.",
+          " You are not well,",
+          " why did you come out?"
+        ]
+      }
+    },
+    {
+      "i": 87,
+      "start_seconds": 780.0131719999999,
+      "end_seconds": 783.381828,
+      "subtitle": {
+        "zh": [
+          "有些话",
+          "当着妈的面不好说"
+        ],
+        "py": [
+          "Yǒuxiē huà",
+          " dāngzhe mā de miàn bù hǎoshuō"
+        ],
+        "en": [
+          "There's something",
+          " i shouldn't speak in front of our mother."
+        ]
+      }
+    },
+    {
+      "i": 88,
+      "start_seconds": 784.6280469999998,
+      "end_seconds": 787.993702,
+      "subtitle": {
+        "zh": [
+          "梅行说",
+          "赵叔问过你"
+        ],
+        "py": [
+          "Méi xíng shuō",
+          " zhàoshūwènguò nǐ"
+        ],
+        "en": [
+          "Mei Xing says that",
+          " uncle Zhao asked you about this."
+        ]
+      }
+    },
+    {
+      "i": 89,
+      "start_seconds": 788.033134,
+      "end_seconds": 791.749154,
+      "subtitle": {
+        "zh": [
+          "你说你会去",
+          "让大家都不用管"
+        ],
+        "py": [
+          "Nǐ shuō nǐ huì qù",
+          " ràng dàjiā dōu bùyòng guǎn"
+        ],
+        "en": [
+          "You said you would go",
+          " and told everyone to leave this to you."
+        ]
+      }
+    },
+    {
+      "i": 90,
+      "start_seconds": 793.7414469999999,
+      "end_seconds": 795.343774,
+      "subtitle": {
+        "zh": [
+          "这是谁传的话"
+        ],
+        "py": [
+          "Zhè shì shéi chuán dehuà"
+        ],
+        "en": [
+          "That's not what happened!"
+        ]
+      }
+    },
+    {
+      "i": 91,
+      "start_seconds": 796.9233309999998,
+      "end_seconds": 801.556233,
+      "subtitle": {
+        "zh": [
+          "我跟赵叔说的是",
+          "不管谁锁的门",
+          "先把大哥接出来再说"
+        ],
+        "py": [
+          "Wǒ gēn zhào shū shuō de shì",
+          " bùguǎn shéi suǒ de mén",
+          " xiān bǎ dàgē jiē chūlái zàishuō"
+        ],
+        "en": [
+          "What I told Uncle Zhao was",
+          " no matter who locked the door,",
+          " the priority is to get Chen out."
+        ]
+      }
+    },
+    {
+      "i": 92,
+      "start_seconds": 802.775832,
+      "end_seconds": 805.441593,
+      "subtitle": {
+        "zh": [
+          "这话一传",
+          "味就变了"
+        ],
+        "py": [
+          "Zhè huà yī chuán",
+          " wèi jiù biànle"
+        ],
+        "en": [
+          "I suppose gossip",
+          " is a sure way of twisting people's words."
+        ]
+      }
+    },
+    {
+      "i": 93,
+      "start_seconds": 807.575302,
+      "end_seconds": 808.9928179999998,
+      "subtitle": {
+        "zh": [
+          "还有别的事吗"
+        ],
+        "py": [
+          "Hái yǒu bié de shì ma"
+        ],
+        "en": [
+          "Anything else?"
+        ]
+      }
+    },
+    {
+      "i": 94,
+      "start_seconds": 810.3692999999998,
+      "end_seconds": 813.146321,
+      "subtitle": {
+        "zh": [
+          "那我去接大哥了",
+          "早去早回"
+        ],
+        "py": [
+          "Nà wǒ qù jiē dàgēle",
+          " zǎo qù zǎo huí"
+        ],
+        "en": [
+          "I will go pick him up then.",
+          " Come back soon."
+        ]
+      }
+    },
+    {
+      "i": 95,
+      "start_seconds": 850.4327949999998,
+      "end_seconds": 852.514144,
+      "subtitle": {
+        "zh": [
+          "梅律师也在啊"
+        ],
+        "py": [
+          "Méi lǜshī yě zài a"
+        ],
+        "en": [
+          "You're here as well, Mr. Mei."
+        ]
+      }
+    },
+    {
+      "i": 96,
+      "start_seconds": 872.8139139999998,
+      "end_seconds": 875.481114,
+      "subtitle": {
+        "zh": [
+          "你没回来之前",
+          "他们隔三岔五地找我",
+          "开始我想着"
+        ],
+        "py": [
+          "Nǐ méi huílái zhīqián",
+          " tāmen gé sān chà wǔ de zhǎo wǒ",
+          " kāishǐ wǒ xiǎngzhe"
+        ],
+        "en": [
+          "Before you returned,",
+          " they would come to me every now and then."
+        ]
+      }
+    },
+    {
+      "i": 97,
+      "start_seconds": 875.663055,
+      "end_seconds": 878.9691020000001,
+      "subtitle": {
+        "zh": [
+          "开始我想着",
+          "都是爸的老朋友",
+          "所以尽力帮忙"
+        ],
+        "py": [
+          "Kāishǐ wǒ xiǎngzhe",
+          " dōu shì bà de lǎo péngyǒu",
+          " suǒyǐ jìnlì bāngmáng"
+        ],
+        "en": [
+          "At first, I thought",
+          " they were father's old friends,",
+          " so I tried to help them as much as I can."
+        ]
+      }
+    },
+    {
+      "i": 98,
+      "start_seconds": 880.126084,
+      "end_seconds": 882.652481,
+      "subtitle": {
+        "zh": [
+          "后来发现",
+          "根本就管不过来"
+        ],
+        "py": [
+          "Hòulái fāxiàn",
+          " gēnběn jiù guǎn bùguò lái"
+        ],
+        "en": [
+          "Until I finally realized",
+          " i couldn't handle them at all."
+        ]
+      }
+    },
+    {
+      "i": 99,
+      "start_seconds": 882.871323,
+      "end_seconds": 886.105371,
+      "subtitle": {
+        "zh": [
+          "他们一定是",
+          "欺负你刚回来",
+          "不了解情况"
+        ],
+        "py": [
+          "Tāmen yīdìng shì",
+          " qīfù nǐ gāng huílái",
+          " bù liǎojiě qíngkuàng"
+        ],
+        "en": [
+          "They must be",
+          " ill-treating you since you just came back",
+          " and had little idea of what's going on."
+        ]
+      }
+    },
+    {
+      "i": 100,
+      "start_seconds": 886.297338,
+      "end_seconds": 887.495048,
+      "subtitle": {
+        "zh": [
+          "比我好骗"
+        ],
+        "py": [
+          "Bǐ wǒ hǎo piàn"
+        ],
+        "en": [
+          "Perhaps they thought you were more gullible than I was."
+        ]
+      }
+    },
+    {
+      "i": 101,
+      "start_seconds": 888.6026479999998,
+      "end_seconds": 891.286689,
+      "subtitle": {
+        "zh": [
+          "其实 就是想让你掏钱"
+        ],
+        "py": [
+          "Qíshí jiùshì xiǎng ràng nǐ tāo qián"
+        ],
+        "en": [
+          "In fact, they just want your money."
+        ]
+      }
+    },
+    {
+      "i": 102,
+      "start_seconds": 891.7867940000001,
+      "end_seconds": 893.352664,
+      "subtitle": {
+        "zh": [
+          "无止境地让你投资"
+        ],
+        "py": [
+          "Wú zhǐjìng dì ràng nǐ tóuzī"
+        ],
+        "en": [
+          "They want you to invest in them endlessly."
+        ]
+      }
+    },
+    {
+      "i": 103,
+      "start_seconds": 896.9331989999998,
+      "end_seconds": 898.470724,
+      "subtitle": {
+        "zh": [
+          "这是什么"
+        ],
+        "py": [
+          "Zhè shì shénme"
+        ],
+        "en": [
+          "What's that?"
+        ]
+      }
+    },
+    {
+      "i": 104,
+      "start_seconds": 900.1330069999999,
+      "end_seconds": 901.945363,
+      "subtitle": {
+        "zh": [
+          "取的水样"
+        ],
+        "py": [
+          "Qǔ de shuǐ yàng"
+        ],
+        "en": [
+          "Water sample."
+        ]
+      }
+    },
+    {
+      "i": 105,
+      "start_seconds": 903.2589119999999,
+      "end_seconds": 905.631789,
+      "subtitle": {
+        "zh": [
+          "科学家做事就是特别"
+        ],
+        "py": [
+          "Kēxuéjiā zuòshì jiùshì tèbié"
+        ],
+        "en": [
+          "Scientists always do things differently."
+        ]
+      }
+    },
+    {
+      "i": 106,
+      "start_seconds": 907.021403,
+      "end_seconds": 910.69796,
+      "subtitle": {
+        "zh": [
+          "劝你一句",
+          "越狠心越清净"
+        ],
+        "py": [
+          "Quàn nǐ yījù",
+          " yuè hěnxīn yuè qīngjìng"
+        ],
+        "en": [
+          "Here's my advice.",
+          " The crueler you are, the less trouble you will have."
+        ]
+      }
+    },
+    {
+      "i": 107,
+      "start_seconds": 914.86051,
+      "end_seconds": 916.327287,
+      "subtitle": {
+        "zh": [
+          "那我先回去了"
+        ],
+        "py": [
+          "Nà wǒ xiān huíqùle"
+        ],
+        "en": [
+          "I have to go now."
+        ]
+      }
+    },
+    {
+      "i": 108,
+      "start_seconds": 936.461697,
+      "end_seconds": 943.467193,
+      "subtitle": {
+        "zh": [
+          "其实啊",
+          "你这个弟弟",
+          "比你更适合做生意"
+        ],
+        "py": [
+          "Qíshí a",
+          " nǐ zhège dìdì",
+          " bǐ nǐ gèng shìhé zuò shēngyì"
+        ],
+        "en": [
+          "Actually,",
+          " your younger brother",
+          " is more suitable to do business than you."
+        ]
+      }
+    },
+    {
+      "i": 109,
+      "start_seconds": 943.4367379999998,
+      "end_seconds": 949.064663,
+      "subtitle": {
+        "zh": [
+          "只可惜",
+          "心术不正"
+        ],
+        "py": [
+          "Zhǐ kěxí",
+          " xīnshù bùzhèng"
+        ],
+        "en": [
+          "Unfortunately,",
+          " his mind is evil."
+        ]
+      }
+    },
+    {
+      "i": 110,
+      "start_seconds": 953.397708,
+      "end_seconds": 959.4627909999998,
+      "subtitle": {}
+    },
+    {
+      "i": 111,
+      "start_seconds": 966.44272,
+      "end_seconds": 968.47977,
+      "subtitle": {
+        "zh": [
+          "进来吧",
+          "晓誉还没起床"
+        ],
+        "py": [
+          "Jìnlái ba",
+          " xiǎo yù hái méi qǐchuáng"
+        ],
+        "en": [
+          "Come in.",
+          " Xiaoyu is still in bed."
+        ]
+      }
+    },
+    {
+      "i": 112,
+      "start_seconds": 978.1087059999999,
+      "end_seconds": 980.480333,
+      "subtitle": {
+        "zh": [
+          "从来不谈恋爱的人"
+        ],
+        "py": [
+          "Cónglái bu tán liàn'ài de rén"
+        ],
+        "en": [
+          "A girl who has never been in a relationship"
+        ]
+      }
+    },
+    {
+      "i": 113,
+      "start_seconds": 981.2517829999998,
+      "end_seconds": 983.824051,
+      "subtitle": {
+        "zh": [
+          "谈起恋爱",
+          "都不用睡觉的呀"
+        ],
+        "py": [
+          "Tán qǐ liàn'ài",
+          " dōu bùyòng shuìjiào de ya"
+        ],
+        "en": [
+          "sure has all the energy in the world",
+          " when she gets a boyfriend."
+        ]
+      }
+    },
+    {
+      "i": 114,
+      "start_seconds": 984.5971509999998,
+      "end_seconds": 986.463663,
+      "subtitle": {
+        "zh": [
+          "你们不用管我"
+        ],
+        "py": [
+          "Nǐmen bùyòng guǎn wǒ"
+        ],
+        "en": [
+          "Don't mind me."
+        ]
+      }
+    },
+    {
+      "i": 115,
+      "start_seconds": 986.4616709999997,
+      "end_seconds": 990.125058,
+      "subtitle": {
+        "zh": [
+          "慢慢玩啊",
+          "我退出"
+        ],
+        "py": [
+          "Màn man wán a",
+          " wǒ tuìchū"
+        ],
+        "en": [
+          "Enjoy your time.",
+          " I take my leave."
+        ]
+      }
+    },
+    {
+      "i": 116,
+      "start_seconds": 1000.122186,
+      "end_seconds": 1000.781201,
+      "subtitle": {
+        "zh": [
+          "你先坐"
+        ],
+        "py": [
+          "Nǐ xiān zuò"
+        ],
+        "en": [
+          "Take a seat."
+        ]
+      }
+    },
+    {
+      "i": 117,
+      "start_seconds": 1001.238064,
+      "end_seconds": 1002.869727,
+      "subtitle": {
+        "zh": [
+          "你自己开车回来的"
+        ],
+        "py": [
+          "Nǐ zìjǐ kāichē huílái de"
+        ],
+        "en": [
+          "Did you drive back on your own?"
+        ]
+      }
+    },
+    {
+      "i": 118,
+      "start_seconds": 1004.1027529999999,
+      "end_seconds": 1007.096888,
+      "subtitle": {
+        "zh": [
+          "对",
+          "开夜路多危险",
+          "下次不许了"
+        ],
+        "py": [
+          "Duì",
+          " kāi yè lù duō wéixiǎn",
+          " xià cì bùxǔle"
+        ],
+        "en": [
+          "Yeah.",
+          " It's so dangerous to drive at night.",
+          " Don't do that anymore."
+        ]
+      }
+    },
+    {
+      "i": 119,
+      "start_seconds": 1007.556796,
+      "end_seconds": 1010.4071000000001,
+      "subtitle": {
+        "zh": [
+          "又没有急事",
+          "好",
+          "坐吧"
+        ],
+        "py": [
+          "Yòu méiyǒu jíshì",
+          " hǎo",
+          " zuò ba"
+        ],
+        "en": [
+          "There wasn't anything urgent anyway.",
+          " Okay.",
+          " Take a seat."
+        ]
+      }
+    },
+    {
+      "i": 120,
+      "start_seconds": 1015.388558,
+      "end_seconds": 1017.578449,
+      "subtitle": {
+        "zh": [
+          "不好意思"
+        ],
+        "py": [
+          "Bù hǎoyìsi"
+        ],
+        "en": [
+          "I am sorry."
+        ]
+      }
+    },
+    {
+      "i": 121,
+      "start_seconds": 1019.089894,
+      "end_seconds": 1022.090058,
+      "subtitle": {
+        "zh": [
+          "坐吧"
+        ],
+        "py": [
+          "Zuò ba"
+        ],
+        "en": [
+          "Have a seat."
+        ]
+      }
+    },
+    {
+      "i": 122,
+      "start_seconds": 1025.754763,
+      "end_seconds": 1028.175947,
+      "subtitle": {
+        "zh": [
+          "之前说好",
+          "要带你去看婚房的"
+        ],
+        "py": [
+          "Zhīqián shuō hǎo",
+          " yào dài nǐ qù kàn hūn fáng de"
+        ],
+        "en": [
+          "I promised",
+          " to take you to see the wedding house."
+        ]
+      }
+    },
+    {
+      "i": 123,
+      "start_seconds": 1029.436222,
+      "end_seconds": 1031.954621,
+      "subtitle": {
+        "zh": [
+          "婚房不会跑",
+          "我也不会跑"
+        ],
+        "py": [
+          "Hūn fáng bù huì pǎo",
+          " wǒ yě bù huì pǎo"
+        ],
+        "en": [
+          "The house won't run away,",
+          " neither will I."
+        ]
+      }
+    },
+    {
+      "i": 124,
+      "start_seconds": 1032.763798,
+      "end_seconds": 1034.3982349999999,
+      "subtitle": {
+        "zh": [
+          "今天正好贴主卧的墙纸"
+        ],
+        "py": [
+          "Jīntiān zhènghǎo tiē zhǔ wò de qiángzhǐ"
+        ],
+        "en": [
+          "They happen to be sticking the wallpaper in the master bedroom today."
+        ]
+      }
+    },
+    {
+      "i": 125,
+      "start_seconds": 1034.820672,
+      "end_seconds": 1036.986007,
+      "subtitle": {
+        "zh": [
+          "我想让你去看一看",
+          "你喜不喜欢"
+        ],
+        "py": [
+          "Wǒ xiǎng ràng nǐ qù kàn yī kàn",
+          " nǐ xǐ bù xǐhuān"
+        ],
+        "en": [
+          "I want you to have a look",
+          " and see if you like it or not."
+        ]
+      }
+    },
+    {
+      "i": 126,
+      "start_seconds": 1037.879409,
+      "end_seconds": 1040.208754,
+      "subtitle": {
+        "zh": [
+          "对了 新床也到了"
+        ],
+        "py": [
+          "Duìle xīn chuáng yě dàole"
+        ],
+        "en": [
+          "Oh, and the bed has also arrived."
+        ]
+      }
+    },
+    {
+      "i": 127,
+      "start_seconds": 1041.2531719999997,
+      "end_seconds": 1044.519404,
+      "subtitle": {
+        "zh": [
+          "客厅具体是什么情况",
+          "林叔没跟我讲"
+        ],
+        "py": [
+          "Kètīng jùtǐ shì shénme qíngkuàng",
+          " lín shū méi gēn wǒ jiǎng"
+        ],
+        "en": [
+          "Uncle Lin didn't tell me",
+          " what's it like in the living room"
+        ]
+      }
+    },
+    {
+      "i": 128,
+      "start_seconds": 1044.827366,
+      "end_seconds": 1045.928702,
+      "subtitle": {
+        "zh": [
+          "我也不是特别清楚"
+        ],
+        "py": [
+          "Wǒ yě bùshì tèbié qīngchǔ"
+        ],
+        "en": [
+          "and I have no clue either."
+        ]
+      }
+    },
+    {
+      "i": 129,
+      "start_seconds": 1044.827366,
+      "end_seconds": 1045.928702,
+      "subtitle": {
+        "zh": [
+          "我也不是特别清楚"
+        ],
+        "py": [
+          "Wǒ yě bùshì tèbié qīngchǔ"
+        ],
+        "en": [
+          "and I have no clue either."
+        ]
+      }
+    },
+    {
+      "i": 130,
+      "start_seconds": 1046.252116,
+      "end_seconds": 1047.618549,
+      "subtitle": {
+        "zh": [
+          "我们可以去了再看"
+        ],
+        "py": [
+          "Wǒmen kěyǐ qùle zài kàn"
+        ],
+        "en": [
+          "We can check it out when we get there."
+        ]
+      }
+    },
+    {
+      "i": 131,
+      "start_seconds": 1046.3511859999999,
+      "end_seconds": 1047.764807,
+      "subtitle": {
+        "zh": [
+          "我们可以去了再看"
+        ],
+        "py": [
+          "Wǒmen kěyǐ qùle zài kàn"
+        ],
+        "en": [
+          "We can check it out when we get there."
+        ]
+      }
+    },
+    {
+      "i": 132,
+      "start_seconds": 1048.856106,
+      "end_seconds": 1050.328085,
+      "subtitle": {
+        "zh": [
+          "不过林叔说"
+        ],
+        "py": [
+          "Bùguò lín shū shuō"
+        ],
+        "en": [
+          "But Uncle Lin did say"
+        ]
+      }
+    },
+    {
+      "i": 133,
+      "start_seconds": 1049.025116,
+      "end_seconds": 1054.90538,
+      "subtitle": {
+        "zh": [
+          "不过林叔说",
+          "我们两个",
+          "这么喜欢安静的人",
+          "客厅的作用并不是很大"
+        ],
+        "py": [
+          "Bùguò lín shū shuō",
+          " wǒmen liǎng gè",
+          " zhème xǐhuān ānjìng de rén",
+          " kètīng de zuòyòng bìng bùshì hěn dà"
+        ],
+        "en": [
+          "But Uncle Lin did say",
+          " we are both",
+          " somewhat introverted.",
+          " So the living room doesn't really matter."
+        ]
+      }
+    },
+    {
+      "i": 134,
+      "start_seconds": 1050.724597,
+      "end_seconds": 1052.922446,
+      "subtitle": {
+        "zh": [
+          "我们两个",
+          "这么喜欢安静的人"
+        ],
+        "py": [
+          "Wǒmen liǎng gè",
+          " zhème xǐhuān ānjìng de rén"
+        ],
+        "en": [
+          "we are both",
+          " somewhat introverted."
+        ]
+      }
+    },
+    {
+      "i": 135,
+      "start_seconds": 1053.260076,
+      "end_seconds": 1054.953834,
+      "subtitle": {
+        "zh": [
+          "客厅的作用并不是很大"
+        ],
+        "py": [
+          "Kètīng de zuòyòng bìng bùshì hěn dà"
+        ],
+        "en": [
+          "So the living room doesn't really matter."
+        ]
+      }
+    },
+    {
+      "i": 136,
+      "start_seconds": 1055.145245,
+      "end_seconds": 1057.661843,
+      "subtitle": {
+        "zh": [
+          "书房和卧室比较重要"
+        ],
+        "py": [
+          "Shūfáng hé wòshì bǐjiào zhòngyào"
+        ],
+        "en": [
+          "The study and the bedroom would be more important."
+        ]
+      }
+    },
+    {
+      "i": 137,
+      "start_seconds": 1055.24907,
+      "end_seconds": 1057.707723,
+      "subtitle": {
+        "zh": [
+          "书房和卧室比较重要"
+        ],
+        "py": [
+          "Shūfáng hé wòshì bǐjiào zhòngyào"
+        ],
+        "en": [
+          "The study and the bedroom would be more important."
+        ]
+      }
+    },
+    {
+      "i": 138,
+      "start_seconds": 1059.342542,
+      "end_seconds": 1061.604244,
+      "subtitle": {
+        "zh": [
+          "现在最重要的",
+          "是你的早饭"
+        ],
+        "py": [
+          "Xiànzài zuì zhòngyào de",
+          " shì nǐ de zǎofàn"
+        ],
+        "en": [
+          "The most important thing right now",
+          " is your breakfast."
+        ]
+      }
+    },
+    {
+      "i": 139,
+      "start_seconds": 1059.437308,
+      "end_seconds": 1061.639307,
+      "subtitle": {
+        "zh": [
+          "现在最重要的",
+          "是你的早饭"
+        ],
+        "py": [
+          "Xiànzài zuì zhòngyào de",
+          " shì nǐ de zǎofàn"
+        ],
+        "en": [
+          "The most important thing right now",
+          " is your breakfast."
+        ]
+      }
+    },
+    {
+      "i": 140,
+      "start_seconds": 1061.9717219999998,
+      "end_seconds": 1063.3412429999998,
+      "subtitle": {
+        "zh": [
+          "想吃什么"
+        ],
+        "py": [
+          "Xiǎng chī shénme"
+        ],
+        "en": [
+          "What do you want to have?"
+        ]
+      }
+    },
+    {
+      "i": 141,
+      "start_seconds": 1062.1717219999998,
+      "end_seconds": 1063.741243,
+      "subtitle": {
+        "zh": [
+          "想吃什么"
+        ],
+        "py": [
+          "Xiǎng chī shénme"
+        ],
+        "en": [
+          "What do you want to have?"
+        ]
+      }
+    },
+    {
+      "i": 142,
+      "start_seconds": 1063.4812149999998,
+      "end_seconds": 1065.214446,
+      "subtitle": {
+        "zh": [
+          "早饭啊"
+        ],
+        "py": [
+          "Zǎofàn a"
+        ],
+        "en": [
+          "Breakfast?"
+        ]
+      }
+    },
+    {
+      "i": 143,
+      "start_seconds": 1067.0853889999999,
+      "end_seconds": 1070.5543400000001,
+      "subtitle": {
+        "zh": [
+          "那天吃的那个蛋奶星星",
+          "就挺好的"
+        ],
+        "py": [
+          "Nèitiān chī dì nàgè dàn nǎi xīngxīng",
+          " jiù tǐng hǎo de"
+        ],
+        "en": [
+          "The cereal the other day",
+          " would be good."
+        ]
+      }
+    },
+    {
+      "i": 144,
+      "start_seconds": 1072.2517549999998,
+      "end_seconds": 1074.085617,
+      "subtitle": {
+        "zh": [
+          "那天是家里没东西了"
+        ],
+        "py": [
+          "Nèitiān shì jiālǐ méi dōngxīle"
+        ],
+        "en": [
+          "I gave you that"
+        ]
+      }
+    },
+    {
+      "i": 145,
+      "start_seconds": 1074.728942,
+      "end_seconds": 1075.544102,
+      "subtitle": {
+        "zh": [
+          "我才给你吃的"
+        ],
+        "py": [
+          "Wǒ cái gěi nǐ chī de"
+        ],
+        "en": [
+          "because there was nothing left at home that day."
+        ]
+      }
+    },
+    {
+      "i": 146,
+      "start_seconds": 1076.0672309999998,
+      "end_seconds": 1079.8498400000005,
+      "subtitle": {
+        "zh": [
+          "没关系 我挺喜欢的",
+          "好 等着"
+        ],
+        "py": [
+          "Méiguānxì wǒ tǐng xǐhuān de",
+          " hǎo děngzhe"
+        ],
+        "en": [
+          "It's okay, I like it.",
+          " Okay, wait here."
+        ]
+      }
+    },
+    {
+      "i": 147,
+      "start_seconds": 1078.447991,
+      "end_seconds": 1079.847949,
+      "subtitle": {
+        "zh": [
+          "好 等着"
+        ],
+        "py": [
+          "Hǎo děngzhe"
+        ],
+        "en": [
+          "Okay, wait here."
+        ]
+      }
+    },
+    {
+      "i": 148,
+      "start_seconds": 1078.475092,
+      "end_seconds": 1079.878812,
+      "subtitle": {
+        "zh": [
+          "好 等着"
+        ],
+        "py": [
+          "Hǎo děngzhe"
+        ],
+        "en": [
+          "Okay, wait here."
+        ]
+      }
+    },
+    {
+      "i": 149,
+      "start_seconds": 1126.7441339999998,
+      "end_seconds": 1128.645693,
+      "subtitle": {
+        "zh": [
+          "这是你的房子"
+        ],
+        "py": [
+          "Zhè shì nǐ de fángzi"
+        ],
+        "en": [
+          "Is this your house?"
+        ]
+      }
+    },
+    {
+      "i": 150,
+      "start_seconds": 1129.757942,
+      "end_seconds": 1130.922884,
+      "subtitle": {
+        "zh": [
+          "我爸爸留下来的"
+        ],
+        "py": [
+          "Wǒ bàba liú xiàlái de"
+        ],
+        "en": [
+          "My father left it to me."
+        ]
+      }
+    },
+    {
+      "i": 151,
+      "start_seconds": 1131.355751,
+      "end_seconds": 1133.25885,
+      "subtitle": {
+        "zh": [
+          "房子正在装修呢"
+        ],
+        "py": [
+          "Fángzi zhèngzài zhuāngxiū ne"
+        ],
+        "en": [
+          "It is still being redecorated."
+        ]
+      }
+    },
+    {
+      "i": 152,
+      "start_seconds": 1133.727866,
+      "end_seconds": 1138.9119350000003,
+      "subtitle": {
+        "zh": [
+          "婚房",
+          "得等到你们办完喜事",
+          "才能住进来",
+          "明白吗"
+        ],
+        "py": [
+          "Hūn fáng",
+          " dé děngdào nǐmen bàn wán xǐshì",
+          " cáinéng zhù jìnlái",
+          " míngbái ma"
+        ],
+        "en": [
+          "You can only move into",
+          " the wedding house",
+          " after your marriage.",
+          " Do you understand?"
+        ]
+      }
+    },
+    {
+      "i": 153,
+      "start_seconds": 1140.8034529999998,
+      "end_seconds": 1142.935237,
+      "subtitle": {
+        "zh": [
+          "你带我参观一下吧"
+        ],
+        "py": [
+          "Nǐ dài wǒ cānguān yīxià ba"
+        ],
+        "en": [
+          "Show me around."
+        ]
+      }
+    },
+    {
+      "i": 154,
+      "start_seconds": 1167.574892,
+      "end_seconds": 1173.778426,
+      "subtitle": {
+        "zh": [
+          "这是什么",
+          "我让人刻了你的名字",
+          "盖在这上面"
+        ],
+        "py": [
+          "Zhè shì shénme",
+          " wǒ ràng rén kèle nǐ de míngzì",
+          " gài zài zhè shàngmiàn"
+        ],
+        "en": [
+          "[Shi Yi]",
+          " what's this?",
+          " I asked someone to make a stamp with your name",
+          " and stamped them here."
+        ]
+      }
+    },
+    {
+      "i": 155,
+      "start_seconds": 1167.652788,
+      "end_seconds": 1169.418434,
+      "subtitle": {
+        "zh": [
+          "这是什么"
+        ],
+        "py": [
+          "Zhè shì shénme"
+        ],
+        "en": [
+          "[Shi Yi]",
+          " what's this?"
+        ]
+      }
+    },
+    {
+      "i": 156,
+      "start_seconds": 1170.9087899999997,
+      "end_seconds": 1173.6909,
+      "subtitle": {
+        "zh": [
+          "我让人刻了你的名字",
+          "盖在这上面"
+        ],
+        "py": [
+          "Wǒ ràng rén kèle nǐ de míngzì",
+          " gài zài zhè shàngmiàn"
+        ],
+        "en": [
+          "I asked someone to make a stamp with your name",
+          " and stamped them here."
+        ]
+      }
+    },
+    {
+      "i": 157,
+      "start_seconds": 1173.8559639999999,
+      "end_seconds": 1175.436015,
+      "subtitle": {
+        "zh": [
+          "干什么用的"
+        ],
+        "py": [
+          "Gànshénme yòng de"
+        ],
+        "en": [
+          "What's it for?"
+        ]
+      }
+    },
+    {
+      "i": 158,
+      "start_seconds": 1175.6550349999998,
+      "end_seconds": 1178.072925,
+      "subtitle": {
+        "zh": [
+          "请柬要用套色木刻水印"
+        ],
+        "py": [
+          "Qǐngjiǎn yào yòng tàoshǎi mùkè shuǐyìn"
+        ],
+        "en": [
+          "The invitation cards would be stamped using a wooden carved stamp."
+        ]
+      }
+    },
+    {
+      "i": 159,
+      "start_seconds": 1178.502399,
+      "end_seconds": 1180.769314,
+      "subtitle": {
+        "zh": [
+          "做出来让你先选字体"
+        ],
+        "py": [
+          "Zuò chūlái ràng nǐ xiān xuǎn zìtǐ"
+        ],
+        "en": [
+          "I asked them to let you pick the font first."
+        ]
+      }
+    },
+    {
+      "i": 160,
+      "start_seconds": 1183.8056909999998,
+      "end_seconds": 1186.371033,
+      "subtitle": {
+        "zh": [
+          "你们家最习惯用什么"
+        ],
+        "py": [
+          "Nǐmen jiā zuì xíguàn yòng shénme"
+        ],
+        "en": [
+          "What type of font would your family prefer?"
+        ]
+      }
+    },
+    {
+      "i": 161,
+      "start_seconds": 1188.1166329999999,
+      "end_seconds": 1192.633622,
+      "subtitle": {
+        "zh": [
+          "家里的老人",
+          "比较崇尚唐风",
+          "喜欢周正的楷书"
+        ],
+        "py": [
+          "Jiālǐ de lǎorén",
+          " bǐjiào chóngshàng táng fēng",
+          " xǐhuān zhōuzhèng de kǎishū"
+        ],
+        "en": [
+          "The seniors at home",
+          " prefer the Tang style.",
+          " They like neat and properly written regular script characters."
+        ]
+      }
+    },
+    {
+      "i": 162,
+      "start_seconds": 1195.1041599999999,
+      "end_seconds": 1198.4692189999998,
+      "subtitle": {
+        "zh": [
+          "楷书四家",
+          "只有赵孟頫是元代人"
+        ],
+        "py": [
+          "Kǎishū sì jiā",
+          " zhǐyǒu zhàomèngfǔ shì yuán dài rén"
+        ],
+        "en": [
+          "Among four great regular script calligraphers,",
+          " only Zhao Mengfu was from the Yuan Dynasty."
+        ]
+      }
+    },
+    {
+      "i": 163,
+      "start_seconds": 1198.8853109999998,
+      "end_seconds": 1202.447916,
+      "subtitle": {
+        "zh": [
+          "既然大家都喜欢唐代",
+          "那就从剩下三家里面挑"
+        ],
+        "py": [
+          "Jìrán dàjiā dōu xǐhuān táng dài",
+          " nà jiù cóng shèng xià sānjiā lǐmiàn tiāo"
+        ],
+        "en": [
+          "Since they prefer the Tang Dynasty,",
+          " we will choose from the rest of the three."
+        ]
+      }
+    },
+    {
+      "i": 164,
+      "start_seconds": 1204.0178589999998,
+      "end_seconds": 1205.692577,
+      "subtitle": {
+        "zh": [
+          "颜真卿的字我挺喜欢的"
+        ],
+        "py": [
+          "Yánzhēnqīng de zì wǒ tǐng xǐhuān de"
+        ],
+        "en": [
+          "I quite like Yan Zhenqin's works."
+        ]
+      }
+    },
+    {
+      "i": 165,
+      "start_seconds": 1205.798609,
+      "end_seconds": 1207.296787,
+      "subtitle": {
+        "zh": [
+          "不过他算枉死"
+        ],
+        "py": [
+          "Bùguò tā suàn wǎngsǐ"
+        ],
+        "en": [
+          "However, he died of unjust treatment."
+        ]
+      }
+    },
+    {
+      "i": 166,
+      "start_seconds": 1207.552359,
+      "end_seconds": 1208.7519459999999,
+      "subtitle": {
+        "zh": [
+          "会不会不太吉利啊"
+        ],
+        "py": [
+          "Huì bù huì bù tài jílì a"
+        ],
+        "en": [
+          "I suppose it is ominous to use that."
+        ]
+      }
+    },
+    {
+      "i": 167,
+      "start_seconds": 1208.983685,
+      "end_seconds": 1210.268114,
+      "subtitle": {
+        "zh": [
+          "毕竟是喜事"
+        ],
+        "py": [
+          "Bìjìng shì xǐshì"
+        ],
+        "en": [
+          "After all, we are having a wedding."
+        ]
+      }
+    },
+    {
+      "i": 168,
+      "start_seconds": 1211.133837,
+      "end_seconds": 1212.62371,
+      "subtitle": {
+        "zh": [
+          "算了"
+        ],
+        "py": [
+          "Suànle"
+        ],
+        "en": [
+          "Forget it."
+        ]
+      }
+    },
+    {
+      "i": 169,
+      "start_seconds": 1213.750342,
+      "end_seconds": 1217.354271,
+      "subtitle": {
+        "zh": [
+          "柳体",
+          "柳体太过严谨了"
+        ],
+        "py": [
+          "Liǔ tǐ",
+          " liǔ tǐ tàiguò yánjǐnle"
+        ],
+        "en": [
+          "The Liu style.",
+          " The Liu style is a bit too serious."
+        ]
+      }
+    },
+    {
+      "i": 170,
+      "start_seconds": 1217.463086,
+      "end_seconds": 1220.421625,
+      "subtitle": {
+        "zh": [
+          "好像不大适合订婚请柬"
+        ],
+        "py": [
+          "Hǎoxiàng bù dà shìhé dìnghūn qǐngjiǎn"
+        ],
+        "en": [
+          "The Liu style is a bit too serious.",
+          " Maybe it won't fit well on an engagement invitation letter."
+        ]
+      }
+    },
+    {
+      "i": 171,
+      "start_seconds": 1227.0274129999998,
+      "end_seconds": 1230.191405,
+      "subtitle": {
+        "zh": [
+          "既然排除了前三家",
+          "那就用最后一个吧"
+        ],
+        "py": [
+          "Jìrán páichúle qián sānjiā",
+          " nà jiù yòng zuìhòu yīgè ba"
+        ],
+        "en": [
+          "Since we ruled out the former three,",
+          " let's use the last one then."
+        ]
+      }
+    },
+    {
+      "i": 172,
+      "start_seconds": 1231.4668509999997,
+      "end_seconds": 1234.510159,
+      "subtitle": {
+        "zh": [
+          "订婚请帖的字体",
+          "都能纠结成这样"
+        ],
+        "py": [
+          "Dìnghūn qǐng tiě de zìtǐ",
+          " dōu néng jiūjié chéng zhèyàng"
+        ],
+        "en": [
+          "You two are putting so much thinking into picking the right font",
+          " for your engagement invitation letter."
+        ]
+      }
+    },
+    {
+      "i": 173,
+      "start_seconds": 1234.742818,
+      "end_seconds": 1237.976422,
+      "subtitle": {
+        "zh": [
+          "我能想象",
+          "你们结婚得有多麻烦"
+        ],
+        "py": [
+          "Wǒ néng xiǎngxiàng",
+          " nǐmen jiéhūn dé yǒu duō máfan"
+        ],
+        "en": [
+          "I can imagine",
+          " how much trouble you will have for your wedding."
+        ]
+      }
+    },
+    {
+      "i": 174,
+      "start_seconds": 1239.468741,
+      "end_seconds": 1242.53264,
+      "subtitle": {
+        "zh": [
+          "时宜 你现在有空",
+          "跟我去试一下礼服"
+        ],
+        "py": [
+          "Shíyí nǐ xiànzài yǒu kòng",
+          " gēn wǒ qùshì yīxià lǐfú"
+        ],
+        "en": [
+          "Shi Yi, since you are free,",
+          " let's go and try on your dress."
+        ]
+      }
+    },
+    {
+      "i": 175,
+      "start_seconds": 1244.186848,
+      "end_seconds": 1245.654477,
+      "subtitle": {
+        "zh": [
+          "去试试吧"
+        ],
+        "py": [
+          "Qù shì shì ba"
+        ],
+        "en": [
+          "Go give it a try."
+        ]
+      }
+    },
+    {
+      "i": 176,
+      "start_seconds": 1260.382887,
+      "end_seconds": 1261.361259,
+      "subtitle": {
+        "zh": [
+          "怎么这么多套啊"
+        ],
+        "py": [
+          "Zěnme zhème duō tào a"
+        ],
+        "en": [
+          "Why are there so many of them?"
+        ]
+      }
+    },
+    {
+      "i": 177,
+      "start_seconds": 1264.788339,
+      "end_seconds": 1267.455736,
+      "subtitle": {
+        "zh": [
+          "人家说做几件",
+          "我们就做几件"
+        ],
+        "py": [
+          "Rénjiā shuō zuò jǐ jiàn",
+          " wǒmen jiù zuò jǐ jiàn"
+        ],
+        "en": [
+          "We will make as many dresses",
+          " as we are told."
+        ]
+      }
+    },
+    {
+      "i": 178,
+      "start_seconds": 1267.948122,
+      "end_seconds": 1270.318012,
+      "subtitle": {
+        "zh": [
+          "喜欢吗",
+          "现在只是订婚"
+        ],
+        "py": [
+          "Xǐhuān ma",
+          " xiànzài zhǐshì dìnghūn"
+        ],
+        "en": [
+          "Do you like them?",
+          " Since this is your engagement banquet,"
+        ]
+      }
+    },
+    {
+      "i": 179,
+      "start_seconds": 1270.657574,
+      "end_seconds": 1272.3737789999998,
+      "subtitle": {
+        "zh": [
+          "所以都是我们三兄妹",
+          "打的衣样"
+        ],
+        "py": [
+          "Suǒyǐ dōu shì wǒmen sān xiōngmèi",
+          " dǎ di yī yàng"
+        ],
+        "en": [
+          "these sample dresses",
+          " were made by my brothers and I."
+        ]
+      }
+    },
+    {
+      "i": 180,
+      "start_seconds": 1272.873986,
+      "end_seconds": 1275.7644189999999,
+      "subtitle": {
+        "zh": [
+          "等到婚礼",
+          "那可是外婆亲自出手"
+        ],
+        "py": [
+          "Děngdào hūnlǐ",
+          " nà kěshì wàipó qīnzì chūshǒu"
+        ],
+        "en": [
+          "Your wedding dress on the other hand,",
+          " would be tailored by my grandma."
+        ]
+      }
+    },
+    {
+      "i": 181,
+      "start_seconds": 1276.279052,
+      "end_seconds": 1278.163857,
+      "subtitle": {
+        "zh": [
+          "到时候就不只是好看了"
+        ],
+        "py": [
+          "Dào shíhòu jiù bù zhǐshì hǎokànle"
+        ],
+        "en": [
+          "The dress she'll make for you would not only be beautiful."
+        ]
+      }
+    },
+    {
+      "i": 182,
+      "start_seconds": 1278.80005,
+      "end_seconds": 1283.064677,
+      "subtitle": {
+        "zh": [
+          "外婆从七十岁开始",
+          "就鲜少做衣服了"
+        ],
+        "py": [
+          "Wàipó cóng qīshí suì kāishǐ",
+          " jiù xiān shǎo zuò yīfúle"
+        ],
+        "en": [
+          "My grandma barely made any dress",
+          " after she turned 70."
+        ]
+      }
+    },
+    {
+      "i": 183,
+      "start_seconds": 1283.057793,
+      "end_seconds": 1287.190164,
+      "subtitle": {
+        "zh": [
+          "上次给周生辰妈妈做",
+          "也是结婚礼服"
+        ],
+        "py": [
+          "Shàng cì gěi zhōu shēngchén māmā zuò",
+          " yěshì jiéhūn lǐfú"
+        ],
+        "en": [
+          "The last time she made a dress was for Zhousheng Chen's mother.",
+          " That was also a wedding dress."
+        ]
+      }
+    },
+    {
+      "i": 184,
+      "start_seconds": 1289.3087079999998,
+      "end_seconds": 1292.3574990000002,
+      "subtitle": {
+        "zh": [
+          "那至少有二十八年了",
+          "二十五年"
+        ],
+        "py": [
+          "Nà zhìshǎo yǒu èrshíbā niánle",
+          " èrshíwǔ nián"
+        ],
+        "en": [
+          "That was at least 28 years ago then.",
+          " 25 years."
+        ]
+      }
+    },
+    {
+      "i": 185,
+      "start_seconds": 1294.0513749999998,
+      "end_seconds": 1299.11875,
+      "subtitle": {
+        "zh": [
+          "周生辰二十八岁",
+          "他妈妈结婚",
+          "是二十五年前"
+        ],
+        "py": [
+          "Zhōu shēngchén èrshíbā suì",
+          " tā māmā jiéhūn",
+          " shì èrshíwǔ nián qián"
+        ],
+        "en": [
+          "Zhousheng Chen is 28.",
+          " But his mother got married",
+          " 25 years ago?"
+        ]
+      }
+    },
+    {
+      "i": 186,
+      "start_seconds": 1300.342627,
+      "end_seconds": 1301.588562,
+      "subtitle": {
+        "zh": [
+          "挑一件喜欢的"
+        ],
+        "py": [
+          "Tiāo yī jiàn xǐhuān de"
+        ],
+        "en": [
+          "Choose the one you like."
+        ]
+      }
+    },
+    {
+      "i": 187,
+      "start_seconds": 1302.058891,
+      "end_seconds": 1304.043207,
+      "subtitle": {
+        "zh": [
+          "对于我们裁缝来说"
+        ],
+        "py": [
+          "Duìyú wǒmen cáiféng lái shuō"
+        ],
+        "en": [
+          "For us tailors,"
+        ]
+      }
+    },
+    {
+      "i": 188,
+      "start_seconds": 1304.466869,
+      "end_seconds": 1307.116479,
+      "subtitle": {
+        "zh": [
+          "人和衣服是讲究缘分的"
+        ],
+        "py": [
+          "Rén hé yīfú shì jiǎngjiù yuánfèn de"
+        ],
+        "en": [
+          "people and clothes have a connection."
+        ]
+      }
+    },
+    {
+      "i": 189,
+      "start_seconds": 1307.8089459999999,
+      "end_seconds": 1309.094028,
+      "subtitle": {
+        "zh": [
+          "第一眼喜欢的"
+        ],
+        "py": [
+          "Dì yī yǎn xǐhuān de"
+        ],
+        "en": [
+          "The one you like at first sight"
+        ]
+      }
+    },
+    {
+      "i": 190,
+      "start_seconds": 1309.47148,
+      "end_seconds": 1311.921357,
+      "subtitle": {
+        "zh": [
+          "就是最适合你",
+          "也是穿上最衬你的"
+        ],
+        "py": [
+          "Jiùshì zuì shìhé nǐ",
+          " yěshì chuān shàng zuì chèn nǐ de"
+        ],
+        "en": [
+          "is the one that suits you the most",
+          " and the one that looks the best on you."
+        ]
+      }
+    },
+    {
+      "i": 191,
+      "start_seconds": 1315.554327,
+      "end_seconds": 1316.194126,
+      "subtitle": {
+        "zh": [
+          "果然是这件"
+        ],
+        "py": [
+          "Guǒrán shì zhè jiàn"
+        ],
+        "en": [
+          "I knew it would be that one."
+        ]
+      }
+    },
+    {
+      "i": 192,
+      "start_seconds": 1316.443939,
+      "end_seconds": 1319.392108,
+      "subtitle": {
+        "zh": [
+          "我刚才挂的时候",
+          "你明显多看了它几眼"
+        ],
+        "py": [
+          "Wǒ gāngcái guà de shíhòu",
+          " nǐ míngxiǎn duō kànle tā jǐ yǎn"
+        ],
+        "en": [
+          "I knew it would be that one.",
+          " It was pretty obvious that you took a few more glances at it",
+          " when I was hanging it."
+        ]
+      }
+    },
+    {
+      "i": 193,
+      "start_seconds": 1319.6169399999999,
+      "end_seconds": 1321.173916,
+      "subtitle": {
+        "zh": [
+          "我试一下"
+        ],
+        "py": [
+          "Wǒ shì yīxià"
+        ],
+        "en": [
+          "Let me try it."
+        ]
+      }
+    },
+    {
+      "i": 194,
+      "start_seconds": 1334.130673,
+      "end_seconds": 1337.114011,
+      "subtitle": {
+        "zh": [
+          "婆婆年纪大了",
+          "做衣服还吃得消吗"
+        ],
+        "py": [
+          "Pópo niánjì dàle",
+          " zuò yīfú hái chīdéxiāo ma"
+        ],
+        "en": [
+          "I know your grandma is old,",
+          " can she still take the workload of making dresses?"
+        ]
+      }
+    },
+    {
+      "i": 195,
+      "start_seconds": 1337.137669,
+      "end_seconds": 1339.136031,
+      "subtitle": {
+        "zh": [
+          "她身体好得很"
+        ],
+        "py": [
+          "Tā shēntǐ hǎo dé hěn"
+        ],
+        "en": [
+          "She is in good health."
+        ]
+      }
+    },
+    {
+      "i": 196,
+      "start_seconds": 1342.2014139999999,
+      "end_seconds": 1344.202794,
+      "subtitle": {
+        "zh": [
+          "是因为外公去世以后"
+        ],
+        "py": [
+          "Shì yīnwèi wàigōng qù shì yǐhòu"
+        ],
+        "en": [
+          "It's because ever since my grandfather passed away,"
+        ]
+      }
+    },
+    {
+      "i": 197,
+      "start_seconds": 1342.286632,
+      "end_seconds": 1347.213188,
+      "subtitle": {
+        "zh": [
+          "是因为外公去世以后",
+          "她没有心情",
+          "再做喜庆的礼服"
+        ],
+        "py": [
+          "Shì yīnwèi wàigōng qù shì yǐhòu",
+          " tā méiyǒu xīnqíng",
+          " zài zuò xǐqìng de lǐfú"
+        ],
+        "en": [
+          "It's because ever since my grandfather passed away,",
+          " she didn't have the mood",
+          " to make festive dresses anymore."
+        ]
+      }
+    },
+    {
+      "i": 198,
+      "start_seconds": 1344.56652,
+      "end_seconds": 1347.149246,
+      "subtitle": {
+        "zh": [
+          "她没有心情",
+          "再做喜庆的礼服"
+        ],
+        "py": [
+          "Tā méiyǒu xīnqíng",
+          " zài zuò xǐqìng de lǐfú"
+        ],
+        "en": [
+          "she didn't have the mood",
+          " to make festive dresses anymore."
+        ]
+      }
+    },
+    {
+      "i": 199,
+      "start_seconds": 1349.3694259999997,
+      "end_seconds": 1351.731525,
+      "subtitle": {
+        "zh": [
+          "为什么",
+          "她们都喜欢穿旗袍啊"
+        ],
+        "py": [
+          "Wèishéme",
+          " tāmen dōu xǐhuān chuān qípáo a"
+        ],
+        "en": [
+          "Why",
+          " do they all love Qipaos?"
+        ]
+      }
+    },
+    {
+      "i": 200,
+      "start_seconds": 1352.830476,
+      "end_seconds": 1354.04873,
+      "subtitle": {
+        "zh": [
+          "他们家和我们家像"
+        ],
+        "py": [
+          "Tāmen jiā hé wǒmen jiā xiàng"
+        ],
+        "en": [
+          "Their family and ours are pretty alike."
+        ]
+      }
+    },
+    {
+      "i": 201,
+      "start_seconds": 1354.370513,
+      "end_seconds": 1357.069432,
+      "subtitle": {
+        "zh": [
+          "都发迹于上世纪",
+          "三四十年代"
+        ],
+        "py": [
+          "Dōu fājì yú shàng shìjì",
+          " sānsìshí niándài"
+        ],
+        "en": [
+          "Our families became wealthy during the last century,",
+          " in the 1930s and 40s."
+        ]
+      }
+    },
+    {
+      "i": 202,
+      "start_seconds": 1357.382378,
+      "end_seconds": 1360.882119,
+      "subtitle": {
+        "zh": [
+          "那时候旗袍是时装",
+          "流行"
+        ],
+        "py": [
+          "Nà shíhòu qípáo shì shízhuāng",
+          " liúxíng"
+        ],
+        "en": [
+          "At that time, the cheongsam was fashionable",
+          " and trendy."
+        ]
+      }
+    },
+    {
+      "i": 203,
+      "start_seconds": 1361.118144,
+      "end_seconds": 1363.978947,
+      "subtitle": {
+        "zh": [
+          "我婶婶阿姨们的衣橱里",
+          "也都是这个"
+        ],
+        "py": [
+          "Wǒ shěnshen āyímen de yī chú lǐ",
+          " yě dū shì zhège"
+        ],
+        "en": [
+          "My aunties' closets",
+          " were full of them."
+        ]
+      }
+    },
+    {
+      "i": 204,
+      "start_seconds": 1364.48222,
+      "end_seconds": 1367.932952,
+      "subtitle": {
+        "zh": [
+          "年代烙印",
+          "习惯成自然了"
+        ],
+        "py": [
+          "Niándài làoyìn",
+          " xíguàn chéng zìránle"
+        ],
+        "en": [
+          "It's a mark of their generation.",
+          " And now that habit has become second nature to them."
+        ]
+      }
+    },
+    {
+      "i": 205,
+      "start_seconds": 1369.3269579999999,
+      "end_seconds": 1372.424983,
+      "subtitle": {
+        "zh": [
+          "习惯久了",
+          "就变成了束缚人的规矩"
+        ],
+        "py": [
+          "Xíguàn jiǔle",
+          " jiù biàn chéngle shùfù rén de guījǔ"
+        ],
+        "en": [
+          "After this habit takes root,",
+          " it becomes a rule that restricts people."
+        ]
+      }
+    },
+    {
+      "i": 206,
+      "start_seconds": 1373.128004,
+      "end_seconds": 1375.597049,
+      "subtitle": {
+        "zh": [
+          "通透"
+        ],
+        "py": [
+          "Tōng tòu"
+        ],
+        "en": [
+          "Very clever."
+        ]
+      }
+    },
+    {
+      "i": 207,
+      "start_seconds": 1377.8732150000003,
+      "end_seconds": 1382.991447,
+      "subtitle": {
+        "zh": [
+          "这件衣服很适合你",
+          "它就应该为你而存在"
+        ],
+        "py": [
+          "Zhè jiàn yīfú hěn shìhé nǐ",
+          " tā jiù yīnggāi wèi nǐ ér cúnzài"
+        ],
+        "en": [
+          "This dress suits you very well.",
+          " It belongs to you."
+        ]
+      }
+    },
+    {
+      "i": 208,
+      "start_seconds": 1384.579609,
+      "end_seconds": 1387.33265,
+      "subtitle": {
+        "zh": [
+          "袖口的装饰可以拿掉"
+        ],
+        "py": [
+          "Xiùkǒu de zhuāngshì kěyǐ ná diào"
+        ],
+        "en": [
+          "The decorations at the cuffs can be taken out."
+        ]
+      }
+    },
+    {
+      "i": 209,
+      "start_seconds": 1387.615668,
+      "end_seconds": 1390.000081,
+      "subtitle": {
+        "zh": [
+          "美人不必过多装饰"
+        ],
+        "py": [
+          "Měirén bùbìguò duō zhuāngshì"
+        ],
+        "en": [
+          "A beauty like you does not need a complicated dress."
+        ]
+      }
+    },
+    {
+      "i": 210,
+      "start_seconds": 1390.384283,
+      "end_seconds": 1392.430697,
+      "subtitle": {
+        "zh": [
+          "极简才是上上之选"
+        ],
+        "py": [
+          "Jí jiǎn cái shì shàng shàng zhī xuǎn"
+        ],
+        "en": [
+          "Less is more."
+        ]
+      }
+    },
+    {
+      "i": 211,
+      "start_seconds": 1393.122476,
+      "end_seconds": 1394.106026,
+      "subtitle": {
+        "zh": [
+          "试下一套吧"
+        ],
+        "py": [
+          "Shì xià yī tào ba"
+        ],
+        "en": [
+          "Try the next one."
+        ]
+      }
+    },
+    {
+      "i": 212,
+      "start_seconds": 1394.563424,
+      "end_seconds": 1396.464104,
+      "subtitle": {
+        "zh": [
+          "你等我一下",
+          "我想下去一趟"
+        ],
+        "py": [
+          "Nǐ děng wǒ yīxià",
+          " wǒ xiǎng xiàqù yī tàng"
+        ],
+        "en": [
+          "Hold on.",
+          " I want to go downstairs."
+        ]
+      }
+    },
+    {
+      "i": 213,
+      "start_seconds": 1408.250548,
+      "end_seconds": 1410.362988,
+      "subtitle": {
+        "zh": [
+          "你怎么下来了"
+        ],
+        "py": [
+          "Nǐ zěnme xiàláile"
+        ],
+        "en": [
+          "Why did you come downstairs?"
+        ]
+      }
+    },
+    {
+      "i": 214,
+      "start_seconds": 1410.939642,
+      "end_seconds": 1413.622924,
+      "subtitle": {
+        "zh": [
+          "我还想着",
+          "等你换好了衣服",
+          "上去找你呢"
+        ],
+        "py": [
+          "Wǒ hái xiǎngzhe",
+          " děng nǐ huàn hǎole yīfú",
+          " shàngqù zhǎo nǐ ne"
+        ],
+        "en": [
+          "I was thinking of",
+          " going upstairs to find you",
+          " when you were done."
+        ]
+      }
+    },
+    {
+      "i": 215,
+      "start_seconds": 1413.7935319999997,
+      "end_seconds": 1418.123354,
+      "subtitle": {
+        "zh": [
+          "好看吗",
+          "好看"
+        ],
+        "py": [
+          "Hǎokàn ma",
+          " hǎokàn"
+        ],
+        "en": [
+          "Does it look good?",
+          " Yeah."
+        ]
+      }
+    },
+    {
+      "i": 216,
+      "start_seconds": 1424.778811,
+      "end_seconds": 1427.165246,
+      "subtitle": {
+        "zh": [
+          "大哥",
+          "你们来了"
+        ],
+        "py": [
+          "Dàgē",
+          " nǐmen láile"
+        ],
+        "en": [
+          "Chen.",
+          " What brings you here?"
+        ]
+      }
+    },
+    {
+      "i": 217,
+      "start_seconds": 1427.692251,
+      "end_seconds": 1429.991304,
+      "subtitle": {
+        "zh": [
+          "听说你今天跟大嫂",
+          "过来看婚房"
+        ],
+        "py": [
+          "Tīng shuō nǐ jīntiān gēn dàsǎo",
+          " guòlái kàn hūn fáng"
+        ],
+        "en": [
+          "I heard that you and my sister-in-law",
+          " would come here to see the wedding house today."
+        ]
+      }
+    },
+    {
+      "i": 218,
+      "start_seconds": 1430.3249389999999,
+      "end_seconds": 1433.614262,
+      "subtitle": {
+        "zh": [
+          "之前没有见过大嫂",
+          "所以特意来拜访一下"
+        ],
+        "py": [
+          "Zhīqián méiyǒu jiàn guo dàsǎo",
+          " suǒyǐ tèyì lái bàifǎng yīxià"
+        ],
+        "en": [
+          "As I've never met my sister-in-law,",
+          " i stopped by for a visit."
+        ]
+      }
+    },
+    {
+      "i": 219,
+      "start_seconds": 1434.128068,
+      "end_seconds": 1443.807018,
+      "subtitle": {
+        "zh": [
+          "大嫂 我是文川",
+          "你好",
+          "这是我妻子 佟佳人",
+          "你好"
+        ],
+        "py": [
+          "Dàsǎo wǒ shì wén chuān",
+          " nǐ hǎo",
+          " zhè shì wǒ qīzi tóng jiārén",
+          " nǐ hǎo"
+        ],
+        "en": [
+          "I am Wenchuan.",
+          " Nice to meet you.",
+          " This is my wife, Tong Jiaren.",
+          " Nice to meet you."
+        ]
+      }
+    },
+    {
+      "i": 220,
+      "start_seconds": 1444.725563,
+      "end_seconds": 1445.860492,
+      "subtitle": {
+        "zh": [
+          "你们兄弟俩",
+          "也难得聚一下"
+        ],
+        "py": [
+          "Nǐmen xiōngdì liǎ",
+          " yě nándé jù yīxià"
+        ],
+        "en": [
+          "The two of you",
+          " seldom see each other."
+        ]
+      }
+    },
+    {
+      "i": 221,
+      "start_seconds": 1446.211002,
+      "end_seconds": 1448.26275,
+      "subtitle": {
+        "zh": [
+          "留下来吃晚饭吧",
+          "我去准备"
+        ],
+        "py": [
+          "Liú xiàlái chī wǎnfàn ba",
+          " wǒ qù zhǔnbèi"
+        ],
+        "en": [
+          "seldom see each other.",
+          " How about staying for dinner?",
+          " I will get things ready."
+        ]
+      }
+    },
+    {
+      "i": 222,
+      "start_seconds": 1453.8034099999998,
+      "end_seconds": 1456.635838,
+      "subtitle": {
+        "zh": [
+          "时宜",
+          "你接着上去试衣服"
+        ],
+        "py": [
+          "Shíyí",
+          " nǐ jiēzhe shàngqù shì yīfú"
+        ],
+        "en": [
+          "Shi Yi,",
+          " go upstairs to continue trying out the dresses."
+        ]
+      }
+    },
+    {
+      "i": 223,
+      "start_seconds": 1456.620871,
+      "end_seconds": 1459.583987,
+      "subtitle": {
+        "zh": [
+          "你们在客厅等我吧",
+          "我去帮一下林叔"
+        ],
+        "py": [
+          "Nǐmen zài kètīng děng wǒ ba",
+          " wǒ qù bāng yīxià lín shū"
+        ],
+        "en": [
+          "You guys can wait for me in the living room.",
+          " I will go help Uncle Lin."
+        ]
+      }
+    },
+    {
+      "i": 224,
+      "start_seconds": 1476.118391,
+      "end_seconds": 1477.532718,
+      "subtitle": {
+        "zh": [
+          "礼服我再回去调整一下"
+        ],
+        "py": [
+          "Lǐfú wǒ zài huíqù tiáozhěng yīxià"
+        ],
+        "en": [
+          "I will make some adjustments to the dress when I go back."
+        ]
+      }
+    },
+    {
+      "i": 225,
+      "start_seconds": 1478.066729,
+      "end_seconds": 1480.745968,
+      "subtitle": {
+        "zh": [
+          "等到了镇江",
+          "我拿到周家去给你试"
+        ],
+        "py": [
+          "Děng dàole zhènjiāng",
+          " wǒ ná dào zhōu jiā qù gěi nǐ shì"
+        ],
+        "en": [
+          "When I get to Zhenjiang,",
+          " i will take them to the Zhou Residence to have you try them."
+        ]
+      }
+    },
+    {
+      "i": 226,
+      "start_seconds": 1485.322917,
+      "end_seconds": 1487.971036,
+      "subtitle": {
+        "zh": [
+          "你刚才说",
+          "你们不仅是同事"
+        ],
+        "py": [
+          "Nǐ gāngcái shuō",
+          " nǐmen bùjǐn shì tóngshì"
+        ],
+        "en": [
+          "You said",
+          " the two of you were not only colleagues,"
+        ]
+      }
+    },
+    {
+      "i": 227,
+      "start_seconds": 1485.412098,
+      "end_seconds": 1489.561363,
+      "subtitle": {
+        "zh": [
+          "你刚才说",
+          "你们不仅是同事",
+          "还是校友"
+        ],
+        "py": [
+          "Nǐ gāngcái shuō",
+          " nǐmen bùjǐn shì tóngshì",
+          " háishì xiàoyǒu"
+        ],
+        "en": [
+          "You said",
+          " the two of you were not only colleagues,",
+          " but studied in the same school as well."
+        ]
+      }
+    },
+    {
+      "i": 228,
+      "start_seconds": 1488.354871,
+      "end_seconds": 1489.789761,
+      "subtitle": {
+        "zh": [
+          "还是校友"
+        ],
+        "py": [
+          "Háishì xiàoyǒu"
+        ],
+        "en": [
+          "but studied in the same school as well."
+        ]
+      }
+    },
+    {
+      "i": 229,
+      "start_seconds": 1491.788183,
+      "end_seconds": 1497.157422,
+      "subtitle": {
+        "zh": [
+          "他比我聪明得多",
+          "我还在念本科的时候",
+          "他就已经拿到",
+          "博士学位了"
+        ],
+        "py": [
+          "Tā bǐ wǒ cōngmíng dé duō",
+          " wǒ hái zài niàn běnkē de shíhòu",
+          " tā jiù yǐjīng ná dào",
+          " bóshì xuéwèile"
+        ],
+        "en": [
+          "He is a lot smarter than me.",
+          " While I was still studying for my undergraduate degree,",
+          " he was already",
+          " a doctoral degree holder."
+        ]
+      }
+    },
+    {
+      "i": 230,
+      "start_seconds": 1491.926546,
+      "end_seconds": 1493.178614,
+      "subtitle": {
+        "zh": [
+          "他比我聪明得多"
+        ],
+        "py": [
+          "Tā bǐ wǒ cōngmíng dé duō"
+        ],
+        "en": [
+          "He is a lot smarter than me."
+        ]
+      }
+    },
+    {
+      "i": 231,
+      "start_seconds": 1493.294137,
+      "end_seconds": 1494.709044,
+      "subtitle": {
+        "zh": [
+          "我还在念本科的时候"
+        ],
+        "py": [
+          "Wǒ hái zài niàn běnkē de shíhòu"
+        ],
+        "en": [
+          "He is a lot smarter than me.",
+          " While I was still studying for my undergraduate degree,"
+        ]
+      }
+    },
+    {
+      "i": 232,
+      "start_seconds": 1495.183193,
+      "end_seconds": 1497.048197,
+      "subtitle": {
+        "zh": [
+          "他就已经拿到",
+          "博士学位了"
+        ],
+        "py": [
+          "Tā jiù yǐjīng ná dào",
+          " bóshì xuéwèile"
+        ],
+        "en": [
+          "he was already",
+          " a doctoral degree holder."
+        ]
+      }
+    },
+    {
+      "i": 233,
+      "start_seconds": 1500.5860119999998,
+      "end_seconds": 1502.726839,
+      "subtitle": {
+        "zh": [
+          "我哥可是",
+          "智商一百九的天才"
+        ],
+        "py": [
+          "Wǒ gē kěshì",
+          " zhìshāng yībǎi jiǔ de tiāncái"
+        ],
+        "en": [
+          "My brother is a",
+          " genius with an IQ score of 190."
+        ]
+      }
+    },
+    {
+      "i": 234,
+      "start_seconds": 1500.6248529999998,
+      "end_seconds": 1502.541536,
+      "subtitle": {
+        "zh": [
+          "我哥可是",
+          "智商一百九的天才"
+        ],
+        "py": [
+          "Wǒ gē kěshì",
+          " zhìshāng yībǎi jiǔ de tiāncái"
+        ],
+        "en": [
+          "My brother is a",
+          " genius with an IQ score of 190."
+        ]
+      }
+    },
+    {
+      "i": 235,
+      "start_seconds": 1502.680985,
+      "end_seconds": 1504.813686,
+      "subtitle": {
+        "zh": [
+          "十七岁的时候",
+          "就读了大学"
+        ],
+        "py": [
+          "Shíqī suì de shíhòu",
+          " jiùdúle dàxué"
+        ],
+        "en": [
+          "genius with an IQ score of 190.",
+          " He went to university",
+          " at 17"
+        ]
+      }
+    },
+    {
+      "i": 236,
+      "start_seconds": 1503.238305,
+      "end_seconds": 1505.02406,
+      "subtitle": {
+        "zh": [
+          "十七岁的时候",
+          "就读了大学"
+        ],
+        "py": [
+          "Shíqī suì de shíhòu",
+          " jiùdúle dàxué"
+        ],
+        "en": [
+          "He went to university",
+          " at 17"
+        ]
+      }
+    },
+    {
+      "i": 237,
+      "start_seconds": 1505.227725,
+      "end_seconds": 1507.260709,
+      "subtitle": {
+        "zh": [
+          "十九岁就拿了博士学位"
+        ],
+        "py": [
+          "Shíjiǔ suì jiù nále bóshì xuéwèi"
+        ],
+        "en": [
+          "and got his doctoral degree at 19."
+        ]
+      }
+    },
+    {
+      "i": 238,
+      "start_seconds": 1505.348411,
+      "end_seconds": 1507.163219,
+      "subtitle": {
+        "zh": [
+          "十九岁就拿了博士学位"
+        ],
+        "py": [
+          "Shíjiǔ suì jiù nále bóshì xuéwèi"
+        ],
+        "en": [
+          "and got his doctoral degree at 19."
+        ]
+      }
+    },
+    {
+      "i": 239,
+      "start_seconds": 1505.348411,
+      "end_seconds": 1507.363219,
+      "subtitle": {
+        "zh": [
+          "十九岁就拿了博士学位"
+        ],
+        "py": [
+          "Shíjiǔ suì jiù nále bóshì xuéwèi"
+        ],
+        "en": [
+          "and got his doctoral degree at 19."
+        ]
+      }
+    },
+    {
+      "i": 240,
+      "start_seconds": 1508.8722810000004,
+      "end_seconds": 1510.452484,
+      "subtitle": {
+        "zh": [
+          "不过据我所知"
+        ],
+        "py": [
+          "Bùguò jù wǒ suǒ zhī"
+        ],
+        "en": [
+          "But as far as I know,"
+        ]
+      }
+    },
+    {
+      "i": 241,
+      "start_seconds": 1509.429139,
+      "end_seconds": 1513.838615,
+      "subtitle": {
+        "zh": [
+          "不过据我所知",
+          "吉尼斯世界纪录",
+          "智商最高的人",
+          "可不是我哥"
+        ],
+        "py": [
+          "Bùguò jù wǒ suǒ zhī",
+          " jí nísī shìjiè jìlù",
+          " zhìshāng zuìgāo de rén",
+          " kě bùshì wǒ gē"
+        ],
+        "en": [
+          "But as far as I know,",
+          " according to the Guinness Book of World Records,",
+          " the person who has the highest IQ ever recorded",
+          " is not my brother."
+        ]
+      }
+    },
+    {
+      "i": 242,
+      "start_seconds": 1510.627678,
+      "end_seconds": 1513.647149,
+      "subtitle": {
+        "zh": [
+          "吉尼斯世界纪录",
+          "智商最高的人",
+          "可不是我哥"
+        ],
+        "py": [
+          "Jí nísī shìjiè jìlù",
+          " zhìshāng zuìgāo de rén",
+          " kě bùshì wǒ gē"
+        ],
+        "en": [
+          "according to the Guinness Book of World Records,",
+          " the person who has the highest IQ ever recorded",
+          " is not my brother."
+        ]
+      }
+    },
+    {
+      "i": 243,
+      "start_seconds": 1514.3256649999998,
+      "end_seconds": 1516.728633,
+      "subtitle": {
+        "zh": [
+          "还有一个十五岁",
+          "就拿了物理博士学位"
+        ],
+        "py": [
+          "Hái yǒu yīgè shíwǔ suì",
+          " jiù nále wùlǐ bóshì xuéwèi"
+        ],
+        "en": [
+          "There is another person",
+          " who got a PhD in physics at 15."
+        ]
+      }
+    },
+    {
+      "i": 244,
+      "start_seconds": 1514.649219,
+      "end_seconds": 1516.941412,
+      "subtitle": {
+        "zh": [
+          "还有一个十五岁",
+          "就拿了物理博士学位"
+        ],
+        "py": [
+          "Hái yǒu yīgè shíwǔ suì",
+          " jiù nále wùlǐ bóshì xuéwèi"
+        ],
+        "en": [
+          "There is another person",
+          " who got a PhD in physics at 15."
+        ]
+      }
+    },
+    {
+      "i": 245,
+      "start_seconds": 1518.404796,
+      "end_seconds": 1522.069838,
+      "subtitle": {
+        "zh": [
+          "时宜",
+          "你给我介绍一下",
+          "你是怎么保持身材的"
+        ],
+        "py": [
+          "Shíyí",
+          " nǐ gěi wǒ jièshào yīxià",
+          " nǐ shì zěnme bǎochí shēncái de"
+        ],
+        "en": [
+          "Shi Yi.",
+          " Let me in on your secret.",
+          " How do you manage to keep in shape?"
+        ]
+      }
+    },
+    {
+      "i": 246,
+      "start_seconds": 1524.315404,
+      "end_seconds": 1526.165737,
+      "subtitle": {
+        "zh": [
+          "我不怎么保持身材"
+        ],
+        "py": [
+          "Wǒ bù zě me bǎochí shēncái"
+        ],
+        "en": [
+          "I don't try to keep myself in shape."
+        ]
+      }
+    },
+    {
+      "i": 247,
+      "start_seconds": 1527.072576,
+      "end_seconds": 1530.1167859999998,
+      "subtitle": {
+        "zh": [
+          "我现在每天跳操到半夜",
+          "早上做瑜伽"
+        ],
+        "py": [
+          "Wǒ xiànzài měitiān tiào cāo dào bànyè",
+          " zǎoshang zuò yújiā"
+        ],
+        "en": [
+          "I do aerobics every day till midnight",
+          " and do yoga in the morning."
+        ]
+      }
+    },
+    {
+      "i": 248,
+      "start_seconds": 1530.418538,
+      "end_seconds": 1531.937397,
+      "subtitle": {
+        "zh": [
+          "主食我都不怎么吃了"
+        ],
+        "py": [
+          "Zhǔshí wǒ dū bù zě me chīle"
+        ],
+        "en": [
+          "I don't even have staple food anymore,"
+        ]
+      }
+    },
+    {
+      "i": 249,
+      "start_seconds": 1532.1262649999999,
+      "end_seconds": 1533.924612,
+      "subtitle": {
+        "zh": [
+          "但是还是没有成效"
+        ],
+        "py": [
+          "Dànshì háishì méiyǒu chéngxiào"
+        ],
+        "en": [
+          "but still, it doesn't work."
+        ]
+      }
+    },
+    {
+      "i": 250,
+      "start_seconds": 1535.969742,
+      "end_seconds": 1538.082027,
+      "subtitle": {
+        "zh": [
+          "小心外婆",
+          "被你跳出心脏病"
+        ],
+        "py": [
+          "Xiǎoxīn wàipó",
+          " bèi nǐ tiàochū xīnzàng bìng"
+        ],
+        "en": [
+          "Grandma might have a heart attack",
+          " if she hears the noise you make when doing aerobics."
+        ]
+      }
+    },
+    {
+      "i": 251,
+      "start_seconds": 1551.52453,
+      "end_seconds": 1554.170835,
+      "subtitle": {
+        "zh": [
+          "我确实知道一个",
+          "减肥的方法"
+        ],
+        "py": [
+          "Wǒ quèshí zhīdào yīgè",
+          " jiǎnféi de fāngfǎ"
+        ],
+        "en": [
+          "I actually do know of a way",
+          " to lose weight."
+        ]
+      }
+    },
+    {
+      "i": 252,
+      "start_seconds": 1554.4886749999998,
+      "end_seconds": 1557.021986,
+      "subtitle": {
+        "zh": [
+          "可以通过针灸",
+          "或者按揉腹部"
+        ],
+        "py": [
+          "Kěyǐ tōngguò zhēnjiǔ",
+          " huòzhě àn róu fùbù"
+        ],
+        "en": [
+          "Utilizing acupuncture",
+          " or doing a belly massage."
+        ]
+      }
+    },
+    {
+      "i": 253,
+      "start_seconds": 1557.17176,
+      "end_seconds": 1559.12945,
+      "subtitle": {
+        "zh": [
+          "利水化湿 促进代谢"
+        ],
+        "py": [
+          "Lìshuǐ huà shī cùjìn dàixiè"
+        ],
+        "en": [
+          "It promotes urination and draws out the excess water, while simultaneously promoting metabolism."
+        ]
+      }
+    },
+    {
+      "i": 254,
+      "start_seconds": 1559.596361,
+      "end_seconds": 1562.2309079999998,
+      "subtitle": {
+        "zh": [
+          "只要代谢好了",
+          "身体里就不会有",
+          "太多的垃圾和脂肪"
+        ],
+        "py": [
+          "Zhǐyào dàixiè hǎole",
+          " shēntǐ lǐ jiù bù huì yǒu",
+          " tài duō de lèsè hé zhīfáng"
+        ],
+        "en": [
+          "As long as your metabolism is good,",
+          " your body will not store",
+          " too much fat or trash."
+        ]
+      }
+    },
+    {
+      "i": 255,
+      "start_seconds": 1562.715693,
+      "end_seconds": 1563.5483299999999,
+      "subtitle": {
+        "zh": [
+          "这样就不会胖了"
+        ],
+        "py": [
+          "Zhèyàng jiù bù huì pàngle"
+        ],
+        "en": [
+          "Thus, you can lose weight."
+        ]
+      }
+    },
+    {
+      "i": 256,
+      "start_seconds": 1563.857056,
+      "end_seconds": 1566.238571,
+      "subtitle": {
+        "zh": [
+          "不过你要注意",
+          "那个穴位容易上火"
+        ],
+        "py": [
+          "Bùguò nǐ yào zhùyì",
+          " nàgè xuéwèi róngyì shàng huǒ"
+        ],
+        "en": [
+          "But be aware",
+          " that acupoint might cause your body to become heaty."
+        ]
+      }
+    },
+    {
+      "i": 257,
+      "start_seconds": 1566.527721,
+      "end_seconds": 1568.360542,
+      "subtitle": {
+        "zh": [
+          "记得在针灸前后",
+          "各饮一杯温水"
+        ],
+        "py": [
+          "Jìdé zài zhēnjiǔ qiánhòu",
+          " gè yǐn yībēi wēnshuǐ"
+        ],
+        "en": [
+          "Remember to drink some warm water",
+          " before and after the acupuncture session."
+        ]
+      }
+    },
+    {
+      "i": 258,
+      "start_seconds": 1571.301728,
+      "end_seconds": 1573.9538070000003,
+      "subtitle": {
+        "zh": [
+          "你还懂穴位啊",
+          "一点点"
+        ],
+        "py": [
+          "Nǐ hái dǒng xuéwèi a",
+          " yī diǎndiǎn"
+        ],
+        "en": [
+          "You know about acupuncture points too?",
+          " Just a little."
+        ]
+      }
+    },
+    {
+      "i": 259,
+      "start_seconds": 1573.8807669999999,
+      "end_seconds": 1575.444245,
+      "subtitle": {
+        "zh": [
+          "一点点",
+          "什么时候学的"
+        ],
+        "py": [
+          "Yī diǎndiǎn",
+          " shénme shíhòu xué de"
+        ],
+        "en": [
+          "Just a little.",
+          " When did you learn that?"
+        ]
+      }
+    },
+    {
+      "i": 260,
+      "start_seconds": 1576.117139,
+      "end_seconds": 1579.13136,
+      "subtitle": {
+        "zh": [
+          "好久以前了",
+          "我小时候身体不大好",
+          "老看中医"
+        ],
+        "py": [
+          "Hǎojiǔ yǐqiánle",
+          " wǒ xiǎoshíhòu shēntǐ bù dàhǎo",
+          " lǎo kàn zhòng yī"
+        ],
+        "en": [
+          "A long time ago.",
+          " When I was young, I had poor health",
+          " and visited the Chinese medicine doctor a lot."
+        ]
+      }
+    },
+    {
+      "i": 261,
+      "start_seconds": 1579.321396,
+      "end_seconds": 1582.570895,
+      "subtitle": {
+        "zh": [
+          "长大以后觉得好玩",
+          "就报了一个班",
+          "学了些皮毛"
+        ],
+        "py": [
+          "Zhǎng dà yǐhòu juédé hǎowán",
+          " jiù bàole yīgè bān",
+          " xuéle xiē pímáo"
+        ],
+        "en": [
+          "Because of that, I became interested in the subject",
+          " and signed up for a class.",
+          " I learnt a bit."
+        ]
+      }
+    },
+    {
+      "i": 262,
+      "start_seconds": 1583.106272,
+      "end_seconds": 1584.610467,
+      "subtitle": {
+        "zh": [
+          "改天我给你试试"
+        ],
+        "py": [
+          "Gǎitiān wǒ gěi nǐ shì shì"
+        ],
+        "en": [
+          "Maybe I can give you a treatment someday."
+        ]
+      }
+    },
+    {
+      "i": 263,
+      "start_seconds": 1585.0554229999998,
+      "end_seconds": 1586.851933,
+      "subtitle": {
+        "zh": [
+          "不用 我身体好着呢"
+        ],
+        "py": [
+          "Bùyòng wǒ shēntǐ hǎo zhene"
+        ],
+        "en": [
+          "No need, I am fine."
+        ]
+      }
+    },
+    {
+      "i": 264,
+      "start_seconds": 1587.229059,
+      "end_seconds": 1590.71379,
+      "subtitle": {
+        "zh": [
+          "你每天在实验室",
+          "老低着头",
+          "颈椎肯定不好"
+        ],
+        "py": [
+          "Nǐ měitiān zài shíyàn shì",
+          " lǎo dīzhe tóu",
+          " jǐngchuí kěndìng bù hǎo"
+        ],
+        "en": [
+          "Your posture must be pretty bad",
+          " when you work on experiments.",
+          " That's why your neck must be stiff."
+        ]
+      }
+    },
+    {
+      "i": 265,
+      "start_seconds": 1591.043576,
+      "end_seconds": 1593.848288,
+      "subtitle": {
+        "zh": [
+          "我就给你试一次",
+          "你要是觉得没用",
+          "我就不再弄了"
+        ],
+        "py": [
+          "Wǒ jiù gěi nǐ shì yīcì",
+          " nǐ yàoshi juédé méi yòng",
+          " wǒ jiù bù zài nòngle"
+        ],
+        "en": [
+          "Let me have a go at it.",
+          " If you don't think it works,",
+          " then I will stop."
+        ]
+      }
+    },
+    {
+      "i": 266,
+      "start_seconds": 1594.1215889999999,
+      "end_seconds": 1596.085614,
+      "subtitle": {
+        "zh": [
+          "你每天工作已经够累了"
+        ],
+        "py": [
+          "Nǐ měitiān gōngzuò yǐjīng gòu lèile"
+        ],
+        "en": [
+          "Your work is already very tiring."
+        ]
+      }
+    },
+    {
+      "i": 267,
+      "start_seconds": 1596.311401,
+      "end_seconds": 1598.811531,
+      "subtitle": {
+        "zh": [
+          "晚上再给我针灸",
+          "我怕你累着"
+        ],
+        "py": [
+          "Wǎnshàng zài gěi wǒ zhēnjiǔ",
+          " wǒ pà nǐ lèizhe"
+        ],
+        "en": [
+          "If you need to give me acupuncture at night,",
+          " you might not get enough rest."
+        ]
+      }
+    },
+    {
+      "i": 268,
+      "start_seconds": 1599.491325,
+      "end_seconds": 1601.646505,
+      "subtitle": {
+        "zh": [
+          "为你做的事",
+          "我不会觉得累"
+        ],
+        "py": [
+          "Wèi nǐ zuò de shì",
+          " wǒ bù huì juédé lèi"
+        ],
+        "en": [
+          "I won't get tired",
+          " if it's for you."
+        ]
+      }
+    },
+    {
+      "i": 269,
+      "start_seconds": 1606.3669559999998,
+      "end_seconds": 1610.708325,
+      "subtitle": {
+        "zh": [
+          "我事先约好了朋友",
+          "你们慢慢吃",
+          "我先走了"
+        ],
+        "py": [
+          "Wǒ shìxiān yuē hǎole péngyǒu",
+          " nǐmen màn man chī",
+          " wǒ xiān zǒule"
+        ],
+        "en": [
+          "I had an appointment with my friend.",
+          " You guys continue without me.",
+          " I have to go now."
+        ]
+      }
+    },
+    {
+      "i": 270,
+      "start_seconds": 1610.680907,
+      "end_seconds": 1612.777713,
+      "subtitle": {
+        "zh": [
+          "我送你吧",
+          "不用了"
+        ],
+        "py": [
+          "Wǒ sòng nǐ ba",
+          " bùyòngle"
+        ],
+        "en": [
+          "Let me give you a ride.",
+          " It's fine."
+        ]
+      }
+    },
+    {
+      "i": 271,
+      "start_seconds": 1625.471132,
+      "end_seconds": 1627.056447,
+      "subtitle": {
+        "zh": [
+          "喜欢吃这个吗"
+        ],
+        "py": [
+          "Xǐhuān chī zhège ma"
+        ],
+        "en": [
+          "Do you like this?"
+        ]
+      }
+    },
+    {
+      "i": 272,
+      "start_seconds": 1628.9753239999998,
+      "end_seconds": 1631.207847,
+      "subtitle": {
+        "zh": [
+          "我刚才吃这个",
+          "特别好吃"
+        ],
+        "py": [
+          "Wǒ gāngcái chī zhège",
+          " tèbié hào chī"
+        ],
+        "en": [
+          "I was just having that.",
+          " It's very delicious."
+        ]
+      }
+    },
+    {
+      "i": 273,
+      "start_seconds": 1657.450885,
+      "end_seconds": 1662.816229,
+      "subtitle": {
+        "zh": [
+          "小曼",
+          "不是已经走了吗"
+        ],
+        "py": [
+          "Xiǎo màn",
+          " bùshì yǐjīng zǒule ma"
+        ],
+        "en": [
+          "Man.",
+          " I thought you already left."
+        ]
+      }
+    },
+    {
+      "i": 274,
+      "start_seconds": 1663.396546,
+      "end_seconds": 1666.1638700000003,
+      "subtitle": {
+        "zh": [
+          "我送你回去吧",
+          "不用"
+        ],
+        "py": [
+          "Wǒ sòng nǐ huíqù ba",
+          " bùyòng"
+        ],
+        "en": [
+          "Let me drive you home.",
+          " No, it's okay."
+        ]
+      }
+    },
+    {
+      "i": 275,
+      "start_seconds": 1669.409897,
+      "end_seconds": 1675.071424,
+      "subtitle": {
+        "zh": [
+          "我为了接我爸的手",
+          "付出多少努力",
+          "你不是不知道"
+        ],
+        "py": [
+          "Wǒ wèile jiē wǒ bà de shǒu",
+          " fùchū duōshǎo nǔlì",
+          " nǐ bùshì bù zhīdào"
+        ],
+        "en": [
+          "You knew how much effort I had to put in",
+          " in order to take over",
+          " what my father had."
+        ]
+      }
+    },
+    {
+      "i": 276,
+      "start_seconds": 1679.284253,
+      "end_seconds": 1682.597231,
+      "subtitle": {
+        "zh": [
+          "刚才什么情况",
+          "你这么聪明",
+          "不会看不破"
+        ],
+        "py": [
+          "Gāngcái shénme qíngkuàng",
+          " nǐ zhème cōngmíng",
+          " bù huì kàn bùpò"
+        ],
+        "en": [
+          "You are so smart.",
+          " What happened just now,",
+          " you definitely know what's going on."
+        ]
+      }
+    },
+    {
+      "i": 277,
+      "start_seconds": 1682.953009,
+      "end_seconds": 1686.45455,
+      "subtitle": {
+        "zh": [
+          "她眼里有谁 在乎谁",
+          "你都清楚"
+        ],
+        "py": [
+          "Tā yǎn li yǒu shéi zàihū shéi",
+          " nǐ dōu qīngchǔ"
+        ],
+        "en": [
+          "you definitely know what's going on.",
+          " You know very well",
+          " who she cares about and loves."
+        ]
+      }
+    },
+    {
+      "i": 278,
+      "start_seconds": 1688.31223,
+      "end_seconds": 1692.358775,
+      "subtitle": {
+        "zh": [
+          "看得出来",
+          "你太太暗恋你大哥"
+        ],
+        "py": [
+          "Kàn dé chūlái",
+          " nǐ tàitài ànliàn nǐ dàgē"
+        ],
+        "en": [
+          "I can see that,",
+          " your wife has a crush on your big brother."
+        ]
+      }
+    },
+    {
+      "i": 279,
+      "start_seconds": 1692.834757,
+      "end_seconds": 1693.952285,
+      "subtitle": {
+        "zh": [
+          "我不是长子"
+        ],
+        "py": [
+          "Wǒ bùshì zhǎngzǐ"
+        ],
+        "en": [
+          "I am not the eldest son"
+        ]
+      }
+    },
+    {
+      "i": 280,
+      "start_seconds": 1694.37934,
+      "end_seconds": 1697.878517,
+      "subtitle": {
+        "zh": [
+          "只有我妈为我撑腰",
+          "她让我娶谁",
+          "我只能照办"
+        ],
+        "py": [
+          "Zhǐyǒu wǒ mā wèi wǒ chēngyāo",
+          " tā ràng wǒ qǔ shéi",
+          " wǒ zhǐ néng zhàobàn"
+        ],
+        "en": [
+          "and I only have my mother's support.",
+          " Thus I can only accept",
+          " who she tells me to marry."
+        ]
+      }
+    },
+    {
+      "i": 281,
+      "start_seconds": 1700.8465829999996,
+      "end_seconds": 1704.661491,
+      "subtitle": {
+        "zh": [
+          "是",
+          "我对不起你"
+        ],
+        "py": [
+          "Shì",
+          " wǒ duìbùqǐ nǐ"
+        ],
+        "en": [
+          "Yes.",
+          " I owe you more than an apology."
+        ]
+      }
+    },
+    {
+      "i": 282,
+      "start_seconds": 1708.708142,
+      "end_seconds": 1712.785326,
+      "subtitle": {
+        "zh": [
+          "结了婚",
+          "就和人家好好过"
+        ],
+        "py": [
+          "Jiéle hūn",
+          " jiù hé rénjiā hǎohǎoguò"
+        ],
+        "en": [
+          "You are a married man.",
+          " Act like one, please."
+        ]
+      }
+    },
+    {
+      "i": 283,
+      "start_seconds": 1778.095552,
+      "end_seconds": 1780.301664,
+      "subtitle": {
+        "zh": [
+          "这么晚了",
+          "还不去休息啊"
+        ],
+        "py": [
+          "Zhème wǎnle",
+          " hái bù qù xiūxí a"
+        ],
+        "en": [
+          "It's already late,",
+          " why aren't you in bed?"
+        ]
+      }
+    },
+    {
+      "i": 284,
+      "start_seconds": 1781.92346,
+      "end_seconds": 1783.842789,
+      "subtitle": {
+        "zh": [
+          "这个你写的"
+        ],
+        "py": [
+          "Zhège nǐ xiě de"
+        ],
+        "en": [
+          "Did you write this?"
+        ]
+      }
+    },
+    {
+      "i": 285,
+      "start_seconds": 1785.900849,
+      "end_seconds": 1787.598039,
+      "subtitle": {
+        "zh": [
+          "我之前没事的时候写的"
+        ],
+        "py": [
+          "Wǒ zhīqián méishì de shíhòu xiě de"
+        ],
+        "en": [
+          "I wrote it when I was bored."
+        ]
+      }
+    },
+    {
+      "i": 286,
+      "start_seconds": 1789.3247109999998,
+      "end_seconds": 1790.919825,
+      "subtitle": {
+        "zh": [
+          "你读过"
+        ],
+        "py": [
+          "Nǐ dúguò"
+        ],
+        "en": [
+          "Have you read it?"
+        ]
+      }
+    },
+    {
+      "i": 287,
+      "start_seconds": 1792.244072,
+      "end_seconds": 1793.093327,
+      "subtitle": {
+        "zh": [
+          "全篇都读过"
+        ],
+        "py": [
+          "Quán piān dōu dúguò"
+        ],
+        "en": [
+          "The whole passage."
+        ]
+      }
+    },
+    {
+      "i": 288,
+      "start_seconds": 1792.244072,
+      "end_seconds": 1793.093327,
+      "subtitle": {
+        "zh": [
+          "全篇都读过"
+        ],
+        "py": [
+          "Quán piān dōu dúguò"
+        ],
+        "en": [
+          "The whole passage."
+        ]
+      }
+    },
+    {
+      "i": 289,
+      "start_seconds": 1793.6612,
+      "end_seconds": 1794.928037,
+      "subtitle": {
+        "zh": [
+          "上林赋"
+        ],
+        "py": [
+          "Shàng lín fù"
+        ],
+        "en": [
+          "The rhapsody Shanglin fu."
+        ]
+      }
+    },
+    {
+      "i": 290,
+      "start_seconds": 1796.7202889999999,
+      "end_seconds": 1798.703303,
+      "subtitle": {
+        "zh": [
+          "这个送给我好不好"
+        ],
+        "py": [
+          "Zhège sòng gěi wǒ hǎobù hǎo"
+        ],
+        "en": [
+          "Can you give this to me?"
+        ]
+      }
+    },
+    {
+      "i": 291,
+      "start_seconds": 1800.06612,
+      "end_seconds": 1800.813755,
+      "subtitle": {
+        "zh": [
+          "你如果喜欢的话"
+        ],
+        "py": [
+          "Nǐ rúguǒ xǐhuān dehuà"
+        ],
+        "en": [
+          "If you like it,"
+        ]
+      }
+    },
+    {
+      "i": 292,
+      "start_seconds": 1801.173289,
+      "end_seconds": 1802.3886479999999,
+      "subtitle": {
+        "zh": [
+          "我再认真给你写一份吧"
+        ],
+        "py": [
+          "Wǒ zài rènzhēn gěi nǐ xiě yī fèn ba"
+        ],
+        "en": [
+          "I could put in more effort to write another one."
+        ]
+      }
+    },
+    {
+      "i": 293,
+      "start_seconds": 1802.802888,
+      "end_seconds": 1804.271099,
+      "subtitle": {
+        "zh": [
+          "这都我之前随便写的"
+        ],
+        "py": [
+          "Zhè dōu wǒ zhīqián suíbiàn xiě de"
+        ],
+        "en": [
+          "I scribbled this down previously."
+        ]
+      }
+    },
+    {
+      "i": 294,
+      "start_seconds": 1804.2687979999998,
+      "end_seconds": 1806.232827,
+      "subtitle": {
+        "zh": [
+          "这都我之前随便写的",
+          "不用了 我就要这个"
+        ],
+        "py": [
+          "Zhè dōu wǒ zhīqián suíbiàn xiě de",
+          " bùyòngle wǒ jiù yào zhège"
+        ],
+        "en": [
+          "I scribbled this down previously.",
+          " No, I'll take this."
+        ]
+      }
+    },
+    {
+      "i": 295,
+      "start_seconds": 1860.869017,
+      "end_seconds": 1862.117415,
+      "subtitle": {
+        "zh": [
+          "怎么了"
+        ],
+        "py": [
+          "Zěnmeliǎo"
+        ],
+        "en": [
+          "What's up?"
+        ]
+      }
+    },
+    {
+      "i": 296,
+      "start_seconds": 1863.0989719999998,
+      "end_seconds": 1865.054584,
+      "subtitle": {
+        "zh": [
+          "以前你往返",
+          "镇江和上海啊"
+        ],
+        "py": [
+          "Yǐqián nǐ wǎngfǎn",
+          " zhènjiāng hé shànghǎi a"
+        ],
+        "en": [
+          "In the past, you would never waste a minute",
+          " when you travelled"
+        ]
+      }
+    },
+    {
+      "i": 297,
+      "start_seconds": 1865.505584,
+      "end_seconds": 1867.612042,
+      "subtitle": {
+        "zh": [
+          "从不会浪费一分钟时间"
+        ],
+        "py": [
+          "Cóng bù huì làngfèi yī fēnzhōng shíjiān"
+        ],
+        "en": [
+          "between Zhenjiang and Shanghai."
+        ]
+      }
+    },
+    {
+      "i": 298,
+      "start_seconds": 1867.9690469999998,
+      "end_seconds": 1870.170676,
+      "subtitle": {
+        "zh": [
+          "不是看书啊",
+          "就是看期刊"
+        ],
+        "py": [
+          "Bùshì kànshū a",
+          " jiùshì kàn qíkān"
+        ],
+        "en": [
+          "You would either read a book,",
+          " or a magazine."
+        ]
+      }
+    },
+    {
+      "i": 299,
+      "start_seconds": 1872.9521399999999,
+      "end_seconds": 1874.770038,
+      "subtitle": {
+        "zh": [
+          "这是第一次走神"
+        ],
+        "py": [
+          "Zhè shì dì yī cì zǒushén"
+        ],
+        "en": [
+          "This is the first time I see you zoning out."
+        ]
+      }
+    },
+    {
+      "i": 300,
+      "start_seconds": 1874.76464,
+      "end_seconds": 1877.266866,
+      "subtitle": {
+        "zh": [
+          "为了一个女孩子走神"
+        ],
+        "py": [
+          "Wèile yīgè nǚ háizi zǒushén"
+        ],
+        "en": [
+          "Zoning out for a girl too."
+        ]
+      }
+    },
+    {
+      "i": 301,
+      "start_seconds": 1900.470087,
+      "end_seconds": 1904.0341,
+      "subtitle": {
+        "zh": [
+          "订婚准备请柬",
+          "真是有心了"
+        ],
+        "py": [
+          "Dìnghūn zhǔnbèi qǐngjiǎn",
+          " zhēnshi yǒuxīnle"
+        ],
+        "en": [
+          "You've put in effort",
+          " in designing the invitation letters."
+        ]
+      }
+    },
+    {
+      "i": 302,
+      "start_seconds": 1905.9304929999998,
+      "end_seconds": 1909.3316779999998,
+      "subtitle": {
+        "zh": [
+          "字不错",
+          "他写的"
+        ],
+        "py": [
+          "Zì bùcuò",
+          " tā xiě de"
+        ],
+        "en": [
+          "The handwriting looks great.",
+          " He wrote it."
+        ]
+      }
+    },
+    {
+      "i": 303,
+      "start_seconds": 1910.40681,
+      "end_seconds": 1912.252848,
+      "subtitle": {
+        "zh": [
+          "订婚宴定在下周六"
+        ],
+        "py": [
+          "Dìng hūnyàn dìng zàixià zhōu liù"
+        ],
+        "en": [
+          "The engagement banquet is on next Saturday."
+        ]
+      }
+    },
+    {
+      "i": 304,
+      "start_seconds": 1912.422462,
+      "end_seconds": 1914.60025,
+      "subtitle": {
+        "zh": [
+          "我问时宜要",
+          "女方亲属的名单"
+        ],
+        "py": [
+          "Wǒ wèn shíyí yào",
+          " nǚfāng qīnshǔ de míngdān"
+        ],
+        "en": [
+          "When I asked Shi Yi",
+          " to give me a list of her relatives she wants to invite,"
+        ]
+      }
+    },
+    {
+      "i": 305,
+      "start_seconds": 1914.9839,
+      "end_seconds": 1917.852206,
+      "subtitle": {
+        "zh": [
+          "她说只需要叔叔阿姨",
+          "两位到现场就可以了"
+        ],
+        "py": [
+          "Tā shuō zhǐ xūyào shūshu āyí",
+          " liǎng wèi dào xiànchǎng jiù kěyǐle"
+        ],
+        "en": [
+          "she said she's fine",
+          " as long as you two are present."
+        ]
+      }
+    },
+    {
+      "i": 306,
+      "start_seconds": 1919.261662,
+      "end_seconds": 1921.460771,
+      "subtitle": {
+        "zh": [
+          "别人家都只办",
+          "结婚的宴席"
+        ],
+        "py": [
+          "Biérénjiā dōu zhǐ bàn",
+          " jiéhūn de yànxí"
+        ],
+        "en": [
+          "Other families",
+          " only hold a wedding banquet."
+        ]
+      }
+    },
+    {
+      "i": 307,
+      "start_seconds": 1921.653441,
+      "end_seconds": 1923.567091,
+      "subtitle": {
+        "zh": [
+          "结婚的宴席",
+          "都要登记下来",
+          "以后要回礼"
+        ],
+        "py": [
+          "Jiéhūn de yànxí",
+          " dōu yào dēngjì xiàlái",
+          " yǐhòu yào huílǐ"
+        ],
+        "en": [
+          "only hold a wedding banquet.",
+          " And their present will be recorded",
+          " so they can return a gift in the future."
+        ]
+      }
+    },
+    {
+      "i": 308,
+      "start_seconds": 1923.776117,
+      "end_seconds": 1926.64537,
+      "subtitle": {
+        "zh": [
+          "如果我们连订婚宴",
+          "都要请亲戚朋友的话"
+        ],
+        "py": [
+          "Rúguǒ wǒmen lián dìng hūnyàn",
+          " dōu yào qǐng qīnqī péngyǒu dehuà"
+        ],
+        "en": [
+          "If we ask our friends and relatives",
+          " to come to our engagement banquet."
+        ]
+      }
+    },
+    {
+      "i": 309,
+      "start_seconds": 1926.63621,
+      "end_seconds": 1928.021057,
+      "subtitle": {
+        "zh": [
+          "都要请亲戚朋友的话",
+          "人家带不带礼物啊"
+        ],
+        "py": [
+          "Dōu yào qǐng qīnqī péngyǒu dehuà",
+          " rénjiā dài bù dài lǐwù a"
+        ],
+        "en": [
+          "to come to our engagement banquet.",
+          " Do they need to bring gifts?"
+        ]
+      }
+    },
+    {
+      "i": 310,
+      "start_seconds": 1928.753991,
+      "end_seconds": 1932.018879,
+      "subtitle": {
+        "zh": [
+          "不带吧",
+          "人家不好意思",
+          "带了我不好意思"
+        ],
+        "py": [
+          "Bù dài ba",
+          " rén jiā bù hǎoyìsi",
+          " dàile wǒ bù hǎoyìsi"
+        ],
+        "en": [
+          "If not,",
+          " they won't feel right.",
+          " If they do, then I would feel embarrassed."
+        ]
+      }
+    },
+    {
+      "i": 311,
+      "start_seconds": 1933.420749,
+      "end_seconds": 1937.069958,
+      "subtitle": {
+        "zh": [
+          "我们家时宜啊",
+          "原来是一点都不懂",
+          "什么人情世故的啊"
+        ],
+        "py": [
+          "Wǒmen jiā shíyí a",
+          " yuánlái shì yīdiǎn dōu bù dǒng",
+          " shénme rénqíngshìgù de a"
+        ],
+        "en": [
+          "My daughter Shi Yi",
+          " never cared about",
+          " these social conventions in the past."
+        ]
+      }
+    },
+    {
+      "i": 312,
+      "start_seconds": 1937.25902,
+      "end_seconds": 1939.893449,
+      "subtitle": {
+        "zh": [
+          "遇到你以后啊",
+          "变了"
+        ],
+        "py": [
+          "Yù dào nǐ yǐhòu a",
+          " biànle"
+        ],
+        "en": [
+          "these social conventions in the past.",
+          " But she changed a lot",
+          " after she met you."
+        ]
+      }
+    },
+    {
+      "i": 313,
+      "start_seconds": 1940.712505,
+      "end_seconds": 1943.06554,
+      "subtitle": {
+        "zh": [
+          "和他无关",
+          "是我的想法"
+        ],
+        "py": [
+          "Hé tā wúguān",
+          " shì wǒ de xiǎngfǎ"
+        ],
+        "en": [
+          "It has nothing to do with him.",
+          " It's my opinion."
+        ]
+      }
+    },
+    {
+      "i": 314,
+      "start_seconds": 1944.1370689999999,
+      "end_seconds": 1945.69692,
+      "subtitle": {
+        "zh": [
+          "周家会准备回礼的"
+        ],
+        "py": [
+          "Zhōujiāhuì zhǔnbèi huílǐ de"
+        ],
+        "en": [
+          "My family will definitely send gifts in return."
+        ]
+      }
+    },
+    {
+      "i": 315,
+      "start_seconds": 1945.826848,
+      "end_seconds": 1949.2451019999999,
+      "subtitle": {
+        "zh": [
+          "比起来宾送的那些",
+          "价值只会多 不会少"
+        ],
+        "py": [
+          "Bǐ qǐlái bīn sòng dì nàxiē",
+          " jiàzhí zhǐ huì duō bù huì shǎo"
+        ],
+        "en": [
+          "The gifts we return",
+          " will surely be of higher value."
+        ]
+      }
+    },
+    {
+      "i": 316,
+      "start_seconds": 1949.703166,
+      "end_seconds": 1951.787246,
+      "subtitle": {
+        "zh": [
+          "所以大家就不用担心了"
+        ],
+        "py": [
+          "Suǒyǐ dàjiā jiù bùyòng dānxīnle"
+        ],
+        "en": [
+          "So, please don't be too concerned."
+        ]
+      }
+    },
+    {
+      "i": 317,
+      "start_seconds": 1952.512888,
+      "end_seconds": 1953.354943,
+      "subtitle": {
+        "zh": [
+          "还是算了吧"
+        ],
+        "py": [
+          "Háishì suànle ba"
+        ],
+        "en": [
+          "Let's forget it."
+        ]
+      }
+    },
+    {
+      "i": 318,
+      "start_seconds": 1953.4535329999999,
+      "end_seconds": 1954.81809,
+      "subtitle": {
+        "zh": [
+          "我们就按照",
+          "你们家的习惯"
+        ],
+        "py": [
+          "Wǒmen jiù ànzhào",
+          " nǐmen jiā de xíguàn"
+        ],
+        "en": [
+          "Let's stick to",
+          " your family tradition."
+        ]
+      }
+    },
+    {
+      "i": 319,
+      "start_seconds": 1955.069226,
+      "end_seconds": 1955.802516,
+      "subtitle": {
+        "zh": [
+          "走一遍过场就好"
+        ],
+        "py": [
+          "Zǒu yībiàn guòchǎng jiù hǎo"
+        ],
+        "en": [
+          "Let's just treat it as a formality."
+        ]
+      }
+    },
+    {
+      "i": 320,
+      "start_seconds": 1956.896814,
+      "end_seconds": 1958.195686,
+      "subtitle": {
+        "zh": [
+          "这个我同意啊"
+        ],
+        "py": [
+          "Zhège wǒ tóngyì a"
+        ],
+        "en": [
+          "I agree."
+        ]
+      }
+    },
+    {
+      "i": 321,
+      "start_seconds": 1958.75996,
+      "end_seconds": 1962.42726,
+      "subtitle": {
+        "zh": [
+          "我和时宜妈妈",
+          "作为女方的父母",
+          "那是一定要去的"
+        ],
+        "py": [
+          "Wǒ hé shíyí māmā",
+          " zuòwéi nǚfāng de fùmǔ",
+          " nà shì yīdìng yào qù de"
+        ],
+        "en": [
+          "Shi Yi's mother and I,",
+          " as parents from the girl's side,",
+          " will definitely come."
+        ]
+      }
+    },
+    {
+      "i": 322,
+      "start_seconds": 1962.924301,
+      "end_seconds": 1965.942353,
+      "subtitle": {
+        "zh": [
+          "其他亲戚嘛",
+          "就等结婚时候再去吧"
+        ],
+        "py": [
+          "Qítā qīnqī ma",
+          " jiù děng jiéhūn shíhòu zài qù ba"
+        ],
+        "en": [
+          "As for other relatives,",
+          " they can come to the wedding."
+        ]
+      }
+    },
+    {
+      "i": 323,
+      "start_seconds": 1967.216525,
+      "end_seconds": 1969.718818,
+      "subtitle": {
+        "zh": [
+          "我觉得还是得看",
+          "规模的大小吧"
+        ],
+        "py": [
+          "Wǒ juédé háishì dé kàn",
+          " guīmó de dàxiǎo ba"
+        ],
+        "en": [
+          "I think it depends",
+          " on the scale."
+        ]
+      }
+    },
+    {
+      "i": 324,
+      "start_seconds": 1969.9749749999999,
+      "end_seconds": 1971.335362,
+      "subtitle": {
+        "zh": [
+          "那如果规模大的话"
+        ],
+        "py": [
+          "Nà rúguǒ guī mú dà dehuà"
+        ],
+        "en": [
+          "If it's a grand banquet,"
+        ]
+      }
+    },
+    {
+      "i": 325,
+      "start_seconds": 1975.519487,
+      "end_seconds": 1978.719693,
+      "subtitle": {
+        "zh": [
+          "对了 小辰",
+          "你们家准备",
+          "把那个订婚宴"
+        ],
+        "py": [
+          "Duìle xiǎo chén",
+          " nǐmen jiā zhǔnbèi",
+          " bǎ nàgè dìng hūnyàn"
+        ],
+        "en": [
+          "By the way, Chen.",
+          " Where is your family going",
+          " to hold"
+        ]
+      }
+    },
+    {
+      "i": 326,
+      "start_seconds": 1979.107879,
+      "end_seconds": 1981.060058,
+      "subtitle": {
+        "zh": [
+          "在哪儿办啊",
+          "要办几桌"
+        ],
+        "py": [
+          "Zài nǎ'er bàn a",
+          " yào bàn jǐ zhuō"
+        ],
+        "en": [
+          "the engagement banquet?",
+          " And how many tables would there be?"
+        ]
+      }
+    },
+    {
+      "i": 327,
+      "start_seconds": 1982.160316,
+      "end_seconds": 1985.008723,
+      "subtitle": {
+        "zh": [
+          "目前是十六桌",
+          "不会在外面办了",
+          "就在家里办"
+        ],
+        "py": [
+          "Mùqián shì shíliù zhuō",
+          " bù huì zài wàimiàn bànle",
+          " jiù zài jiālǐ bàn"
+        ],
+        "en": [
+          "Right now, it's 16 tables.",
+          " We are not going to hold it outside.",
+          " We'll have it at home."
+        ]
+      }
+    },
+    {
+      "i": 328,
+      "start_seconds": 1987.2535,
+      "end_seconds": 1989.177718,
+      "subtitle": {
+        "zh": [
+          "他们家人有点多"
+        ],
+        "py": [
+          "Tāmen jiārén yǒudiǎn duō"
+        ],
+        "en": [
+          "They have a big family."
+        ]
+      }
+    },
+    {
+      "i": 329,
+      "start_seconds": 1989.6905439999998,
+      "end_seconds": 1993.674265,
+      "subtitle": {
+        "zh": [
+          "我们家没那么多人",
+          "也没那么多亲戚"
+        ],
+        "py": [
+          "Wǒmen jiā méi nàme duō rén",
+          " yě méi nàme duō qīnqī"
+        ],
+        "en": [
+          "There are not as many people in our family.",
+          " Nor are there as many relatives."
+        ]
+      }
+    },
+    {
+      "i": 330,
+      "start_seconds": 1993.567829,
+      "end_seconds": 1997.236702,
+      "subtitle": {
+        "zh": [
+          "那这样吧",
+          "要不咱们把那个",
+          "叔叔一家人叫上"
+        ],
+        "py": [
+          "Nà zhèyàng ba",
+          " yào bù zánmen bǎ nàgè",
+          " shūshu yījiā rén jiào shàng"
+        ],
+        "en": [
+          "How about this?",
+          " Let's say we",
+          " invite your uncle's family,"
+        ]
+      }
+    },
+    {
+      "i": 331,
+      "start_seconds": 1997.566229,
+      "end_seconds": 2000.286191,
+      "subtitle": {
+        "zh": [
+          "再叫上你爷爷奶奶",
+          "我们凑一桌",
+          "对"
+        ],
+        "py": [
+          "Zài jiào shàng nǐ yéyé nǎinai",
+          " wǒmen còu yī zhuō",
+          " duì"
+        ],
+        "en": [
+          "along with your grandma and grandpa.",
+          " So, we could sit at one table.",
+          " Yeah."
+        ]
+      }
+    },
+    {
+      "i": 332,
+      "start_seconds": 2000.349773,
+      "end_seconds": 2001.433006,
+      "subtitle": {
+        "zh": [
+          "这样不失礼吧"
+        ],
+        "py": [
+          "Zhèyàng bù shīlǐ ba"
+        ],
+        "en": [
+          "That wouldn't be disrespectful, right?"
+        ]
+      }
+    },
+    {
+      "i": 333,
+      "start_seconds": 2002.09348,
+      "end_seconds": 2003.513534,
+      "subtitle": {
+        "zh": [
+          "其实万事随你们"
+        ],
+        "py": [
+          "Qíshí wànshì suí nǐmen"
+        ],
+        "en": [
+          "It's all up to you actually."
+        ]
+      }
+    },
+    {
+      "i": 334,
+      "start_seconds": 2003.963125,
+      "end_seconds": 2005.515382,
+      "subtitle": {
+        "zh": [
+          "不用在乎",
+          "我们家这些老规矩"
+        ],
+        "py": [
+          "Bùyòng zàihū",
+          " wǒmen jiā zhèxiē lǎo guījǔ"
+        ],
+        "en": [
+          "You don't have to care about",
+          " our family traditions."
+        ]
+      }
+    },
+    {
+      "i": 335,
+      "start_seconds": 2005.87995,
+      "end_seconds": 2009.017288,
+      "subtitle": {
+        "zh": [
+          "这方面",
+          "其实我也挺头疼的"
+        ],
+        "py": [
+          "Zhè fāngmiàn",
+          " qíshí wǒ yě tǐng tóuténg de"
+        ],
+        "en": [
+          "This matter",
+          " is actually giving me a headache."
+        ]
+      }
+    },
+    {
+      "i": 336,
+      "start_seconds": 2009.8338179999998,
+      "end_seconds": 2011.477345,
+      "subtitle": {
+        "zh": [
+          "谁家没个头疼的事啊"
+        ],
+        "py": [
+          "Shéi jiā méi gè tóuténg de shì a"
+        ],
+        "en": [
+          "Well, every family gets their own problems."
+        ]
+      }
+    },
+    {
+      "i": 337,
+      "start_seconds": 2011.8208319999999,
+      "end_seconds": 2014.852854,
+      "subtitle": {
+        "zh": [
+          "我想啊",
+          "你们家可能就是",
+          "因为人多",
+          "所以事情会特别多一些"
+        ],
+        "py": [
+          "Wǒ xiǎng a",
+          " nǐmen jiā kěnéng jiùshì",
+          " yīn wéi rén duō",
+          " suǒyǐ shìqíng huì tèbié duō yīxiē"
+        ],
+        "en": [
+          "In my opinion,",
+          " it may be because",
+          " you have a lot of family members,"
+        ]
+      }
+    },
+    {
+      "i": 338,
+      "start_seconds": 2015.112438,
+      "end_seconds": 2017.074295,
+      "subtitle": {
+        "zh": [
+          "所以事情会特别多一些"
+        ],
+        "py": [
+          "Suǒyǐ shìqíng huì tèbié duō yīxiē"
+        ],
+        "en": [
+          "that's why there are a lot of things to worry about."
+        ]
+      }
+    },
+    {
+      "i": 339,
+      "start_seconds": 2017.627055,
+      "end_seconds": 2022.570226,
+      "subtitle": {
+        "zh": [
+          "老时 有你那么说话的",
+          "有说那个未来女婿家",
+          "事情多的吗",
+          "真是的"
+        ],
+        "py": [
+          "Lǎo shí yǒu nǐ nàme shuōhuà de",
+          " yǒu shuō nàgè wèilái nǚxù jiā",
+          " shìqíng duō de ma",
+          " zhēnshi de"
+        ],
+        "en": [
+          "Honey, what are you talking about?",
+          " Who would say his future son-in-law's",
+          " got too many things to worry about?",
+          " Seriously."
+        ]
+      }
+    },
+    {
+      "i": 340,
+      "start_seconds": 2023.3972549999999,
+      "end_seconds": 2024.096513,
+      "subtitle": {
+        "zh": [
+          "这不闲聊吗"
+        ],
+        "py": [
+          "Zhè bù xiánliáo ma"
+        ],
+        "en": [
+          "It's just chit-chat."
+        ]
+      }
+    },
+    {
+      "i": 341,
+      "start_seconds": 2024.776609,
+      "end_seconds": 2028.08994,
+      "subtitle": {
+        "zh": [
+          "对了 那你们聊",
+          "我 我去给你叔叔",
+          "打一电话啊"
+        ],
+        "py": [
+          "Duìle nà nǐmen liáo",
+          " wǒ wǒ qù gěi nǐ shūshu",
+          " dǎ yī diànhuà a"
+        ],
+        "en": [
+          "Right, you guys continue.",
+          " I, I will make a call",
+          " to your uncle."
+        ]
+      }
+    },
+    {
+      "i": 342,
+      "start_seconds": 2030.0925959999997,
+      "end_seconds": 2033.5679499999999,
+      "subtitle": {
+        "zh": [
+          "人和人之间的缘分哪",
+          "有时候很难说清啊"
+        ],
+        "py": [
+          "Rén hé rén zhī jiān de yuánfèn nǎ",
+          " yǒu shíhòu hěn nánshuō qīng a"
+        ],
+        "en": [
+          "The bond between each other",
+          " is sometimes hard to explain."
+        ]
+      }
+    },
+    {
+      "i": 343,
+      "start_seconds": 2034.180859,
+      "end_seconds": 2038.50088,
+      "subtitle": {
+        "zh": [
+          "你看你们都订婚了",
+          "咱们爷俩",
+          "还没好好说说话"
+        ],
+        "py": [
+          "Nǐ kàn nǐmen dōu dìnghūnle",
+          " zánmen yé liǎ",
+          " hái méi hǎohǎo shuō shuōhuà"
+        ],
+        "en": [
+          "You two are now engaged",
+          " but we two",
+          " haven't had a proper conversation"
+        ]
+      }
+    },
+    {
+      "i": 344,
+      "start_seconds": 2038.800551,
+      "end_seconds": 2040.285751,
+      "subtitle": {
+        "zh": [
+          "正常地相处过呢"
+        ],
+        "py": [
+          "Zhèngcháng de xiāngchǔguò ne"
+        ],
+        "en": [
+          "or spent some time with each other."
+        ]
+      }
+    },
+    {
+      "i": 345,
+      "start_seconds": 2042.339779,
+      "end_seconds": 2044.3710489999999,
+      "subtitle": {
+        "zh": [
+          "平时有什么爱好啊"
+        ],
+        "py": [
+          "Píngshí yǒu shé me àihào a"
+        ],
+        "en": [
+          "What hobbies do you have?"
+        ]
+      }
+    },
+    {
+      "i": 346,
+      "start_seconds": 2044.643375,
+      "end_seconds": 2048.929785,
+      "subtitle": {
+        "zh": [
+          "下棋",
+          "围棋",
+          "国际象棋"
+        ],
+        "py": [
+          "Xià qí",
+          " wéiqí",
+          " guójì xiàngqí"
+        ],
+        "en": [
+          "Playing chess.",
+          " Go?",
+          " Chess?"
+        ]
+      }
+    },
+    {
+      "i": 347,
+      "start_seconds": 2049.847309,
+      "end_seconds": 2052.538155,
+      "subtitle": {
+        "zh": [
+          "我都可以",
+          "双陆也可以"
+        ],
+        "py": [
+          "Wǒ dū kěyǐ",
+          " shuāng lù yě kěyǐ"
+        ],
+        "en": [
+          "I can play them all.",
+          " Backgammon is fine, too."
+        ]
+      }
+    },
+    {
+      "i": 348,
+      "start_seconds": 2053.279789,
+      "end_seconds": 2056.5820660000004,
+      "subtitle": {
+        "zh": [
+          "你还会双陆啊",
+          "爸 你遇到对手了"
+        ],
+        "py": [
+          "Nǐ hái huì shuāng lù a",
+          " bà nǐ yù dào duìshǒule"
+        ],
+        "en": [
+          "You know how to play Backgammon?",
+          " Dad, you've found an opponent now."
+        ]
+      }
+    },
+    {
+      "i": 349,
+      "start_seconds": 2058.0490070000005,
+      "end_seconds": 2060.9755780000005,
+      "subtitle": {
+        "zh": [
+          "下棋好啊",
+          "观棋观人"
+        ],
+        "py": [
+          "Xià qí hǎo a",
+          " guān qí guān rén"
+        ],
+        "en": [
+          "Board games are good.",
+          " How a person is, is shown by the way he plays chess."
+        ]
+      }
+    },
+    {
+      "i": 350,
+      "start_seconds": 2060.8721920000003,
+      "end_seconds": 2063.573158,
+      "subtitle": {
+        "zh": [
+          "你的为人秉性",
+          "胸襟气度"
+        ],
+        "py": [
+          "Nǐ de wéirén bǐngxìng",
+          " xiōngjīn qìdù"
+        ],
+        "en": [
+          "Your innate characters,",
+          " and even how generous you are,"
+        ]
+      }
+    },
+    {
+      "i": 351,
+      "start_seconds": 2064.114833,
+      "end_seconds": 2065.39903,
+      "subtitle": {
+        "zh": [
+          "可都在这棋盘上呢"
+        ],
+        "py": [
+          "Kě dōu zài zhè qípán shàng ne"
+        ],
+        "en": [
+          "everything is displayed on the chess board"
+        ]
+      }
+    },
+    {
+      "i": 352,
+      "start_seconds": 2065.847323,
+      "end_seconds": 2067.130344,
+      "subtitle": {
+        "zh": [
+          "逃不过我的眼睛"
+        ],
+        "py": [
+          "Táo bùguò wǒ de yǎnjīng"
+        ],
+        "en": [
+          "Nothing can hide."
+        ]
+      }
+    },
+    {
+      "i": 353,
+      "start_seconds": 2067.404874,
+      "end_seconds": 2069.772338,
+      "subtitle": {
+        "zh": [
+          "等着 咱俩下一盘"
+        ],
+        "py": [
+          "Děngzhe zán liǎ xià yī pán"
+        ],
+        "en": [
+          "Let's find time to play!"
+        ]
+      }
+    },
+    {
+      "i": 354,
+      "start_seconds": 2077.808745,
+      "end_seconds": 2079.99134,
+      "subtitle": {
+        "zh": [
+          "我爸好像挺喜欢你的"
+        ],
+        "py": [
+          "Wǒ bà hǎoxiàng tǐng xǐhuān nǐ de"
+        ],
+        "en": [
+          "My dad seems to like you very much."
+        ]
+      }
+    },
+    {
+      "i": 355,
+      "start_seconds": 2081.336925,
+      "end_seconds": 2083.901152,
+      "subtitle": {
+        "zh": [
+          "我这第一次做女婿",
+          "也没什么经验"
+        ],
+        "py": [
+          "Wǒ zhè dì yīcì zuò nǚxù",
+          " yě méi shénme jīngyàn"
+        ],
+        "en": [
+          "This is my first time being a son-in-law.",
+          " I don't have much experience."
+        ]
+      }
+    },
+    {
+      "i": 356,
+      "start_seconds": 2084.0729590000005,
+      "end_seconds": 2085.625959,
+      "subtitle": {
+        "zh": [
+          "随机应变吧"
+        ],
+        "py": [
+          "Suíjīyìngbiàn ba"
+        ],
+        "en": [
+          "I am just trying to do my best."
+        ]
+      }
+    },
+    {
+      "i": 357,
+      "start_seconds": 2086.9631650000006,
+      "end_seconds": 2088.379713,
+      "subtitle": {
+        "zh": [
+          "那你可要好好表现"
+        ],
+        "py": [
+          "Nà nǐ kě yào hǎo hào biǎoxiàn"
+        ],
+        "en": [
+          "Then you need to impress him."
+        ]
+      }
+    },
+    {
+      "i": 358,
+      "start_seconds": 2091.3801000000008,
+      "end_seconds": 2096.215032,
+      "subtitle": {
+        "zh": [
+          "你说我一会儿下棋",
+          "是赢好呢",
+          "还是输好啊"
+        ],
+        "py": [
+          "Nǐ shuō wǒ yīhuǐ'er xià qí",
+          " shì yíng hǎo ne",
+          " háishì shū hǎo a"
+        ],
+        "en": [
+          "For the game later,",
+          " is it better for me to win,",
+          " or to lose?"
+        ]
+      }
+    },
+    {
+      "i": 359,
+      "start_seconds": 2099.0215240000007,
+      "end_seconds": 2101.055821,
+      "subtitle": {
+        "zh": [
+          "你觉得呢"
+        ],
+        "py": [
+          "Nǐ juédé ne"
+        ],
+        "en": [
+          "What do you think?"
+        ]
+      }
+    },
+    {
+      "i": 360,
+      "start_seconds": 2104.084655,
+      "end_seconds": 2107.448016,
+      "subtitle": {
+        "zh": [
+          "不管赢还是输",
+          "一定要陪好"
+        ],
+        "py": [
+          "Bùguǎn yíng háishì shū",
+          " yīdìng yào péi hǎo"
+        ],
+        "en": [
+          "Whether I win or lose,",
+          " i need to be respectful and friendly."
+        ]
+      }
+    },
+    {
+      "i": 361,
+      "start_seconds": 2128.2888480000006,
+      "end_seconds": 2130.042306,
+      "subtitle": {
+        "zh": [
+          "抓紧一点啊",
+          "好的"
+        ],
+        "py": [
+          "Zhuājǐn yīdiǎn a",
+          " hǎo de"
+        ],
+        "en": [
+          "Hurry up.",
+          " Okay."
+        ]
+      }
+    },
+    {
+      "i": 362,
+      "start_seconds": 2138.688631000001,
+      "end_seconds": 2141.4338019999996,
+      "subtitle": {
+        "zh": [
+          "再进去一点",
+          "多难看"
+        ],
+        "py": [
+          "Zài jìnqù yīdiǎn",
+          " duō nàn kàn"
+        ],
+        "en": [
+          "Place it more to the inside.",
+          " How unsightly!"
+        ]
+      }
+    },
+    {
+      "i": 363,
+      "start_seconds": 2144.667229,
+      "end_seconds": 2145.4688770000002,
+      "subtitle": {
+        "zh": [
+          "我跟你说啊"
+        ],
+        "py": [
+          "Wǒ gēn nǐ shuō a"
+        ],
+        "en": [
+          "I'm warning you!"
+        ]
+      }
+    },
+    {
+      "i": 364,
+      "start_seconds": 2145.574351,
+      "end_seconds": 2149.255462,
+      "subtitle": {
+        "zh": [
+          "线一定要排好",
+          "这个月",
+          "穿高跟鞋的人特别多"
+        ],
+        "py": [
+          "Xiàn yīdìng yào pái hǎo",
+          " zhège yuè",
+          " chuān gāogēnxié de rén tèbié duō"
+        ],
+        "en": [
+          "You better do a good job at setting up the wiring.",
+          " There are many people wearing high heels",
+          " this month."
+        ]
+      }
+    },
+    {
+      "i": 365,
+      "start_seconds": 2149.569115,
+      "end_seconds": 2151.069323,
+      "subtitle": {
+        "zh": [
+          "要绊倒了人 要命了"
+        ],
+        "py": [
+          "Yào bàn dàole rén yàomìngle"
+        ],
+        "en": [
+          "this month.",
+          " It would be disastrous if someone tripped!"
+        ]
+      }
+    },
+    {
+      "i": 366,
+      "start_seconds": 2154.897294,
+      "end_seconds": 2158.5764919999992,
+      "subtitle": {
+        "zh": [
+          "穗穗",
+          "有点早啊今天",
+          "你吃饭了吗"
+        ],
+        "py": [
+          "Suì suì",
+          " yǒudiǎn zǎo a jīntiān",
+          " nǐ chīfànle ma"
+        ],
+        "en": [
+          "Sui.",
+          " You're up early.",
+          " Have you had breakfast?"
+        ]
+      }
+    },
+    {
+      "i": 367,
+      "start_seconds": 2159.25306,
+      "end_seconds": 2161.653713,
+      "subtitle": {
+        "zh": [
+          "我吃了"
+        ],
+        "py": [
+          "Wǒ chīle"
+        ],
+        "en": [
+          "I did."
+        ]
+      }
+    },
+    {
+      "i": 368,
+      "start_seconds": 2165.774004,
+      "end_seconds": 2166.939516,
+      "subtitle": {
+        "zh": [
+          "为啥不铺床单啊"
+        ],
+        "py": [
+          "Wèi shà bù pū chuángdān a"
+        ],
+        "en": [
+          "Why don't you put the sheet on?"
+        ]
+      }
+    },
+    {
+      "i": 369,
+      "start_seconds": 2167.240278,
+      "end_seconds": 2169.207441,
+      "subtitle": {
+        "zh": [
+          "明天人都来了",
+          "你这像什么话呀"
+        ],
+        "py": [
+          "Míngtiān rén dōu láile",
+          " nǐ zhè xiàng shénme huà ya"
+        ],
+        "en": [
+          "They will come tomorrow.",
+          " This is ridiculous."
+        ]
+      }
+    },
+    {
+      "i": 370,
+      "start_seconds": 2170.7767830000003,
+      "end_seconds": 2173.4440730000006,
+      "subtitle": {
+        "zh": [
+          "明天一早铺",
+          "今晚上铺了没人睡"
+        ],
+        "py": [
+          "Míngtiān yīzǎo pù",
+          " jīn wǎnshàng pùle méi rén shuì"
+        ],
+        "en": [
+          "I will do it tomorrow morning.",
+          " No one will be sleeping on it tonight."
+        ]
+      }
+    },
+    {
+      "i": 371,
+      "start_seconds": 2173.870178,
+      "end_seconds": 2175.457755,
+      "subtitle": {
+        "zh": [
+          "这不是落灰吗"
+        ],
+        "py": [
+          "Zhè bùshì luò huī ma"
+        ],
+        "en": [
+          "It will gather dust."
+        ]
+      }
+    },
+    {
+      "i": 372,
+      "start_seconds": 2177.288707,
+      "end_seconds": 2179.483156,
+      "subtitle": {
+        "zh": [
+          "不是 一晚上",
+          "能落多少灰呀"
+        ],
+        "py": [
+          "Bùshì yī wǎn shàng",
+          " néng luò duōshǎo huī ya"
+        ],
+        "en": [
+          "It's just one night.",
+          " How dusty can it be?"
+        ]
+      }
+    },
+    {
+      "i": 373,
+      "start_seconds": 2179.8075650000005,
+      "end_seconds": 2181.5811320000003,
+      "subtitle": {
+        "zh": [
+          "你就给它铺了吧"
+        ],
+        "py": [
+          "Nǐ jiù gěi tā pùle ba"
+        ],
+        "en": [
+          "How dusty can it be?",
+          " You should just put it on."
+        ]
+      }
+    },
+    {
+      "i": 374,
+      "start_seconds": 2181.838408,
+      "end_seconds": 2183.654701,
+      "subtitle": {
+        "zh": [
+          "那灰肉眼也看不见哪"
+        ],
+        "py": [
+          "Nà huī ròuyǎn yě kàn bùjiàn nǎ"
+        ],
+        "en": [
+          "They won't notice the dust anyways."
+        ]
+      }
+    },
+    {
+      "i": 375,
+      "start_seconds": 2186.6765410000007,
+      "end_seconds": 2189.474629,
+      "subtitle": {
+        "zh": [
+          "肉眼可见的",
+          "那是古墓"
+        ],
+        "py": [
+          "Ròuyǎn kějiàn de",
+          " nà shì gǔ mù"
+        ],
+        "en": [
+          "Where dust is visible to your naked eye",
+          " is called the ancient tomb."
+        ]
+      }
+    },
+    {
+      "i": 376,
+      "start_seconds": 2193.494068,
+      "end_seconds": 2197.550729,
+      "subtitle": {
+        "zh": [
+          "甜吗",
+          "甜啊",
+          "坐着累吗"
+        ],
+        "py": [
+          "Tián ma",
+          " tián a",
+          " zuòzhe lèi ma"
+        ],
+        "en": [
+          "Is it sweet?",
+          " Yeah.",
+          " Are you tired when you are sitting there?"
+        ]
+      }
+    },
+    {
+      "i": 377,
+      "start_seconds": 2200.158658,
+      "end_seconds": 2202.546706,
+      "subtitle": {
+        "zh": [
+          "不是很 很累"
+        ],
+        "py": [
+          "Bùshì hěn hěn lèi"
+        ],
+        "en": [
+          "Not...not really."
+        ]
+      }
+    },
+    {
+      "i": 378,
+      "start_seconds": 2213.6303700000008,
+      "end_seconds": 2215.7946449999995,
+      "subtitle": {
+        "zh": [
+          "坐这儿干吗呀",
+          "擦去啊"
+        ],
+        "py": [
+          "Zuò zhè'er gànma ya",
+          " cā qù a"
+        ],
+        "en": [
+          "Why are you still sitting there?",
+          " Do the cleaning!"
+        ]
+      }
+    },
+    {
+      "i": 379,
+      "start_seconds": 2228.118383000001,
+      "end_seconds": 2229.376693,
+      "subtitle": {
+        "zh": [
+          "从明天起 你记得啊"
+        ],
+        "py": [
+          "Cóng míngtiān qǐ nǐ jìdé a"
+        ],
+        "en": [
+          "From tomorrow on, remember,"
+        ]
+      }
+    },
+    {
+      "i": 380,
+      "start_seconds": 2229.7671579999997,
+      "end_seconds": 2231.233777,
+      "subtitle": {
+        "zh": [
+          "不许随便再上二楼了"
+        ],
+        "py": [
+          "Bùxǔ suíbiàn zài shàng èr lóule"
+        ],
+        "en": [
+          "you shouldn't come here without permission."
+        ]
+      }
+    },
+    {
+      "i": 381,
+      "start_seconds": 2231.9359980000004,
+      "end_seconds": 2234.470667,
+      "subtitle": {
+        "zh": [
+          "为啥呀",
+          "反正他俩不也分房睡吗"
+        ],
+        "py": [
+          "Wèi shà ya",
+          " fǎnzhèng tā liǎ bù yě fēn fáng shuì ma"
+        ],
+        "en": [
+          "Why is that?",
+          " They aren't sleeping together, right?"
+        ]
+      }
+    },
+    {
+      "i": 382,
+      "start_seconds": 2235.629059,
+      "end_seconds": 2238.5478579999995,
+      "subtitle": {
+        "zh": [
+          "你是男人吗",
+          "我是啊"
+        ],
+        "py": [
+          "Nǐ shì nánrén ma",
+          " wǒ shì a"
+        ],
+        "en": [
+          "Are you even a man?",
+          " I am."
+        ]
+      }
+    },
+    {
+      "i": 383,
+      "start_seconds": 2239.0820880000006,
+      "end_seconds": 2241.269563,
+      "subtitle": {
+        "zh": [
+          "你不是挺懂男人吗"
+        ],
+        "py": [
+          "Nǐ bùshì tǐng dǒng nánrén ma"
+        ],
+        "en": [
+          "I thought you knew men very well."
+        ]
+      }
+    },
+    {
+      "i": 384,
+      "start_seconds": 2242.988858,
+      "end_seconds": 2245.500947,
+      "subtitle": {
+        "zh": [
+          "行 可以"
+        ],
+        "py": [
+          "Xíng kěyǐ"
+        ],
+        "en": [
+          "All right, I got it."
+        ]
+      }
+    },
+    {
+      "i": 385,
+      "start_seconds": 2247.2910490000004,
+      "end_seconds": 2249.27096,
+      "subtitle": {
+        "zh": [
+          "穗姐 我还擦哪儿"
+        ],
+        "py": [
+          "Suì jiě wǒ hái cā nǎ'er"
+        ],
+        "en": [
+          "Madame Sui, where else should I clean?"
+        ]
+      }
+    },
+    {
+      "i": 386,
+      "start_seconds": 2250.2189010000006,
+      "end_seconds": 2252.8871789999994,
+      "subtitle": {
+        "zh": [
+          "全都擦了",
+          "得"
+        ],
+        "py": [
+          "Quándōu cāle",
+          " dé"
+        ],
+        "en": [
+          "The whole place.",
+          " Got it."
+        ]
+      }
+    },
+    {
+      "i": 387,
+      "start_seconds": 2268.849965,
+      "end_seconds": 2269.997666,
+      "subtitle": {
+        "zh": [
+          "还活着呢"
+        ],
+        "py": [
+          "Hái huózhe ne"
+        ],
+        "en": [
+          "Still alive?",
+          " [Lotus Fragrance Pavilion]"
+        ]
+      }
+    },
+    {
+      "i": 388,
+      "start_seconds": 2274.744864,
+      "end_seconds": 2276.559872,
+      "subtitle": {
+        "zh": [
+          "这就是长子的订婚宴"
+        ],
+        "py": [
+          "Zhè jiùshì zhǎngzǐ de dìng hūnyàn"
+        ],
+        "en": [
+          "[Lotus Fragrance Pavilion]",
+          " this is what the eldest son gets."
+        ]
+      }
+    },
+    {
+      "i": 389,
+      "start_seconds": 2277.259312,
+      "end_seconds": 2279.108808,
+      "subtitle": {
+        "zh": [
+          "比我们结婚还热闹"
+        ],
+        "py": [
+          "Bǐ wǒmen jiéhūn hái rènào"
+        ],
+        "en": [
+          "[Lotus Fragrance Pavilion]",
+          " it's even grander than our wedding."
+        ]
+      }
+    },
+    {
+      "i": 390,
+      "start_seconds": 2280.8075900000003,
+      "end_seconds": 2284.243743,
+      "subtitle": {
+        "zh": [
+          "你大哥结婚",
+          "你不该高兴吗"
+        ],
+        "py": [
+          "Nǐ dàgē jiéhūn",
+          " nǐ bù gāi gāoxìng ma"
+        ],
+        "en": [
+          "Aren't you supposed to be happy",
+          " that your big brother is getting married?"
+        ]
+      }
+    },
+    {
+      "i": 391,
+      "start_seconds": 2284.875301,
+      "end_seconds": 2287.30744,
+      "subtitle": {
+        "zh": [
+          "高兴啊",
+          "你呢"
+        ],
+        "py": [
+          "Gāoxìng a",
+          " nǐ ne"
+        ],
+        "en": [
+          "Yeah, I am.",
+          " How about you?"
+        ]
+      }
+    },
+    {
+      "i": 392,
+      "start_seconds": 2287.7343150000006,
+      "end_seconds": 2290.687427,
+      "subtitle": {
+        "zh": [
+          "作为弟妹",
+          "你不应该准备份大礼吗"
+        ],
+        "py": [
+          "Zuòwéi dìmèi",
+          " nǐ bù yìng gāi zhǔnbèi fèn dàlǐ ma"
+        ],
+        "en": [
+          "As his sister-in-law,",
+          " aren't you supposed to prepare a gift for him?"
+        ]
+      }
+    },
+    {
+      "i": 393,
+      "start_seconds": 2294.030557000001,
+      "end_seconds": 2295.948586,
+      "subtitle": {
+        "zh": [
+          "我爸妈已经准备了"
+        ],
+        "py": [
+          "Wǒ bà mā yǐjīng zhǔnbèile"
+        ],
+        "en": [
+          "My parents have done that."
+        ]
+      }
+    },
+    {
+      "i": 394,
+      "start_seconds": 2332.777196000001,
+      "end_seconds": 2333.7923890000006,
+      "subtitle": {
+        "zh": [
+          "怎么样"
+        ],
+        "py": [
+          "Zěnme yàng"
+        ],
+        "en": [
+          "How are you doing?"
+        ]
+      }
+    },
+    {
+      "i": 395,
+      "start_seconds": 2334.031583,
+      "end_seconds": 2335.879356,
+      "subtitle": {
+        "zh": [
+          "紧张不紧张"
+        ],
+        "py": [
+          "Jǐnzhāng bù jǐnzhāng"
+        ],
+        "en": [
+          "Are you nervous?"
+        ]
+      }
+    },
+    {
+      "i": 396,
+      "start_seconds": 2337.860556,
+      "end_seconds": 2338.862075,
+      "subtitle": {
+        "zh": [
+          "还可以"
+        ],
+        "py": [
+          "Hái kěyǐ"
+        ],
+        "en": [
+          "I'm all right."
+        ]
+      }
+    },
+    {
+      "i": 397,
+      "start_seconds": 2339.9855740000007,
+      "end_seconds": 2342.538908,
+      "subtitle": {
+        "zh": [
+          "不像真话啊"
+        ],
+        "py": [
+          "Bù xiàng zhēn huà a"
+        ],
+        "en": [
+          "That didn't sound honest."
+        ]
+      }
+    },
+    {
+      "i": 398,
+      "start_seconds": 2343.0138550000006,
+      "end_seconds": 2345.617066,
+      "subtitle": {
+        "zh": [
+          "主要是想到要去他们家"
+        ],
+        "py": [
+          "Zhǔyào shi xiǎngdào yào qù tāmen jiā"
+        ],
+        "en": [
+          "It's just whenever I think about going to their place,"
+        ]
+      }
+    },
+    {
+      "i": 399,
+      "start_seconds": 2345.867263,
+      "end_seconds": 2346.9661570000003,
+      "subtitle": {
+        "zh": [
+          "脑子里先出现的"
+        ],
+        "py": [
+          "Nǎozi lǐ xiān chūxiàn de"
+        ],
+        "en": [
+          "the first thing that comes to my mind"
+        ]
+      }
+    },
+    {
+      "i": 400,
+      "start_seconds": 2347.468963,
+      "end_seconds": 2349.58253,
+      "subtitle": {
+        "zh": [
+          "是他妈妈的脸",
+          "就有点害怕"
+        ],
+        "py": [
+          "Shì tā māmā de liǎn",
+          " jiù yǒudiǎn hàipà"
+        ],
+        "en": [
+          "is always his mother's face.",
+          " That's why I am a bit scared."
+        ]
+      }
+    },
+    {
+      "i": 401,
+      "start_seconds": 2352.059408,
+      "end_seconds": 2356.643331,
+      "subtitle": {
+        "zh": [
+          "婆媳关系",
+          "是亚洲文化的永恒主题"
+        ],
+        "py": [
+          "Póxí guānxì",
+          " shì yàzhōu wénhuà de yǒnghéng zhǔtí"
+        ],
+        "en": [
+          "The relationship between mother-in-laws and daughter-in-laws",
+          " has always been a topic of Asian culture."
+        ]
+      }
+    },
+    {
+      "i": 402,
+      "start_seconds": 2357.023154,
+      "end_seconds": 2359.035979,
+      "subtitle": {
+        "zh": [
+          "社会新闻常见的导火索"
+        ],
+        "py": [
+          "Shèhuì xīnwén chángjiàn de dǎo huǒ suǒ"
+        ],
+        "en": [
+          "And always the trigger that leads to domestic problems."
+        ]
+      }
+    },
+    {
+      "i": 403,
+      "start_seconds": 2359.179106,
+      "end_seconds": 2362.6470879999997,
+      "subtitle": {
+        "zh": [
+          "连我们的大美女",
+          "也不能免俗啊"
+        ],
+        "py": [
+          "Lián wǒmen de dà měinǚ",
+          " yě bùnéng miǎnsú a"
+        ],
+        "en": [
+          "Even a beauty like you",
+          " cannot run away from it."
+        ]
+      }
+    },
+    {
+      "i": 404,
+      "start_seconds": 2363.2073940000005,
+      "end_seconds": 2365.603452,
+      "subtitle": {
+        "zh": [
+          "不灭火就算了",
+          "还添油加醋"
+        ],
+        "py": [
+          "Bù mièhuǒ jiùsuànle",
+          " hái tiānyóujiācù"
+        ],
+        "en": [
+          "Why don't you help me figure it out",
+          " instead of making it even worse?"
+        ]
+      }
+    },
+    {
+      "i": 405,
+      "start_seconds": 2369.2087670000005,
+      "end_seconds": 2376.7598349999994,
+      "subtitle": {
+        "zh": [
+          "不过",
+          "你们以后住上海",
+          "他妈妈在镇江",
+          "一个月见一次差不多了",
+          "不怕"
+        ],
+        "py": [
+          "Bùguò",
+          " nǐmen yǐhòu zhù shànghǎi",
+          " tā māmā zài zhènjiāng",
+          " yīgè yuè jiàn yī cì chàbùduōle",
+          " bùpà"
+        ],
+        "en": [
+          "However,",
+          " you will live in Shanghai in the future",
+          " and his mother will live in Zhenjiang.",
+          " Which means you will only see her, once a month.",
+          " Don't be afraid."
+        ]
+      }
+    },
+    {
+      "i": 406,
+      "start_seconds": 2369.656481,
+      "end_seconds": 2371.936902,
+      "subtitle": {
+        "zh": [
+          "不过",
+          "你们以后住上海"
+        ],
+        "py": [
+          "Bùguò",
+          " nǐmen yǐhòu zhù shànghǎi"
+        ],
+        "en": [
+          "However,",
+          " you will live in Shanghai in the future"
+        ]
+      }
+    },
+    {
+      "i": 407,
+      "start_seconds": 2372.133574,
+      "end_seconds": 2373.629267,
+      "subtitle": {
+        "zh": [
+          "他妈妈在镇江"
+        ],
+        "py": [
+          "Tā māmā zài zhènjiāng"
+        ],
+        "en": [
+          "and his mother will live in Zhenjiang."
+        ]
+      }
+    },
+    {
+      "i": 408,
+      "start_seconds": 2374.024668000001,
+      "end_seconds": 2376.3560349999993,
+      "subtitle": {
+        "zh": [
+          "一个月见一次差不多了",
+          "不怕"
+        ],
+        "py": [
+          "Yīgè yuè jiàn yī cì chàbùduōle",
+          " bùpà"
+        ],
+        "en": [
+          "Which means you will only see her, once a month.",
+          " Don't be afraid."
+        ]
+      }
+    },
+    {
+      "i": 409,
+      "start_seconds": 2377.4632260000008,
+      "end_seconds": 2378.997056,
+      "subtitle": {
+        "zh": [
+          "有道理"
+        ],
+        "py": [
+          "Yǒu dàolǐ"
+        ],
+        "en": [
+          "You've got a point."
+        ]
+      }
+    },
+    {
+      "i": 410,
+      "start_seconds": 2380.473121000001,
+      "end_seconds": 2383.104242,
+      "subtitle": {
+        "zh": [
+          "其实我最紧张的是"
+        ],
+        "py": [
+          "Qíshí wǒ zuì jǐnzhāng de shì"
+        ],
+        "en": [
+          "Actually, what I am most nervous about"
+        ]
+      }
+    },
+    {
+      "i": 411,
+      "start_seconds": 2383.501055,
+      "end_seconds": 2385.899808,
+      "subtitle": {
+        "zh": [
+          "我马上就要和他",
+          "住一起了"
+        ],
+        "py": [
+          "Wǒ mǎshàng jiù yào hé tā",
+          " zhù yīqǐle"
+        ],
+        "en": [
+          "is that I am going to",
+          " move in with him soon."
+        ]
+      }
+    },
+    {
+      "i": 412,
+      "start_seconds": 2386.655042,
+      "end_seconds": 2391.116651999998,
+      "subtitle": {
+        "zh": [
+          "马上",
+          "明晚",
+          "你们懂吗",
+          "懂呀"
+        ],
+        "py": [
+          "Mǎshàng",
+          " míng wǎn",
+          " nǐmen dǒng ma",
+          " dǒng ya"
+        ],
+        "en": [
+          "Soon.",
+          " Tomorrow night.",
+          " You girls feel me?",
+          " Totally!"
+        ]
+      }
+    },
+    {
+      "i": 413,
+      "start_seconds": 2391.824735,
+      "end_seconds": 2394.910767,
+      "subtitle": {
+        "zh": [
+          "所以我特地赶过来陪你",
+          "给你壮壮胆"
+        ],
+        "py": [
+          "Suǒyǐ wǒ tèdì gǎn guòlái péi nǐ",
+          " gěi nǐ zhuàng zhuàngdǎn"
+        ],
+        "en": [
+          "That's why I came here",
+          " to give you some encouragement."
+        ]
+      }
+    },
+    {
+      "i": 414,
+      "start_seconds": 2396.206371,
+      "end_seconds": 2401.1543369999995,
+      "subtitle": {
+        "zh": [
+          "同住这种事",
+          "伸头一刀 缩头一刀",
+          "躲不掉的"
+        ],
+        "py": [
+          "Tóng zhù zhè zhǒng shì",
+          " shēn tóu yīdāo suō tóu yīdāo",
+          " duǒ bù diào de"
+        ],
+        "en": [
+          "Matters like this.",
+          " Do it or not,",
+          " you will need to face it eventually."
+        ]
+      }
+    },
+    {
+      "i": 415,
+      "start_seconds": 2401.9655310000007,
+      "end_seconds": 2405.800303,
+      "subtitle": {
+        "zh": [
+          "没想躲",
+          "我们又不是地下情",
+          "有什么好躲的"
+        ],
+        "py": [
+          "Méi xiǎng duǒ",
+          " wǒmen yòu bùshì dìxià qíng",
+          " yǒu shé me hǎo duǒ de"
+        ],
+        "en": [
+          "I am not trying to avoid it.",
+          " We are not having an affair.",
+          " Why should I hide!"
+        ]
+      }
+    },
+    {
+      "i": 416,
+      "start_seconds": 2407.489132,
+      "end_seconds": 2410.296296999999,
+      "subtitle": {
+        "zh": [
+          "看来不是很紧张嘛",
+          "是期待"
+        ],
+        "py": [
+          "Kàn lái bu shì hěn jǐnzhāng ma",
+          " shì qídài"
+        ],
+        "en": [
+          "It seems someone is not nervous.",
+          " She's actually looking forward to it."
+        ]
+      }
+    },
+    {
+      "i": 417,
+      "start_seconds": 2410.7004620000002,
+      "end_seconds": 2412.7799340000015,
+      "subtitle": {
+        "zh": [
+          "甚至有点悸动"
+        ],
+        "py": [
+          "Shènzhì yǒudiǎn jì dòng"
+        ],
+        "en": [
+          "Even her heart is racing."
+        ]
+      }
+    },
+    {
+      "i": 418,
+      "start_seconds": 2415.2904030000004,
+      "end_seconds": 2418.571689,
+      "subtitle": {
+        "zh": [
+          "不过说老实话",
+          "你们俩到底到哪一步了"
+        ],
+        "py": [
+          "Bùguò shuō lǎoshí huà",
+          " nǐmen liǎ dàodǐ dào nǎ yībùle"
+        ],
+        "en": [
+          "But honestly,",
+          " what stage are you guys in now?"
+        ]
+      }
+    },
+    {
+      "i": 419,
+      "start_seconds": 2425.058046,
+      "end_seconds": 2428.1320849999997,
+      "subtitle": {
+        "zh": [
+          "你俩到底谁有问题啊",
+          "我觉得是周生辰有问题",
+          "那必须是周生辰"
+        ],
+        "py": [
+          "Nǐ liǎ dàodǐ shéi yǒu wèntí a",
+          " wǒ juédé shì zhōu shēngchén yǒu wèntí",
+          " nà bìxū shì zhōu shēngchén"
+        ],
+        "en": [
+          "Who's got the problem?",
+          " I think it's Zhousheng Chen.",
+          " It must be him."
+        ]
+      }
+    },
+    {
+      "i": 420,
+      "start_seconds": 2428.202447,
+      "end_seconds": 2430.697778,
+      "subtitle": {
+        "zh": [
+          "那必须是周生辰",
+          "我们家时宜",
+          "哪儿哪儿都好"
+        ],
+        "py": [
+          "Nà bìxū shì zhōu shēngchén",
+          " wǒmen jiā shíyí",
+          " nǎ'er nǎ'er dōu hǎo"
+        ],
+        "en": [
+          "It must be him.",
+          " Our dear Shi Yi",
+          " is as healthy as an ox."
+        ]
+      }
+    },
+    {
+      "i": 421,
+      "start_seconds": 2430.845469,
+      "end_seconds": 2433.743698,
+      "subtitle": {
+        "zh": [
+          "心理健康得很",
+          "别闹了"
+        ],
+        "py": [
+          "Xīnlǐ jiànkāng dé hěn",
+          " bié nàole"
+        ],
+        "en": [
+          "is as healthy as an ox.",
+          " And her mental health is great.",
+          " Stop it."
+        ]
+      }
+    },
+    {
+      "i": 422,
+      "start_seconds": 2433.927723,
+      "end_seconds": 2436.353021,
+      "subtitle": {
+        "zh": [
+          "没到合适的时候"
+        ],
+        "py": [
+          "Méi dào héshì de shíhòu"
+        ],
+        "en": [
+          "It's not the right time yet."
+        ]
+      }
+    },
+    {
+      "i": 423,
+      "start_seconds": 2437.0017930000004,
+      "end_seconds": 2438.7272850000004,
+      "subtitle": {
+        "zh": [
+          "也有可能是",
+          "我们家时宜的问题"
+        ],
+        "py": [
+          "Yěyǒu kěnéng shì",
+          " wǒmen jiā shíyí de wèntí"
+        ],
+        "en": [
+          "Maybe it's",
+          " our Shi Yi who's got the problem."
+        ]
+      }
+    },
+    {
+      "i": 424,
+      "start_seconds": 2438.7635290000003,
+      "end_seconds": 2440.6667400000006,
+      "subtitle": {
+        "zh": [
+          "不能单方面地怪人家"
+        ],
+        "py": [
+          "Bùnéng dān fāngmiàn de guàirén jiā"
+        ],
+        "en": [
+          "We can't only blame the guy."
+        ]
+      }
+    },
+    {
+      "i": 425,
+      "start_seconds": 2442.6009460000005,
+      "end_seconds": 2444.63333,
+      "subtitle": {
+        "zh": [
+          "两周同住很有必要"
+        ],
+        "py": [
+          "Liǎng zhōu tóng zhù hěn yǒu bìyào"
+        ],
+        "en": [
+          "You two definitely need to stay together for two weeks."
+        ]
+      }
+    },
+    {
+      "i": 426,
+      "start_seconds": 2444.764792,
+      "end_seconds": 2448.86591,
+      "subtitle": {
+        "zh": [
+          "我跟你讲",
+          "男人",
+          "实用性最重要"
+        ],
+        "py": [
+          "Wǒ gēn nǐ jiǎng",
+          " nánrén",
+          " shíyòng xìng zuì zhòngyào"
+        ],
+        "en": [
+          "Here's a little advice.",
+          " Men",
+          " care about practicality."
+        ]
+      }
+    },
+    {
+      "i": 427,
+      "start_seconds": 2449.069209,
+      "end_seconds": 2452.832117,
+      "subtitle": {
+        "zh": [
+          "赶紧的吧 时宜",
+          "别整些虚的"
+        ],
+        "py": [
+          "Gǎnjǐn de ba shíyí",
+          " bié zhěng xiē xū de"
+        ],
+        "en": [
+          "You should take your shot, Shi Yi.",
+          " Stop fooling around."
+        ]
+      }
+    },
+    {
+      "i": 428,
+      "start_seconds": 2456.875265000001,
+      "end_seconds": 2458.5915440000003,
+      "subtitle": {
+        "zh": [
+          "二十七了还害羞啊"
+        ],
+        "py": [
+          "Èrshíqīle hái hàixiū a"
+        ],
+        "en": [
+          "You're already 27. You can't be shy about this!"
+        ]
+      }
+    },
+    {
+      "i": 429,
+      "start_seconds": 2458.686016,
+      "end_seconds": 2460.215062,
+      "subtitle": {
+        "zh": [
+          "我找装鞋的袋子"
+        ],
+        "py": [
+          "Wǒ zhǎo zhuāng xié de dàizi"
+        ],
+        "en": [
+          "I am looking for a bag to put my shoes in."
+        ]
+      }
+    },
+    {
+      "i": 430,
+      "start_seconds": 2460.5357240000008,
+      "end_seconds": 2462.816251,
+      "subtitle": {
+        "zh": [
+          "去他们家",
+          "最起码要带一双高跟鞋"
+        ],
+        "py": [
+          "Qù tāmen jiā",
+          " zuì qǐmǎ yào dài yīshuāng gāogēnxié"
+        ],
+        "en": [
+          "Staying there",
+          " i need at least a pair of high heels,"
+        ]
+      }
+    },
+    {
+      "i": 431,
+      "start_seconds": 2463.1376419999997,
+      "end_seconds": 2465.938461,
+      "subtitle": {
+        "zh": [
+          "一双平跟鞋",
+          "还有一双运动鞋吧"
+        ],
+        "py": [
+          "Yīshuāng píng gēn xié",
+          " hái yǒu yīshuāng yùndòng xié ba"
+        ],
+        "en": [
+          "a pair of flats,",
+          " and a pair of sneakers."
+        ]
+      }
+    },
+    {
+      "i": 432,
+      "start_seconds": 2466.206046,
+      "end_seconds": 2468.636417,
+      "subtitle": {
+        "zh": [
+          "对了",
+          "你们觉得要带雨鞋吗"
+        ],
+        "py": [
+          "Duìle",
+          " nǐmen juédé yào dài yǔxié ma"
+        ],
+        "en": [
+          "Oh yeah,",
+          " do you think I need to bring a pair of rain boots?"
+        ]
+      }
+    },
+    {
+      "i": 433,
+      "start_seconds": 2469.9561980000008,
+      "end_seconds": 2472.3729059999996,
+      "subtitle": {
+        "zh": [
+          "他们家不是住在",
+          "深山老林吗",
+          "要吧"
+        ],
+        "py": [
+          "Tāmen jiā bùshì zhù zài",
+          " shēnshān lǎolín ma",
+          " yào ba"
+        ],
+        "en": [
+          "They live",
+          " deep in the mountains, right?",
+          " I guess you do."
+        ]
+      }
+    },
+    {
+      "i": 434,
+      "start_seconds": 2472.6735970000004,
+      "end_seconds": 2474.421954,
+      "subtitle": {
+        "zh": [
+          "万一路泥泞不好走呢"
+        ],
+        "py": [
+          "Wàn yī lù nínìng bù hǎo zǒu ne"
+        ],
+        "en": [
+          "What if you come across some muddy roads?"
+        ]
+      }
+    },
+    {
+      "i": 435,
+      "start_seconds": 2475.3095250000006,
+      "end_seconds": 2477.525681,
+      "subtitle": {
+        "zh": [
+          "他们家通公路了"
+        ],
+        "py": [
+          "Tāmen jiā tōng gōnglùle"
+        ],
+        "en": [
+          "Their home is connected to the main roads!"
+        ]
+      }
+    },
+    {
+      "i": 436,
+      "start_seconds": 2496.9602600000007,
+      "end_seconds": 2500.0426650000004,
+      "subtitle": {
+        "zh": [
+          "您回来了",
+          "那明天谁接新娘子呀"
+        ],
+        "py": [
+          "Nín huíláile",
+          " nà míngtiān shéi jiē xīnniáng zi ya"
+        ],
+        "en": [
+          "You are back.",
+          " Who's going to pick up the bride tomorrow?"
+        ]
+      }
+    },
+    {
+      "i": 437,
+      "start_seconds": 2500.3085140000007,
+      "end_seconds": 2503.671924999999,
+      "subtitle": {
+        "zh": [
+          "我不放心",
+          "回来看一眼",
+          "马上就走了"
+        ],
+        "py": [
+          "Wǒ bù fàngxīn",
+          " huílái kàn yīyǎn",
+          " mǎshàng jiù zǒule"
+        ],
+        "en": [
+          "I am a bit worried,",
+          " so I came back to have a look.",
+          " I will leave soon."
+        ]
+      }
+    },
+    {
+      "i": 438,
+      "start_seconds": 2506.8957460000006,
+      "end_seconds": 2510.129564,
+      "subtitle": {
+        "zh": [
+          "当人女孩子的面",
+          "不许叫人新娘子"
+        ],
+        "py": [
+          "Dāng rén nǚháizi de miàn",
+          " bùxǔ jiào rén xīnniáng zi"
+        ],
+        "en": [
+          "Don't address her",
+          " as the bride."
+        ]
+      }
+    },
+    {
+      "i": 439,
+      "start_seconds": 2512.0982290000006,
+      "end_seconds": 2515.067572,
+      "subtitle": {
+        "zh": [
+          "为什么呀",
+          "就因为他妈不喜欢时宜"
+        ],
+        "py": [
+          "Wèishéme ya",
+          " jiù yīnwèi tā mā bù xǐhuān shíyí"
+        ],
+        "en": [
+          "Why not?",
+          " Just because his mother doesn't like Shi Yi?"
+        ]
+      }
+    },
+    {
+      "i": 440,
+      "start_seconds": 2516.2382820000007,
+      "end_seconds": 2518.571956,
+      "subtitle": {
+        "zh": [
+          "喜欢不喜欢和我没关系"
+        ],
+        "py": [
+          "Xǐhuān bù xǐhuān hé wǒ méiguānxì"
+        ],
+        "en": [
+          "It's none of my concern whether she likes Shi Yi or not."
+        ]
+      }
+    },
+    {
+      "i": 441,
+      "start_seconds": 2518.9768730000005,
+      "end_seconds": 2522.0287820000003,
+      "subtitle": {
+        "zh": [
+          "这女孩结婚啊",
+          "要有讲究"
+        ],
+        "py": [
+          "Zhè nǚ hái jiéhūn a",
+          " yào yǒu jiǎngjiù"
+        ],
+        "en": [
+          "Marriage is a very formal thing",
+          " for a girl."
+        ]
+      }
+    },
+    {
+      "i": 442,
+      "start_seconds": 2522.218346000001,
+      "end_seconds": 2526.234348,
+      "subtitle": {
+        "zh": [
+          "得按步骤来",
+          "现在是订婚",
+          "没到婚礼呢"
+        ],
+        "py": [
+          "Dé àn bùzhòu lái",
+          " xiànzài shì dìnghūn",
+          " méi dào hūnlǐ ne"
+        ],
+        "en": [
+          "We need to follow the steps.",
+          " They are currently engaged.",
+          " It's not their wedding yet."
+        ]
+      }
+    },
+    {
+      "i": 443,
+      "start_seconds": 2526.3361950000008,
+      "end_seconds": 2529.5094299999987,
+      "subtitle": {
+        "zh": [
+          "所以不能叫新娘子"
+        ],
+        "py": [
+          "Suǒyǐ bùnéng jiào xīnniáng zi"
+        ],
+        "en": [
+          "That's why she's not a bride yet."
+        ]
+      }
+    },
+    {
+      "i": 444,
+      "start_seconds": 2529.558357,
+      "end_seconds": 2532.3232749999993,
+      "subtitle": {
+        "zh": [
+          "懂了"
+        ],
+        "py": [
+          "Dǒngle"
+        ],
+        "en": [
+          "I see."
+        ]
+      }
+    },
+    {
+      "i": 445,
+      "start_seconds": 2534.832487000001,
+      "end_seconds": 2539.121993,
+      "subtitle": {
+        "zh": [
+          "这院子",
+          "终于要有一个",
+          "真正的女主人了"
+        ],
+        "py": [
+          "Zhè yuànzi",
+          " zhōngyú yào yǒu yīgè",
+          " zhēnzhèng de nǚ zhǔrénle"
+        ],
+        "en": [
+          "This place",
+          " is finally going to have",
+          " a hostess living here."
+        ]
+      }
+    },
+    {
+      "i": 446,
+      "start_seconds": 2552.114325000001,
+      "end_seconds": 2554.191755,
+      "subtitle": {
+        "zh": [
+          "我来 我来 我来"
+        ],
+        "py": [
+          "Wǒ lái wǒ lái wǒ lái"
+        ],
+        "en": [
+          "Allow me."
+        ]
+      }
+    },
+    {
+      "i": 447,
+      "start_seconds": 2554.4540440000005,
+      "end_seconds": 2558.510932,
+      "subtitle": {
+        "zh": [
+          "林叔呢",
+          "林叔跟我哥去新房了",
+          "让我先来接你"
+        ],
+        "py": [
+          "Lín shū ne",
+          " lín shū gēn wǒ gē qù xīnfángle",
+          " ràng wǒ xiān lái jiē nǐ"
+        ],
+        "en": [
+          "Where is Uncle Lin?",
+          " Uncle Lin and Chen went to the wedding house.",
+          " They asked me to pick you up."
+        ]
+      }
+    },
+    {
+      "i": 448,
+      "start_seconds": 2558.621813,
+      "end_seconds": 2561.3504070000004,
+      "subtitle": {
+        "zh": [
+          "让我先来接你",
+          "先去录音棚是吧",
+          "对 上午有个录音"
+        ],
+        "py": [
+          "Ràng wǒ xiān lái jiē nǐ",
+          " xiān qù lùyīn péng shì ba",
+          " duì shàngwǔ yǒu gè lùyīn"
+        ],
+        "en": [
+          "They asked me to pick you up.",
+          " You need to go to the recording studio first, right?",
+          " Yeah, I have a recording session in the morning."
+        ]
+      }
+    },
+    {
+      "i": 449,
+      "start_seconds": 2561.4761800000006,
+      "end_seconds": 2564.292536000001,
+      "subtitle": {
+        "zh": [
+          "我听我叔说",
+          "你们这个录音",
+          "是每个月都有啊"
+        ],
+        "py": [
+          "Wǒ tīng wǒ shū shuō",
+          " nǐmen zhège lùyīn",
+          " shì měi gè yuè dōu yǒu a"
+        ],
+        "en": [
+          "I heard from my uncle",
+          " that you have recording sessions",
+          " every month."
+        ]
+      }
+    },
+    {
+      "i": 450,
+      "start_seconds": 2564.6181980000006,
+      "end_seconds": 2567.9012260000004,
+      "subtitle": {
+        "zh": [
+          "都是什么有名的",
+          "配音演员和电台主播",
+          "去做公益捐款啊"
+        ],
+        "py": [
+          "Dōu shì shénme yǒumíng de",
+          " pèiyīn yǎnyuán hé diàntái zhǔbō",
+          " qù zuò gōngyì juānkuǎn a"
+        ],
+        "en": [
+          "They are all about",
+          " doing charity and making donation",
+          " with some famous voice actors and radio anchors."
+        ]
+      }
+    },
+    {
+      "i": 451,
+      "start_seconds": 2568.300738,
+      "end_seconds": 2571.0173170000003,
+      "subtitle": {
+        "zh": [
+          "是啊",
+          "做了三四年了",
+          "我们就当老朋友聚会"
+        ],
+        "py": [
+          "Shì a",
+          " zuòle sānsì niánle",
+          " wǒmen jiù dāng lǎo péngyǒu jùhuì"
+        ],
+        "en": [
+          "Yeah.",
+          " We have been doing it for 3 to 4 years.",
+          " It's like a get-together for some old friends."
+        ]
+      }
+    },
+    {
+      "i": 452,
+      "start_seconds": 2571.253362,
+      "end_seconds": 2572.5009980000004,
+      "subtitle": {
+        "zh": [
+          "凑在一起玩"
+        ],
+        "py": [
+          "Còu zài yīqǐ wán"
+        ],
+        "en": [
+          "Just for fun."
+        ]
+      }
+    },
+    {
+      "i": 453,
+      "start_seconds": 2573.672026,
+      "end_seconds": 2576.4759350000004,
+      "subtitle": {
+        "zh": [
+          "但是录音怎么做公益啊"
+        ],
+        "py": [
+          "Dànshì lùyīn zěnme zuò gōngyì a"
+        ],
+        "en": [
+          "But how do you do charity with recordings?"
+        ]
+      }
+    },
+    {
+      "i": 454,
+      "start_seconds": 2577.133051,
+      "end_seconds": 2581.77396,
+      "subtitle": {
+        "zh": [
+          "我们有固定的听众群",
+          "可以做一期节目",
+          "中间插播公益广告"
+        ],
+        "py": [
+          "Wǒmen yǒu gùdìng de tīngzhòng qún",
+          " kěyǐ zuò yī qí jiémù",
+          " zhōngjiān chā bò gōngyì guǎnggào"
+        ],
+        "en": [
+          "We have a fixed number of listeners.",
+          " So we can do a program",
+          " and insert charity advertisements in between sections."
+        ]
+      }
+    },
+    {
+      "i": 455,
+      "start_seconds": 2581.882447,
+      "end_seconds": 2584.6946120000002,
+      "subtitle": {
+        "zh": [
+          "或者有时候比赛",
+          "一个人代表一个项目"
+        ],
+        "py": [
+          "Huòzhě yǒu shíhòu bǐsài",
+          " yīgè rén dàibiǎo yīgè xiàngmù"
+        ],
+        "en": [
+          "Other times we would compete with one another.",
+          " With one person representing one project."
+        ]
+      }
+    },
+    {
+      "i": 456,
+      "start_seconds": 2584.668653,
+      "end_seconds": 2588.669701,
+      "subtitle": {
+        "zh": [
+          "谁赢了",
+          "这期节目的赞助商",
+          "就会把赞助费",
+          "捐给那个项目"
+        ],
+        "py": [
+          "Shéi yíngle",
+          " zhè qī jiémù dì zànzhù shāng",
+          " jiù huì bǎ zànzhù fèi",
+          " juān gěi nàgè xiàngmù"
+        ],
+        "en": [
+          "With one person representing one project.",
+          " Whoever wins,",
+          " the sponsor of the program",
+          " will donate the",
+          " to that project."
+        ]
+      }
+    },
+    {
+      "i": 457,
+      "start_seconds": 2590.800085,
+      "end_seconds": 2592.38083,
+      "subtitle": {
+        "zh": [
+          "有技能就是好"
+        ],
+        "py": [
+          "Yǒu jìnéng jiùshì hǎo"
+        ],
+        "en": [
+          "Having skills sure is nice."
+        ]
+      }
+    },
+    {
+      "i": 458,
+      "start_seconds": 2592.677581000001,
+      "end_seconds": 2595.638842,
+      "subtitle": {
+        "zh": [
+          "做好事都能有渠道",
+          "先上车吧"
+        ],
+        "py": [
+          "Zuò hǎoshì dōu néng yǒu qúdào",
+          " xiān shàng chē ba"
+        ],
+        "en": [
+          "Even if you're only doing a good deed, there would still be people to help you. .",
+          " Hope in."
+        ]
+      }
+    }
+  ]
+}
